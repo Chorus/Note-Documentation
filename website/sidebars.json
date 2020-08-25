@@ -1,6 +1,6 @@
 {
-  "docs": {
-    "Docusaurus": ["doc1"],
+  "General": {
+    "Main Navigation": ["MainNavigation"],
     "First Category": ["doc2"],
     "Second Category": ["doc3"]
   },
