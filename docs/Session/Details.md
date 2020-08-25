@@ -17,7 +17,7 @@ In the General tab of a session you will see:
 
 In the Observations tab of a session you can record and view session data. For a direct care session, you can collect data on the day of the session. For other session types, you can enter session notes. Once your observations are noted, you can come back here at any time to view recorded session data.
 
-View session details
+## View session details
 
 1. Navigate to a session on the session list.
 2. Click on the session to view General session details.

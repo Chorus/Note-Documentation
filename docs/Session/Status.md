@@ -4,7 +4,7 @@ title: Session Status
 ---
 To help you differentiate between sessions, every session has a session status. The status icon appears for each session on the session list. You can also see the status in the General tab of the session. Sessions are color-coded to help you make sense of your schedule at a glance.
 
-**Session statuses:**
+## Session statuses
 
 - **Pending Validation** – This status indicates that your session was saved in the app and will soon be validated by the agency's server. The app will sync with your agency's database every few minutes and any new session will be validated. You may trigger a sync if you your session is stuck in this status (link).
 - **Validating** – This status indicates that your session is currently being validated by your agency. You may not even notice your session going through this status. You cannot edit scheduling details while your session is validating.
