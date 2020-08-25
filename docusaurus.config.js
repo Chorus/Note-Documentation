@@ -1,12 +1,12 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://chorus.github.io/',
+  baseUrl: 'note-documentation',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'chorus', // Usually your GitHub org/user name.
+  projectName: 'note-documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Note Documentation',
