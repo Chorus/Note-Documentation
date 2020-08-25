@@ -55,7 +55,7 @@ Simple and intuitive navigation makes NOTE easy to learn and use.
 
 NOTE's navigation system was inspired by your workflow, putting the tools you need at your fingertips just when you need it.
 
-Additional Links
+## Additional Links
 
 - View my schedule
 - View session details
