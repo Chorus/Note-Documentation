@@ -47,9 +47,9 @@ jobs:
       - name: Release to GitHub Pages
         env:
           USE_SSH: true
-          GIT_USER: git
+          GIT_USER: modhash
         run: |
-          git config --global user.email "actions@gihub.com"
+          git config --global user.email "moishehalbestam@gmail.com"
           git config --global user.name "gh-actions"
           if [ -e yarn.lock ]; then
           yarn install --frozen-lockfile
