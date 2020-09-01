@@ -1,7 +1,7 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://chorus.github.io/Note-Documentation/',
+  url: 'https://chorus.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
