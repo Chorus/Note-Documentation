@@ -1,4 +1,4 @@
-    ![documentation](https://github.com/modhash/Note-Documentation/workflows/documentation/badge.svg)
+![documentation](https://github.com/modhash/Note-Documentation/workflows/documentation/badge.svg)
 
 # Website
 
