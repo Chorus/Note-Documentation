@@ -1,22 +1,22 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://chorus.github.io/',
-  baseUrl: 'note-documentation',
+  url: 'https://your-docusaurus-test-site.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'chorus', // Usually your GitHub org/user name.
-  projectName: 'note-documentation', // Usually your repo name.
+  organizationName: 'facebook', // Usually your GitHub org/user name.
+  projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Note Documentation',
+      title: 'My Site',
       logo: {
-        alt: 'Chorus',
-        src: 'img/chorus-logo.png',
+        alt: 'My Site Logo',
+        src: 'img/logo.svg',
       },
       items: [
         {
-          to: 'docs/',
+          to: 'docs/MainNavigation',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
