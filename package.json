@@ -1,7 +1,7 @@
 {
-  "name": "note-documentation-1",
-  "version": "0.0.0",
-  "private": true,
+  "name": "note-documentation",
+  "version": "0.0.1",
+  "private": false,
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
