@@ -50,7 +50,7 @@ jobs:
           GIT_USER: modhash
         run: |
           git config --global user.email "moishehalbestam@gmail.com"
-          git config --global user.name "gh-actions"
+          git config --global user.name "modhash"
           if [ -e yarn.lock ]; then
           yarn install --frozen-lockfile
           elif [ -e package-lock.json ]; then
