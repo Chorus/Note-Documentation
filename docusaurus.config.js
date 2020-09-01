@@ -2,7 +2,7 @@ module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
   url: 'https://modhash.github.io/',
-  baseUrl: '/',
+  baseUrl: '/Note-Documentation/',
   onBrokenLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'modhash', // Usually your GitHub org/user name.

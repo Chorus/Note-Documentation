@@ -48,6 +48,8 @@ jobs:
         env:
           USE_SSH: true
           GIT_USER: modhash
+          DEPLOYMENT_BRANCH: gh-pages
+          CURRENT_BRANCH: master
         run: |
           git config --global user.email "moishehalbestam@gmail.com"
           git config --global user.name "modhash"
