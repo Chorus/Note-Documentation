@@ -2,9 +2,9 @@ name: documentation
 
 on:
   pull_request:
-    branches: [documentation]
+    branches: [master]
   push:
-    branches: [documentation]
+    branches: [gh-pages]
     
 jobs:
   checks:
@@ -51,7 +51,7 @@ jobs:
           USE_SSH: true
           GIT_USER: modhash
           DEPLOYMENT_BRANCH: gh-pages
-          
+
         run: |
           git config --global user.email "moishehalbestam@gmail.com"
           git config --global user.name "modhash"
