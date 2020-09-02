@@ -9,7 +9,7 @@ module.exports = {
   projectName: 'Documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'chorus test doc',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
