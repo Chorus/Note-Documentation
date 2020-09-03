@@ -6,7 +6,7 @@ module.exports = {
   onBrokenLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'chorus', // Usually your GitHub org/user name.
-  projectName: 'Documentation', // Usually your repo name.
+  projectName: 'Note-Documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Chorus docs',
