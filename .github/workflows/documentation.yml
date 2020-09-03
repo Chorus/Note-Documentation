@@ -4,8 +4,8 @@ on:
   pull_request:
     branches: [master]
   push:
-    branches: [gh-pages]
-    
+    branches: [master]
+
 jobs:
   checks:
     if: github.event_name != 'push'
@@ -51,7 +51,6 @@ jobs:
           USE_SSH: true
           GIT_USER: modhash
           DEPLOYMENT_BRANCH: gh-pages
-
         run: |
           git config --global user.email "moishehalbestam@gmail.com"
           git config --global user.name "modhash"
@@ -63,3 +62,4 @@ jobs:
           npm i
           fi
           npx docusaurus deploy
+          
