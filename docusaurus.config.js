@@ -1,15 +1,15 @@
 module.exports = {
   title: 'Note docs',
   tagline: 'moishe trying to do his thing',
-  url: 'https://modhash.github.io/',
-  baseUrl: '/Documentation/',
+  url: 'https://Chorus.github.io/',
+  baseUrl: '/Note-Documentation/',
   onBrokenLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'modhash', // Usually your GitHub org/user name.
+  organizationName: 'chorus', // Usually your GitHub org/user name.
   projectName: 'Documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'chorus docs',
+      title: 'Chorus docs',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
