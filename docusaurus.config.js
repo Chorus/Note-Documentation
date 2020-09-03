@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Chorus docs sample',
-  tagline: 'moishe doing his thing',
+  tagline: 'moishe trying to do his thing',
   url: 'https://modhash.github.io/',
   baseUrl: '/Documentation/',
   onBrokenLinks: 'warn',
