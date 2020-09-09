@@ -89,7 +89,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Chorus/Note-Documentation/edit/master/docs/',
+            'https://github.com/Chorus/Note-Documentation/edit/master/',
         },
         blog: {
           showReadingTime: true,
