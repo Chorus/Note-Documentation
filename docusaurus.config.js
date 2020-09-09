@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Note docs',
   tagline: 'moishe trying to do his thing',
-  url: 'https://Chorus.github.io/',
+  url: 'https://notedocs.chorus.cloud/',
   baseUrl: '/Note-Documentation/',
   onBrokenLinks: 'warn',
   favicon: 'img/favicon.ico',
