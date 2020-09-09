@@ -23,7 +23,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/modhash/Documentation',
+          href: 'https://github.com/Chorus/Note-Documentation',
           label: 'GitHub',
           position: 'right',
         },
@@ -89,7 +89,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Chorus/Note-Documentation/edit/master/website/',
+            'https://github.com/Chorus/Note-Documentation/edit/master/docs/',
         },
         blog: {
           showReadingTime: true,
