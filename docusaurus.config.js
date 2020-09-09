@@ -2,7 +2,7 @@ module.exports = {
   title: 'Note docs',
   tagline: 'moishe trying to do his thing',
   url: 'https://notedocs.chorus.cloud/',
-  baseUrl: '/Note-Documentation/',
+  baseUrl: '/',
   onBrokenLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'chorus', // Usually your GitHub org/user name.
