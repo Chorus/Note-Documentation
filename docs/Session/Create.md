@@ -5,7 +5,7 @@ title: Create Session
 
 You can manage your schedule by creating your own sessions for assignments. Your session will automatically be validated by your agency and the status will be updated based on validity.
 
-## Create a session
+## Steps
 
 1. Click on "Sessions" in the bottom navigation bar
 2. Click the "+" icon in the bottom right corner

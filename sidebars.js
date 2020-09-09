@@ -8,6 +8,19 @@ module.exports = {
       'Session/SessionStatus',
       'Session/SessionCreate',
       'Session/SchedulingGuidance',
+      'Session/EditSession',
+      'Session/CancelSession',
     ],
+    'Care Plan':[
+      'CarePlan/Structure',
+      'CarePlan/ViewCarePlan',
+      'CarePlan/ViewGoal',
+      'CarePlan/ViewTarget',
+      'CarePlan/AddGoal',
+      'CarePlan/AddTarget',
+      'CarePlan/AddBx',
+      'CarePlan/EditTarget',
+      'CarePlan/RemoveGoal',
+    ]
   },
 };
