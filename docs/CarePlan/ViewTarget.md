@@ -1,6 +1,6 @@
 ---
 id: ViewTarget
-title: View a Target
+title: View a Target in your Student's Care Plan
 ---
 
 You can open a target in the care plan to see its graph, history, and configuration.
