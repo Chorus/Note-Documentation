@@ -1,6 +1,6 @@
 ---
 id: ViewGoal
-title: View a Goal
+title: View a Goal in your Student's Care Plan
 ---
 You can open a goal in the care plan to see all targets in the goal.
 
