@@ -13,6 +13,7 @@ module.exports = {
     ],
     'Care Plan':[
       'CarePlan/Structure',
+      'CarePlan/Libraries',
       'CarePlan/ViewCarePlan',
       'CarePlan/ViewGoal',
       'CarePlan/ViewTarget',
