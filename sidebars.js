@@ -17,6 +17,8 @@ module.exports = {
       'CarePlan/ViewCarePlan',
       'CarePlan/ViewGoal',
       'CarePlan/ViewTarget',
+      'CarePlan/TargetLifecycle',
+      'CarePlan/TargetConfiguration',
       'CarePlan/AddGoal',
       'CarePlan/AddTarget',
       'CarePlan/AddBx',
