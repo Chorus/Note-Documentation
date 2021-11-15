@@ -5,42 +5,41 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
-import ReactPlayer from 'react-player';
 
 const features = [
-  // {
-  //   title: <>Easy to Use</>,
-  //   description: (
-  //     <>
-  //       Docusaurus was designed from the ground up to be easily installed and
-  //       used to get your website up and running quickly.
-  //     </>
-  //   ),
-  //   //videoUrl: "https://youtu.be/7_cahEILtHc?list=PLImUFlsji0fqyEYMXlbV0rb78Ssd6rKIb"
-  // },
-  // {
-  //   title: <>Focus on What Matters</>,
-  //   description: (
-  //     <>
-  //       Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-  //       ahead and move your docs into the <code>docs</code> directory.
-  //     </>
-  //   ),
-  //   //videoUrl: "https://youtu.be/yKNxeF4KMsY"
-  // },
-  // {
-  //   title: <>Powered by React</>,
-  //   description: (
-  //     <>
-  //       Extend or customize your website layout by reusing React. Docusaurus can
-  //       be extended while reusing the same header and footer.
-  //     </>
-  //   ),
-  //   //videoUrl: "https://youtu.be/yKNxeF4KMsY"
-  // },
+  {
+    title: <>Easy to Use</>,
+    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    description: (
+      <>
+        Docusaurus was designed from the ground up to be easily installed and
+        used to get your website up and running quickly.
+      </>
+    ),
+  },
+  {
+    title: <>Focus on What Matters</>,
+    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    description: (
+      <>
+        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
+        ahead and move your docs into the <code>docs</code> directory.
+      </>
+    ),
+  },
+  {
+    title: <>Powered by React</>,
+    imageUrl: 'img/undraw_docusaurus_react.svg',
+    description: (
+      <>
+        Extend or customize your website layout by reusing React. Docusaurus can
+        be extended while reusing the same header and footer.
+      </>
+    ),
+  },
 ];
 
-function Feature({imageUrl, title, description, videoUrl}) {
+function Feature({imageUrl, title, description}) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={clsx('col col--4', styles.feature)}>
@@ -51,9 +50,6 @@ function Feature({imageUrl, title, description, videoUrl}) {
       )}
       <h3>{title}</h3>
       <p>{description}</p>
-      <div>
-        <ReactPlayer height='640px' width='360px' controls='1' url={videoUrl}/>
-      </div>
     </div>
   );
 }
