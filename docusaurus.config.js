@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Note Documentation',
-  tagline: 'Your digital care companion',
+  title: 'Note docs',
+  tagline: 'moishe trying to do his thing',
   url: 'https://notedocs.chorus.cloud/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Chorus Software Solutions', // Usually your GitHub org/user name.
+  organizationName: 'chorus', // Usually your GitHub org/user name.
   projectName: 'Note-Documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Chorus Documentation',
+      title: 'Chorus docs',
       logo: {
-        alt: 'Chorus Logo',
+        alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -21,7 +21,7 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-       // {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/Chorus/Note-Documentation',
           label: 'GitHub',
