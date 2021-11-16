@@ -5,7 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';``
-// import ReactPlayer from 'react-player';
+import ReactPlayer from 'react-player';
 
 const features = [
   // {
@@ -51,9 +51,9 @@ function Feature({imageUrl, title, description, videoUrl}) {
       )}
       <h3>{title}</h3>
       <p>{description}</p>
-      {/* <div>
+      <div>
         <ReactPlayer height='640px' width='360px' controls='1' url={videoUrl}/>
-      </div> */}
+      </div>
     </div>
   );
 }
