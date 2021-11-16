@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Chorus Software Solutions', // Usually your GitHub org/user name.
+  organizationName: 'Chorus', // Usually your GitHub org/user name.
   projectName: 'Note-Documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
