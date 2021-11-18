@@ -1,5 +1,5 @@
 ---
-id: BCBAFAQs
+id: BCBAFAQS
 title: BCBA FAQs
 ------
 
