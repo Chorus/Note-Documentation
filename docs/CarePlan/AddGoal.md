@@ -16,4 +16,3 @@ Add Goals to a care plan:
 7. Click "Add"
 
 The new goal will appear in the future tab of the student's care plan. Once a goal is in the care plan, you can add targets (link).
-Test
