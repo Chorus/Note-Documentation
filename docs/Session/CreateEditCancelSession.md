@@ -25,7 +25,7 @@ Your session is saved and will be validated by your agency. The session status w
 
 3. Make the change(s) 
 
-4. Click OK to save the session 
+4. Click OK to save
 
 
 All changes are saved and the updated session will be validated by your agency. 
