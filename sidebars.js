@@ -7,14 +7,8 @@ module.exports = {
       'Session/CreateEditCancelSession',
       'Session/DataCollection',
       'Session/EditSession',
-      'Session/PaperDataCollection',
-      {
-        'Data Collection': [
-          'Session/DataCollection/DataCollectionTargetList',
-          'Session/DataCollection/DataCollectionTargetCard',
-          'Session/DataCollection/EditDataAfterSession'
-        ]
-      }
+      'Session/PaperDataCollection'
+     
     ],
     'Care Plan':[
       'CarePlan/Structure',
