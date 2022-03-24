@@ -3,13 +3,18 @@ module.exports = {
     'Getting Started': ['MainNavigation'],
     Sessions: [
       'Session/Sessions', 
-      'Session/FilterSessionsList', 
-      'Session/SessionDetails',
-      'Session/SessionStatus',
-      'Session/SessionCreate',
-      'Session/SchedulingGuidance',
+      'Session/SessionStatuses',
+      'Session/CreateEditCancelSession',
+      'Session/DataCollection',
       'Session/EditSession',
-      'Session/CancelSession',
+      'Session/PaperDataCollection',
+      {
+        'Data Collection': [
+          'Session/DataCollection/DataCollectionTargetList',
+          'Session/DataCollection/DataCollectionTargetCard',
+          'Session/DataCollection/EditDataAfterSession'
+        ]
+      }
     ],
     'Care Plan':[
       'CarePlan/Structure',
