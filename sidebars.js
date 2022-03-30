@@ -5,7 +5,6 @@ module.exports = {
       'Session/Sessions', 
       'Session/SessionStatuses',
       'Session/CreateEditCancelSession',
-      'Session/DataCollection',
       'Session/EditSession',
       'Session/PaperDataCollection'
     ],
