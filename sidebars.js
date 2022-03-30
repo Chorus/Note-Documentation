@@ -23,6 +23,9 @@ module.exports = {
       'CarePlan/AddBx',
       'CarePlan/EditTarget',
       'CarePlan/RemoveGoal',
+    ],
+    'FAQs':[
+      'Encore/BCBAFAQS'
     ]
   },
 };
