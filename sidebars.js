@@ -5,14 +5,12 @@ module.exports = {
       'Session/Sessions', 
       'Session/SessionStatuses',
       'Session/CreateEditCancelSession',
-      'Session/DataCollection',
       'Session/EditSession',
       'Session/PaperDataCollection'
     ],
     'Data Collection':[
-      'DataCollection/DataCollection',
-      'DataCollection/DataCollectionTargetList',
-      'DataCollection/DataCollectionTargetCard',
+      'DataCollection/DataCollectionOnTargetList',
+      'DataCollection/DataCollectionOnTargetCard',
       'DataCollection/EditDataAfterSession',
     ],
     'Care Plan':[
@@ -36,7 +34,7 @@ module.exports = {
     ],
     'Reports':[
       'Reports/Graphs',
-      'Reports/ActivtyReport',
+      'Reports/ActivityReport',
       'Reports/CareTeamManagement',
     ],
     'Settings':[
