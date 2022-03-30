@@ -10,7 +10,6 @@ module.exports = {
       'Session/PaperDataCollection'
     ],
     'Data Collection':[
-      'DataCollection/DataCollection',
       'DataCollection/DataCollectionTargetList',
       'DataCollection/DataCollectionTargetCard',
       'DataCollection/EditDataAfterSession',
@@ -36,7 +35,7 @@ module.exports = {
     ],
     'Reports':[
       'Reports/Graphs',
-      'Reports/ActivtyReport',
+      'Reports/ActivityReport',
       'Reports/CareTeamManagement',
     ],
     'Settings':[
