@@ -10,8 +10,8 @@ module.exports = {
       'Session/PaperDataCollection'
     ],
     'Data Collection':[
-      'DataCollection/DataCollectionTargetList',
-      'DataCollection/DataCollectionTargetCard',
+      'DataCollection/DataCollectionOnTargetList',
+      'DataCollection/DataCollectionOnTargetCard',
       'DataCollection/EditDataAfterSession',
     ],
     'Care Plan':[

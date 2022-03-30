@@ -1,5 +1,5 @@
 ---
-id: DataCollectionTargetCard
+id: DataCollectionOnTargetCard
 title: Data Collection on Target Card
 ---
 

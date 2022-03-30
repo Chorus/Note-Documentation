@@ -1,5 +1,5 @@
 ---
-id: DataCollectionTargetList
+id: DataCollectionOnTargetList
 title: Data Collection on Target List
 ---
 
