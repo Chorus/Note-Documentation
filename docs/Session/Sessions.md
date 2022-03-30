@@ -4,7 +4,7 @@ title: Sessions
 ---
 When you open the app, you will see your upcoming sessions. Sessions serves as your personal calendar and provides relevant tools for your daily schedule.    
 
-![src](../../src/img/SessionList.svg)
+![src](../../src/img/SessionList.png)
 
 ## View my schedule
 
