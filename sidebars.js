@@ -8,21 +8,40 @@ module.exports = {
       'Session/DataCollection',
       'Session/EditSession',
       'Session/PaperDataCollection'
-     
+    ],
+    'Data Collection':[
+      'DataCollection/DataCollection',
+      'DataCollection/DataCollectionTargetList',
+      'DataCollection/DataCollectionTargetCard',
+      'DataCollection/EditDataAfterSession',
     ],
     'Care Plan':[
-      'CarePlan/Structure',
-      'CarePlan/Libraries',
-      'CarePlan/ViewCarePlan',
-      'CarePlan/ViewGoal',
-      'CarePlan/ViewTarget',
-      'CarePlan/TargetLifecycle',
-      'CarePlan/TargetConfiguration',
-      'CarePlan/AddGoal',
-      'CarePlan/AddTarget',
-      'CarePlan/AddBx',
-      'CarePlan/EditTarget',
-      'CarePlan/RemoveGoal',
+      'CarePlan/CarePlanStructure',
+      'CarePlan/UnderstandingHierarchy',
+      'CarePlan/CarePlanViews',
+    ],
+    'Goals':[
+      'Goals/AddEditRemoveGoals',
+      'Goals/GoalLibrary',
+    ],
+    'Targets':[
+      'Targets/AddEditRemoveTargets',
+      'Targets/TargetLibrary',
+      'Targets/DefaultConfiguration',
+      'Targets/TargetStatuses',
+    ],
+    'Behaviors':[
+      'Behaviors/AddEditRemoveBehaviors',
+      'Behaviors/AddEditRemoveObjectives',
+    ],
+    'Reports':[
+      'Reports/Graphs',
+      'Reports/ActivtyReport',
+      'Reports/CareTeamManagement',
+    ],
+    'Settings':[
+      'Settings/Sync',
+      'Settings/ModifyPIN',
     ]
   },
 };
