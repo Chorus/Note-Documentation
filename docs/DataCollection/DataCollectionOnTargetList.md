@@ -5,7 +5,7 @@ title: Data Collection on Target List
 
 This feature gives you the ability to collect data on multiple targets at the same time. Not only does this save time, but it also allows you to focus more on the patient than your phone.   
 
-![src](../../../src/img/TargetList.png)
+![src](../../src/img/TargetList.png)
 
 1. Swipe from the right side of the screen and a Start button will appear. 
 
