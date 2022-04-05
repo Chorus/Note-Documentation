@@ -1,11 +1,10 @@
 module.exports = {
   someSidebar: {
-    'Getting Started': ['MainNavigation'],
+    'General Overview': ['GettingStarted'],
     Sessions: [
       'Session/Sessions', 
       'Session/SessionStatuses',
       'Session/CreateEditCancelSession',
-      'Session/EditSession',
       'Session/PaperDataCollection'
     ],
     'Data Collection':[
@@ -18,11 +17,9 @@ module.exports = {
       'CarePlan/UnderstandingHierarchy',
       'CarePlan/CarePlanViews',
     ],
-    'Goals':[
+    'Goals and Targets':[
       'Goals/AddEditRemoveGoals',
       'Goals/GoalLibrary',
-    ],
-    'Targets':[
       'Targets/AddEditRemoveTargets',
       'Targets/TargetLibrary',
       'Targets/DefaultConfiguration',

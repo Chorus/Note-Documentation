@@ -4,6 +4,8 @@ title: Sync
 ---
 Syncing is the process that allows all the data to be shared with different devices and providers on the care team. 
 
+<img src="../../src/img/Sync.png" width="650">
+
 ## Keep in mind 
 
 - When logging into the app, it is necessary to be connected to a stable network to ensure that any data added on a different device is being displayed on yours. 

@@ -1,7 +1,7 @@
 ---
-id: MainNavigation
-title: Main Navigation
-sidebar_label: Main Navigation
+id: GettingStarted
+title: Getting Started
+sidebar_label: Getting Started
 ---
 The main navigation is divided into two components: **Sessions** and **Students**.
 

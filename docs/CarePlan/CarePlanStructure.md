@@ -4,15 +4,15 @@ title: Care Plan Structure
 ---
 A care plan is organized in many ways in order to make it navigable and easy to use.  
 
-*Enter screenshot 
+<img src="../../src/img/CarePlanStructure.png" width="650">
 
 The first level of organization is divided into three sections: 
 
-1. Future: Targets that are not configured or not started and are not displayed in a direct care session. On hold targets and goals with no targets are also displayed here. 
+**Future:** Targets that are not configured or not started and are not displayed in a direct care session. On hold targets and goals with no targets are also displayed here. 
 
-2. In Progress: Targets that have a Baseline, Active or Maintenance status and are displayed in a direct care session. 
+**In Progress:** Targets that have a Baseline, Active or Maintenance status and are displayed in a direct care session. 
 
-3. Past: Targets that are Mastered or Deactivated and are not displayed in a direct care session. 
+**Past:** Targets that are Mastered or Deactivated and are not displayed in a direct care session. 
 
 The second level of organization is separating the problem behaviors and targets.  
 
