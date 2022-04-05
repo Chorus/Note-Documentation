@@ -5,7 +5,7 @@ title: Data Collection on Target Card
 
 This feature gives you the ability to dive into a target with no other distractions and review the instructions of the target or behavior.  
 
-![src](../../src/img/TargetCard.png)
+<img src="../../src/img/TargetCard.png" width="650">
 
 1. Click on the target
 

@@ -2,9 +2,9 @@
 id: TargetLibrary
 title: Target Library
 ---
-You can utilize the target library created by the agency.  
+You can utilize the target library created by the agency. This makes it easier for the BCBAs to create and update care plans.
 
-*Enter screenshot 
+<img src="../../src/img/TargetLibrary.png" width="650">
 
 1. On a Care Plan, click the "+" button in the bottom right corner 
 

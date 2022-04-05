@@ -4,7 +4,7 @@ title: Activity Report
 ---
 This report allows you to review all activity in a student's care plan in a specified period of time. 
 
-*Enter screenshot 
+<img src="../../src/img/ActivityReport.png" width="650">
   
 1. Click on a student 
 
@@ -16,7 +16,7 @@ This report allows you to review all activity in a student's care plan in a spec
 
 5. Click “Apply” 
 
-What’s included? 
+## What’s included? 
 
 - Targets with activity within selected timeframe  
 
