@@ -1,7 +1,7 @@
 ---
 id: GettingStarted
 title: Getting Started
-sidebar_label: GettingStarted
+sidebar_label: Getting Started
 ---
 The main navigation is divided into two components: **Sessions** and **Students**.
 
