@@ -4,7 +4,7 @@ title: Add, Edit and Remove Objectives
 ---
 An objective is the way the BCBA measures the behavior. A behavior needs to have an objective for it to be displayed in a direct care session. Not having an objective is like a target not having a form of measure.  
 
-<img src="/img/BehaviorDetails.png" width="650">
+<img src="/img/BehaviorDetails.png" width="650"/>
 
 ## Add an Objective 
 
