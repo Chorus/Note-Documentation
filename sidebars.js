@@ -1,6 +1,9 @@
 module.exports = {
   someSidebar: {
-    'Getting Started': ['MainNavigation'],
+    'GettingStarted': [
+      'Overview',
+      'BT'
+    ],
     Sessions: [
       'Session/Sessions', 
       'Session/SessionStatuses',
