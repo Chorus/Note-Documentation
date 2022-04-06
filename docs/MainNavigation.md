@@ -1,7 +1,7 @@
 ---
-id: MainNavigation
-title: Main Navigation
-sidebar_label: Main Navigation
+id: Overview
+title: Overview
+sidebar_label: Overview
 ---
 The main navigation is divided into two components: **Sessions** and **Students**.
 
