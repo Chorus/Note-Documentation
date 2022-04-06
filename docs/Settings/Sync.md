@@ -4,7 +4,7 @@ title: Sync
 ---
 Syncing is the process that allows all the data to be shared with different devices and providers on the care team. 
 
-<img src="../../src/img/Sync.png" width="650">
+<img src="../../src/img/Sync.png" width="650" />
 
 ## Keep in mind 
 

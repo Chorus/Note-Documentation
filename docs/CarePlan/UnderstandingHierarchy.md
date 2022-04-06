@@ -4,7 +4,7 @@ title: Understanding the Hierarchy
 ---
 A care plan consists of skill acquisition targets and problem behaviors. 
 
-<img src="../../src/img/CarePlanHierarchy.png" width="650">
+<img src="../../src/img/CarePlanHierarchy.png" width="650"  />
 
 ## Skill Acquisition
 

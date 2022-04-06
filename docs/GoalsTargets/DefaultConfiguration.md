@@ -4,7 +4,7 @@ title: Default Configuration
 ---
 This feature gives you the ability to configure targets once and reuse them across all your students without having to configure them each time. 
 
-<img src="../../src/img/TargetList.png" width="650">
+<img src="../../src/img/TargetList.png" width="650" />
 
 1. Click on a goal 
 

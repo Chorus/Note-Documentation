@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    'General Overview': ['GettingStarted'],
+    'Getting Started': ['MainNavigation'],
     Sessions: [
       'Session/Sessions', 
       'Session/SessionStatuses',
@@ -18,12 +18,12 @@ module.exports = {
       'CarePlan/CarePlanViews',
     ],
     'Goals and Targets':[
-      'Goals/AddEditRemoveGoals',
-      'Goals/GoalLibrary',
-      'Targets/AddEditRemoveTargets',
-      'Targets/TargetLibrary',
-      'Targets/DefaultConfiguration',
-      'Targets/TargetStatuses',
+      'GoalsTargets/AddEditRemoveGoals',
+      'GoalsTargets/GoalLibrary',
+      'GoalsTargets/AddEditRemoveTargets',
+      'GoalsTargets/TargetLibrary',
+      'GoalsTargets/DefaultConfiguration',
+      'GoalsTargets/TargetStatuses',
     ],
     'Behaviors':[
       'Behaviors/AddEditRemoveBehaviors',
