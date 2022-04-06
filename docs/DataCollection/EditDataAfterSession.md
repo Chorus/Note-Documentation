@@ -1,6 +1,6 @@
 ---
 id: EditDataAfterSession 
-title: Edit Data after the Session 
+title: Edit Data After the Session 
 ---
 After you end your session, you can edit the session data by selecting a target and clicking Edit in the top right corner.  
 
