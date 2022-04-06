@@ -12,7 +12,7 @@ This feature is available within a direct care session and gives you the ability
 
 4. Share, download, or print the sheet. 
 
-The file name is “Paper Data - Provider Name - Client Initials - yyyy-MM-dd_HH-mm-ss.pdf.    
+The file name is Paper Data - Provider Name - Client Initials - yyyy-MM-dd_HH-mm-ss.pdf.    
 
 Targets are categorized by form of measure, status, and then domain, subdomain, and goal. 
 

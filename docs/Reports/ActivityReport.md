@@ -4,7 +4,7 @@ title: Activity Report
 ---
 This report allows you to review all activity in a student's care plan in a specified period of time. 
 
-<img src="../../src/img/ActivityReport.png" width="650" />
+<img src="/img/ActivityReport.png" width="650" />
   
 1. Click on a student 
 
