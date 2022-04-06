@@ -4,7 +4,7 @@ title: Goal Library
 ---
 You can utilize the goal library created by the agency.  
 
-<img src="../../src/img/GoalLibrary.png" width="650" />
+<img src="/img/GoalLibrary.png" width="650" />
 
 1. On a Care Plan, click the "+" button in the bottom right corner 
 2. Choose a domain 

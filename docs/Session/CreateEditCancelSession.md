@@ -17,7 +17,7 @@ Your session is saved and will be validated by your agency. The session status w
 
 ## Edit a Session
 
-<img src="../../src/img/SessionDetails.png" width="650" />
+<img src="/img/SessionDetails.png" width="650" />
 
 1. Click on the session you want to edit 
 

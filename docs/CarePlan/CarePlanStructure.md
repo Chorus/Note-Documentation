@@ -4,7 +4,7 @@ title: Care Plan Structure
 ---
 A care plan is organized in many ways in order to make it navigable and easy to use.  
 
-<img src="../../src/img/CarePlanStructure.png" width="650" />
+<img src="/img/CarePlanStructure.png" width="650" />
 
 The first level of organization is divided into three sections: 
 

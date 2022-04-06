@@ -4,7 +4,7 @@ title: Care Team Management
 ---
 This report allows you to review every provider’s actions in a student's care plan within a specified period of time which makes managing your care team efficiently and easily.   
 
-<img src="../../src/img/CareTeamManagement.png" width="650" />
+<img src="/img/CareTeamManagement.png" width="650" />
 
 1. Click on a student 
 

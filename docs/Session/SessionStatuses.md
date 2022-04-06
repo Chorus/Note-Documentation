@@ -4,7 +4,7 @@ title: Session Statuses
 ---
 To help you differentiate between sessions, every session has a session status. The status icon appears for each session on the session list. You can also see the status in the General tab of the session. Sessions are color-coded to help you make sense of your schedule at a glance. 
 
-![src](../../src/img/SessionStatuses.svg)
+<img src="/img/SessionStatuses.svg" width="650" />
 
 **Pending Validation** – Your session will soon be validated by the agency's server.
 **Validating** – Your session is currently being validated by your agency. You cannot edit scheduling details while your session is validating.

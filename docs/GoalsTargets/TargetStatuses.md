@@ -4,7 +4,7 @@ title: Target Statuses
 ---
 To keep the care plan organized, every target has a status. You can see the status next to the target name and on the target details page. Statuses are color-coded to help you make sense of a care plan at a glance. 
 
-<img src="../../src/img/TargetStatuses.png" width="650" />
+<img src="/img/TargetStatuses.png" width="650" />
 
 **Unconfigured:** Targets that are not configured. 
 
