@@ -40,13 +40,7 @@ You can read our privacy policy and terms and conditions for using Note, and you
 
 If you need to change your password or pin, you can do it here.
 
-
-
-## Additional Links
-
-- View my schedule
-- View session details
-- Create a session
-- Start data collection
-- Manage a Care Plan
-- Add goals or behaviors
+### See also
+- [Session List](Session/SessionList.md)
+- [Care Plan Structure](CarePlan/CarePlanStructure.md)
+- [Graphs](Reports/Graphs.md)
