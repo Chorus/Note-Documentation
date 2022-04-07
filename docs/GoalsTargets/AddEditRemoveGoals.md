@@ -34,3 +34,10 @@ In case you want to remove a goal that has targets:
 - If there is a target in the goal that already has data, you will not be able to remove the goal completely. You can, however, deactivate the targets (link). A goal that only has deactivated targets will be displayed in the past tab. 
 
 [Demo video: Add a Goal and Targets to a Care Plan](https://youtu.be/_DCx4QZ3VQA "Title")
+
+### See also
+- [Goal Library](GoalsTargets/GoalLibrary.md)
+- [Add, Edit and Remove Targets](GoalsTargets/AddEditRemoveTargets.md)
+- [Target Library](GoalsTargets/TargetLibrary.md)
+- [Default Configuration](GoalsTargets/DefaultConfiguration.md)
+- [Target Statuses](GoalsTargets/TargetStatuses.md)

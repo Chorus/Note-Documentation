@@ -13,3 +13,6 @@ Syncing is the process that allows all the data to be shared with different devi
 - If you don’t have service after logging in, the data will be saved on the device, and the app will sync the next time the device is connected to a network. 
 
 You can manually sync your device by going to the Settings tab and clicking "Sync now" while the device is connected to a network. 
+
+### See also
+- [Modify PIN](Settings/ModifyPIN.md)

@@ -43,3 +43,10 @@ The target list is comprised of custom and library targets. You can quickly dele
 5. You can click on the arrow to create or edit the default configuration 
 
 6. Click OK to save your changes
+
+### See also
+- [Add, Edit and Remove Goals](GoalsTargets/AddEditRemoveGoals.md)
+- [Goal Library](GoalsTargets/GoalLibrary.md)
+- [Add, Edit and Remove Targets](GoalsTargets/AddEditRemoveTargets.md)
+- [Target Library](GoalsTargets/TargetLibrary.md)
+- [Target Statuses](GoalsTargets/TargetStatuses.md)

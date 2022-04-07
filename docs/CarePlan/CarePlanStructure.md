@@ -19,3 +19,7 @@ The second level of organization is separating the problem behaviors and targets
 The third level categorizes the targets by Domain > Goal > Target Status. 
 
 The number next to the behavior tells you how many objectives there are in the behavior across all tabs and statuses. The same goes for the number next to the goal. 
+
+### See also
+- [Understanding the Hierarchy](CarePlan/UnderstandingHierarchy.md)
+- [Care Plan Views](CarePlan/CarePlanViews.md)

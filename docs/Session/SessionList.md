@@ -1,6 +1,6 @@
 ---
-id: Sessions
-title: Sessions
+id: SessionList
+title: Session List
 ---
 When you open the app, you will see your upcoming sessions. Sessions serves as your personal calendar and provides relevant tools for your daily schedule.    
 
@@ -14,12 +14,6 @@ From anywhere in your sessions list, you can get back to today's sessions by cli
 
 You can also filter the list of sessions by status, service type, and location. 
 
-
-
-
-## See also:
-
-- View session details
-- Filter the sessions list
-- Cancel a session
-- Edit a session
+### See also
+- [Session Statuses](Session/SessionStatuses.md)
+- [Create, Edit and Cancel a Session](Session/CreateEditCancelSession.md)
