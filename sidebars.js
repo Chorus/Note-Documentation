@@ -8,12 +8,12 @@ module.exports = {
       'Session/Sessions', 
       'Session/SessionStatuses',
       'Session/CreateEditCancelSession',
-      'Session/PaperDataCollection'
     ],
     'Data Collection':[
       'DataCollection/DataCollectionOnTargetList',
       'DataCollection/DataCollectionOnTargetCard',
       'DataCollection/EditDataAfterSession',
+      'DataCollection/PaperDataCollection'
     ],
     'Care Plan':[
       'CarePlan/CarePlanStructure',
