@@ -15,3 +15,6 @@ You can easily modify your PIN in the settings tab. Your PIN prevents unauthoriz
 4. Confirm your new PIN 
 
 5. Your PIN is now changed 🎉 
+
+### See also
+- [Sync](Settings/Sync.md)

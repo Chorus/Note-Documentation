@@ -23,3 +23,10 @@ You can utilize the target library created by the agency. This makes it easier f
 8. Select “Import”  
 
 The targets are now in your target list. If you would like to add a target to the care plan, select the target and click “Add.” 
+
+### See also
+- [Add, Edit and Remove Goals](GoalsTargets/AddEditRemoveGoals.md)
+- [Goal Library](GoalsTargets/GoalLibrary.md)
+- [Add, Edit and Remove Targets](GoalsTargets/AddEditRemoveTargets.md)
+- [Default Configuration](GoalsTargets/DefaultConfiguration.md)
+- [Target Statuses](GoalsTargets/TargetStatuses.md)

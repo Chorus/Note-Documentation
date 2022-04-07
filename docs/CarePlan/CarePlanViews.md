@@ -17,6 +17,6 @@ There are three ways to view the care plan for an optimized experience.
 
 3. Click Apply to see the care plan in the view you selected 
  
-
- 
- 
+### See also
+- [Care Plan Structure](CarePlan/CarePlanStructure.md)
+- [Understanding the Hierarchy](CarePlan/UnderstandingHierarchy.md)

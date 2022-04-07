@@ -4,7 +4,7 @@ title: Behavior Technician Guide
 ---
 
 **Sessions**
-- [Sessions](Session/Sessions.md)
+- [Session List](Session/SessionList.md)
 - [Session Statuses](Session/SessionStatuses.md)
 - [Create, Edit and Cancel a Session](Session/CreateEditCancelSession.md)
 

@@ -61,3 +61,10 @@ In ABA, constant treatment planning based on data analysis is vital in order to 
 5. Confirm that you want to remove the target from this student's care plan 
 
 In case you want to remove a target that has data, you can deactivate the targets (link). A goal that only has deactivated targets will be displayed in the past tab. 
+
+### See also
+- [Add, Edit and Remove Goals](GoalsTargets/AddEditRemoveGoals.md)
+- [Goal Library](GoalsTargets/GoalLibrary.md)
+- [Target Library](GoalsTargets/TargetLibrary.md)
+- [Default Configuration](GoalsTargets/DefaultConfiguration.md)
+- [Target Statuses](GoalsTargets/TargetStatuses.md)

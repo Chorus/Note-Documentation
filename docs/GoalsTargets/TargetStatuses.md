@@ -25,3 +25,10 @@ To keep the care plan organized, every target has a status. You can see the stat
 **Deactivated:** Targets that were started but are being discontinued because it is out of scope for the student. 
 
 - A goal with deactivated targets only is displayed in the Past tab. 
+
+### See also
+- [Add, Edit and Remove Goals](GoalsTargets/AddEditRemoveGoals.md)
+- [Goal Library](GoalsTargets/GoalLibrary.md)
+- [Add, Edit and Remove Targets](GoalsTargets/AddEditRemoveTargets.md)
+- [Target Library](GoalsTargets/TargetLibrary.md)
+- [Default Configuration](GoalsTargets/DefaultConfiguration.md)

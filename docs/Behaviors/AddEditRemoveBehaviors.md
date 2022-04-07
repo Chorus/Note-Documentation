@@ -47,3 +47,6 @@ You can remove a behavior from a student's care plan if the behavior doesn’t h
 4. Confirm that you want to remove the behavior from this student's care plan 
 
 If you want to remove a behavior that has an objective with data, you can deactivate the objective(link). A behavior that only has deactivated objectives will be displayed in the past tab.
+
+### See also
+- [Add, Edit and Remove Objectives](Behaviors/AddEditRemoveObjectives.md)

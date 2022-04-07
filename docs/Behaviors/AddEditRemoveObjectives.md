@@ -55,3 +55,6 @@ You can remove an objective from a student's care plan if it doesn’t have data
 5. Confirm that you want to remove the objective from this student's care plan 
 
 If you want to remove an objective that has data, you can deactivate it (link). A behavior that only has deactivated objectives will be displayed in the past tab. 
+
+### See also
+- [Add, Edit and Remove Behaviors](Behaviors/AddEditRemoveBehaviors.md)

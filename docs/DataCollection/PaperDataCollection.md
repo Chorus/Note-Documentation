@@ -17,3 +17,8 @@ The file name is Paper Data - Provider Name - Client Initials - yyyy-MM-dd_HH-mm
 Targets are categorized by form of measure, status, and then domain, subdomain, and goal. 
 
 [Demo video: Export PDF for Paper Data Collection](https://youtu.be/jd4hjoBg43w/ "Title")
+
+### See also
+- [Data Collection on Target List](DataCollection/DataCollectionTargetList.md)
+- [Data Collection on Target Card](DataCollection/DataCollectionTargetCard.md)
+- [Edit Data After the Session](DataCollection/EditDataAfterSession.md)

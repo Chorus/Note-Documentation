@@ -17,3 +17,8 @@ Each time you click yes or no, the trial count gets updated, and the last respon
 If you want to see more information about the target, you can click on the instructions tab where the target configuration is displayed.  
 
 Click the X button to go back to the target list.  
+
+### See also
+- [Data Collection on Target List](DataCollection/DataCollectionTargetList.md)
+- [Edit Data After the Session](DataCollection/EditDataAfterSession.md)
+- [Paper Data Collection](DataCollection/PaperDataCollection.md)

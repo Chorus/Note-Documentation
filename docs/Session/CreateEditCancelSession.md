@@ -48,3 +48,7 @@ Your session has been cancelled and the status of the session is updated to Canc
 You can undo this action by clicking Undo on the session details screen and the session status will be updated to Pending Validation to be validated by your agency. 
 
 [Demo video: Create and Manage a Session ](https://youtu.be/xES-ni3GvLQ/ "Title")
+
+### See also
+- [Session List](Session/SessionList.md)
+- [Session Statuses](Session/SessionStatuses.md)
