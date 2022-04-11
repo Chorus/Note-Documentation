@@ -14,6 +14,8 @@ This feature gives you the ability to collect data on multiple targets at the sa
   
 Each time you click yes or no, the trial count gets updated, and the last response is noted. The second number represents the number of expected trials, and the small indicator is displayed when the minimum trials were not met. You can swipe from the right to undo the previous action, and the trial count and last response will update.
 
+[Demo video: Data Collection on Target List and Target Card](https://youtu.be/-wdmkUeijpY "Title")
+
 ### See also
 - [Data Collection on Target Card](DataCollection/DataCollectionTargetCard.md)
 - [Edit Data After the Session](DataCollection/EditDataAfterSession.md)

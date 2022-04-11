@@ -15,6 +15,8 @@ There are two ways to add targets to a goal in a student's care plan.
 7. Import from the goal library (link) or create a new goal.
 8. Click Add. 
 
+[Demo video: Add a Goal and Targets to a Care Plan](https://youtu.be/_DCx4QZ3VQA "Title")
+
 ## Add Targets to an Existing Goal  
 
 1. On the Care Plan, click on a goal. 
@@ -24,6 +26,10 @@ There are two ways to add targets to a goal in a student's care plan.
 5. Click Add.
 
 The new targets will appear on the goal details page and in the future tab of the student's care plan. Configure the target so that your team can address it in sessions. 
+
+[Demo video: Configure a DTT Target](https://youtu.be/wXIP3G3D7xo "Title")
+
+[Demo video: Configure a Task Analysis Target](https://youtu.be/nvwfwzbUzCw "Title")
 
 ## Edit a Target 
 
