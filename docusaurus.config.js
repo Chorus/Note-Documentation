@@ -12,7 +12,7 @@ module.exports = {
       title: 'Chorus Documentation',
       logo: {
         alt: 'Chorus Logo',
-        src: 'img/logo.svg',
+        src: 'img/ChorusFavicon.png',
       },
       items: [
         {
