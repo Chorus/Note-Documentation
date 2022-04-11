@@ -8,7 +8,7 @@ A care plan consists of skill acquisition targets and problem behaviors.
 
 ## Skill Acquisition
 
-The structure of a skill acquisition target is: 
+A skill acquisition target is made up of: 
 
 1. Domain 
 2. Subdomain 
@@ -24,7 +24,7 @@ You can create custom goals and targets and also utilize the goal and target lib
 
 ## Problem Behavior
 
-The structure of a problem behavior is: 
+A skill acquisition target is made up of: 
 
 1. Category 
 2. Problem Behavior 
