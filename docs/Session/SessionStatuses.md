@@ -6,7 +6,7 @@ To help you differentiate between sessions, every session has a session status. 
 
 The status icon appears for each session on the session list. You can also see the status in the General tab of the session.
 
-<img src="/img/SessionStatuses.svg" width="650" />
+<img src="/img/SessionStatuses.svg" width="400" />
 
 **Pending Validation** – Your session will soon be validated by the agency's server.
 

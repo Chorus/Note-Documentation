@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://notedocs.chorus.cloud/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/ChorusFavicon.png',
   organizationName: 'Chorus', // Usually your GitHub org/user name.
   projectName: 'Note-Documentation', // Usually your repo name.
   themeConfig: {

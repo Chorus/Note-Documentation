@@ -4,7 +4,7 @@ title: Understanding the Hierarchy
 ---
 A care plan consists of skill acquisition targets and problem behaviors. 
 
-<img src="/img/CarePlanHierarchy.png" width="650"  />
+<img src="/img/CarePlanHierarchy.png" width="400"  />
 
 ## Skill Acquisition
 
@@ -19,7 +19,7 @@ The structured hierarchy creates an organized care plan and makes every student 
 
 The domains and subdomains relate to core Autism deficits and are managed by the practice in Autism Care. 
 
-You will have your own list of goals and targets (link) consisting of custom goals and targets (link) and goals and targets imported from the public library (link). 
+You can create custom goals and targets and also utilize the goal and target library. 
  
 
 ## Problem Behavior
