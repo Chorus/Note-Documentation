@@ -17,7 +17,7 @@ There are two ways to add targets to a goal in a student's care plan.
 
 [Demo video: Add a Goal and Targets to a Care Plan](https://youtu.be/_DCx4QZ3VQA "Title")
 
-## Add Targets to an Existing Goal  
+## Add Targets to an Existing Goal  s
 
 1. On the Care Plan, click on a goal. 
 2. Click the + icon in the bottom right corner.
