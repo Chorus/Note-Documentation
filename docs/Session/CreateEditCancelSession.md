@@ -7,6 +7,8 @@ You can manage your schedule by creating your own sessions for assignments. Your
 
 ## Create a Session
 
+<img src="/img/SessionList.png" width="400" />
+
 1. Click the + icon in the bottom right corner. 
 2. Fill out the required information. 
 3. Click OK to save the session. 

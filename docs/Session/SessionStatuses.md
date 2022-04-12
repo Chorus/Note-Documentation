@@ -8,7 +8,7 @@ The status icon appears for each session on the session list. You can also see t
 
 <img src="/img/SessionStatuses.svg" width="600" />
 
-**Pending Validation** – Your session will soon be validated by the agency's server.
+**Pending Validation** – Your session is awaiting validation by the agency's server.
 
 **Validating** – Your session is currently being validated by your agency. You cannot edit scheduling details while your session is validating.
 

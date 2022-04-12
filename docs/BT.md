@@ -9,7 +9,7 @@ title: Behavior Technician Guide
 - [Create, Edit and Cancel a Session](Session/CreateEditCancelSession.md)
 
 **Data Collection**
-- [Data Collection on Target List](DataCollection/DataCollectionTargetList.md)
+- [Data Collection on Target List](DataCollection/DataCollectionOnTargetList.md)
 - [Data Collection on Target Card](DataCollection/DataCollectionTargetCard.md)
 - [Edit Data After the Session](DataCollection/EditDataAfterSession.md)
 - [Paper Data Collection](DataCollection/PaperDataCollection.md)
