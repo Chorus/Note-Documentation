@@ -11,23 +11,25 @@ The main navigation is divided into two components: **Sessions** and **Students*
 
 When you open the app, you will see your upcoming sessions. You can view your sessions by day, week, or month and have the ability to navigate to other dates. You can click the + button to create a new session.
 
-Within each session you will see a General tab with the session details and an Observations tab with the applicable features for that session. For example, there will be a list of targets for data collection for a direct care session and space to write session notes for treatment planning.
+<img src="/img/SessionList.png" width="400" />
+
+Within each session you will see a General tab with the session details and an Observations tab with the applicable features for that session. For example, there will be a list of targets for data collection in a direct care session and space to write session notes for treatment planning.
 
 ### Navigate to a session:
 
-1. Tap on Sessions in the bottom navigation bar
+1. Tap on Sessions in the bottom navigation bar.
 2. Select a session.
 
 
 ## Students
 
-In Students you will see the student list, which is created and maintained by the agency. Select a student to see the student's care plan, profile, and sessions.
+In Students, you will see the student list, which is created and maintained by the agency. Select a student to see the student's care plan, profile, and sessions.
 
-In a student's care plan, you can manage all the goals and targets for the student for both skill acquisition and behavior reduction. In the sessions tab within the student, you can see all sessions from the entire care team for this student. In the student profile you will find basic information about the student, such as date of birth and parent's contact information.
+In a student's care plan, you can manage all the goals and targets for the student for both skill acquisition and behavior reduction. In the sessions tab within a student, you can see all sessions from the entire care team for this student. In the student profile you will find basic information about the student, such as date of birth and parent's contact information.
 
 ### Navigate to a student:
 
-1. Tap on Students in the bottom navigation bar
+1. Tap on Students in the bottom navigation bar.
 2. Select a student.
 
 You will see active goals and targets in the Care Plan with the ability to switch between the future, in progress and past tabs. You can also see the student's profile and sessions.
@@ -36,6 +38,8 @@ You will see active goals and targets in the Care Plan with the ability to switc
 
 In Settings, you can see when the app last synced with the agency's database. You can trigger a sync to get and send the most updated information.
 
+<img src="/img/Sync.png" width="400" />
+
 You can read our privacy policy and terms and conditions for using Note, and you will see which version of the app you have installed.
 
 If you need to change your password or pin, you can do it here.
@@ -43,7 +47,7 @@ If you need to change your password or pin, you can do it here.
 
 [Demo video: A General Overview of Note](https://youtu.be/Xx5BNRdVPRE "Title")
 
-Watch all [Note Support Videos](https://www.youtube.com/channel/UC4N8PexvVoFjGOzuuqNoNfA/videos "Title")
+Watch all [Note Support Videos.](https://www.youtube.com/channel/UC4N8PexvVoFjGOzuuqNoNfA/videos "Title")
 
 ### See also
 - [Session List](Session/SessionList.md)

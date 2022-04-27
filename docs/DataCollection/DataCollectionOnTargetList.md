@@ -3,9 +3,9 @@ id: DataCollectionOnTargetList
 title: Data Collection on Target List
 ---
 
-This feature gives you the ability to collect data on multiple targets at the same time. Not only does this save time, but it also allows you to focus more on the patient than your phone.   
+This feature enables you to collect data on multiple targets at the same time. Not only does this save time, but it also allows you to focus more on the student than your phone.   
 
-<img src="/img/TargetList.png" width="400" />
+<img src="/img/TargetListDC.png" width="400" />
 
 1. Swipe from the right side of the screen and a Start button will appear. 
 2. Click Start.  
