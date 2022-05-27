@@ -9,7 +9,7 @@ module.exports = {
   projectName: 'Note-Documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Chorus Documentation',
+      // title: 'Chorus Documentation',
       logo: {
         alt: 'Chorus Logo',
         src: 'img/ChorusFavicon.png',
@@ -18,15 +18,15 @@ module.exports = {
         {
           to: 'docs/Overview',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Chorus Documentation',
           position: 'left',
         },
        // {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/Chorus/Note-Documentation',
-          label: 'GitHub',
-          position: 'right',
-        },
+        // {
+        //   href: 'https://github.com/Chorus/Note-Documentation',
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
@@ -46,37 +46,37 @@ module.exports = {
           // ],
         },
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
+          // title: 'Community',
+          // items: [
+          //   {
+          //     label: 'Stack Overflow',
+          //     href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+          //   },
+          //   {
+          //     label: 'Discord',
+          //     href: 'https://discordapp.com/invite/docusaurus',
+          //   },
+          //   {
+          //     label: 'Twitter',
+          //     href: 'https://twitter.com/docusaurus',
+          //   },
+          // ],
         },
         {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
+          // title: 'More',
+          // items: [
+          //   {
+          //     label: 'Blog',
+          //     to: 'blog',
+          //   },
+          //   {
+          //     label: 'GitHub',
+          //     href: 'https://github.com/facebook/docusaurus',
+          //   },
+          // ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Chorus Software Solutions LLC.`,
     },
   },
   presets: [
