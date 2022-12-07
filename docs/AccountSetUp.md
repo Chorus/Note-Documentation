@@ -3,7 +3,7 @@ id: AccountSetup
 title: Account Setup
 sidebar_label: Account Setup
 ---
-Welcome, we’re excited for you to get started! Follow the steps below to get your account up and running. 
+Welcome, we’re excited for you to get started! Follow the steps below to set up your account. 
 
 1. Download Note from the app store by searching Note ABA. 
 2. Click Confirm Account on the Note invite email you received. 
