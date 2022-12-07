@@ -2,7 +2,7 @@ module.exports = {
   someSidebar: {
     'Getting Started': [
       'Overview',
-      'Account Setup',
+      'AccountSetup',
       'BT'
     ],
     Sessions: [
