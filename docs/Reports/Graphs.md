@@ -18,5 +18,5 @@ Under the History tab, you can see all activity regarding the target:
 - Manually added data points 
 
 ### See also
-- [ActivityReport](Reports/ActivityReport.md)
-- [CareTeamManagement](Reports/CareTeamManagement.md)
+- [Activity Report](Reports/ActivityReport.md)
+- [Care Team Management](Reports/CareTeamManagement.md)
