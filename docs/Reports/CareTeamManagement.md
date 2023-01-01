@@ -9,7 +9,7 @@ This report allows you to review every provider’s actions in a student's care 
 1. Click on a student.
 2. Click the filter button in the top right corner.
 3. Select Care Team Management under the View category. 
-4. Choose the date range and whether to display graphs. 
+4. Select the date range and choose whether to display graphs. 
 5. Click Apply. 
 6. Use the arrows next to the provider's name to toggle through the team. 
 
@@ -19,4 +19,4 @@ You can view the number of sessions, number of distinct targets, and average num
 
 ### See also
 - [Graphs](Reports/Graphs.md)
-- [ActivityReport](Reports/ActivityReport.md)
+- [Activity Report](Reports/ActivityReport.md)

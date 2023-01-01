@@ -12,7 +12,7 @@ There are two ways to add targets to a goal in a student's care plan.
 4. Select a goal from your goal list. 
 5. Import from the goal library or create a new goal.
 6. Select one or multiple targets from your target list. 
-7. Import from the goal library (link) or create a new goal.
+7. Import from the goal library or create a new goal.
 8. Click Add. 
 
 [Demo video: Add a Goal and Targets to a Care Plan](https://youtu.be/_DCx4QZ3VQA "Title")
@@ -22,7 +22,7 @@ There are two ways to add targets to a goal in a student's care plan.
 1. On the Care Plan, click on a goal. 
 2. Click the + icon in the bottom right corner.
 3. Select one or multiple targets from your target list.
-4. Import from the goal library (link) or create a new goal.
+4. Import from the goal library or create a new goal.
 5. Click Add.
 
 The new targets will appear on the goal details page and in the future tab of the student's care plan. Configure the target so that your team can address it in sessions. 
