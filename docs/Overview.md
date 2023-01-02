@@ -5,7 +5,7 @@ sidebar_label: Overview
 ---
 The main navigation is divided into three components: **Sessions**, **Students** and **Settings**.
 
-**Sessions** serves as your personal calendar and provides relevant tools for your daily schedule. **Students** allows you to create and manage your student's care plans. **Settings** enables you to reset your password and PIN, as well as syncing your device.
+**Sessions** serves as your personal calendar and provides relevant tools for your daily schedule. **Students** allows you to create and manage your student's care plans. **Settings** enables you to sync your device and modify your PIN.
 
 ## Sessions
 

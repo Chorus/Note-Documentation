@@ -6,9 +6,9 @@ There are three ways to view the care plan for an optimized experience.
 
 **Standard:** This view displays all future, in progress and past goals and targets.  
 
-**Activity Report:** This view shows all in progress targets within a specific date range. 
+**Activity Report:** This view shows all activity within a specific date range. 
 
-**Care Team Management:** This view shows all in progress targets within a specific date range by provider. 
+**Care Team Management:** This view shows all activity within a specific date range by provider. 
 
 ## Change the View
 1. Click on the Filter icon in the top right corner. 
