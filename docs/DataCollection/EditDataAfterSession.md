@@ -7,10 +7,11 @@ After you end your session, you can edit the session data.
 <img src="/img/EditDataSession.png" width="400" />
 
 1. Tap on the session you want to edit.
-
-2. Click Edit in the top right corner. 
-3. Make the change(s). 
-4. Click OK to save.
+2. Click on the Observations tab.
+3. Tap on the target you want to edit.
+4. Click Edit in the top right corner. 
+5. Make the change(s). 
+6. Click OK to save.
 
 You can add, delete or change a response. Click OK to save your changes. You can't edit a target if the session was already submitted.
 
