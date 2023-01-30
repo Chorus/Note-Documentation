@@ -44,7 +44,7 @@ In Settings, you can see when the app last synced with the agency's database. Yo
 
 You can read our privacy policy and terms and conditions for using Note, and you will see which version of the app you have installed.
 
-If you need to change your password or pin, you can do it here.
+If you need to change your pin, you can do it here.
 
 
 [Demo video: A General Overview of Note](https://youtu.be/Xx5BNRdVPRE "Title")

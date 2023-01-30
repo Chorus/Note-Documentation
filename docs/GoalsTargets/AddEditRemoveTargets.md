@@ -36,9 +36,10 @@ The new targets will appear on the goal details page and in the future tab of th
 In ABA, constant treatment planning based on data analysis is vital in order to maximize the impact of direct care sessions, remove barriers to treatment, and speed up progress. It's easy to tweak existing targets in your student's care plan. 
 
 1. On the Care Plan, click on a target. 
-2. Click Edit in the top right corner. 
-3. Click into the fields you want to edit and make the changes.
-4. Click OK in the top right corner to save. 
+2. Click on the Configurations tab.
+3. Click Edit in the top right corner. 
+4. Click into the fields you want to edit and make the changes.
+5. Click OK in the top right corner to save. 
 
 ## Remove a Target 
 
