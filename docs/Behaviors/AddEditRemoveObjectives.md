@@ -23,7 +23,9 @@ This concept allows you to have multiple forms of measure for a behavior at the 
 
 ## Edit an Objective  
 
+:::note
 In ABA, constant treatment planning based on data analysis is vital in order to maximize the impact of direct care sessions, remove barriers to treatment, and speed up progress. It's easy to tweak existing objectives in your student's care plan. 
+:::
 
 1. On the Care Plan, select a behavior. 
 2. Tap on the objective you want to edit. 

@@ -28,13 +28,13 @@ module.exports = {
       'GoalsTargets/TargetLibrary',
       'GoalsTargets/DefaultConfiguration',
       'GoalsTargets/TargetStatuses',
+      'GoalsTargets/Graphs',
     ],
     'Behaviors':[
       'Behaviors/AddEditRemoveBehaviors',
       'Behaviors/AddEditRemoveObjectives',
     ],
     'Reports':[
-      'Reports/Graphs',
       'Reports/ActivityReport',
       'Reports/CareTeamManagement',
       'Reports/ReassessmentReport',
