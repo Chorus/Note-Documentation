@@ -20,7 +20,9 @@ Add an objective for the behavior to be displayed in a direct care session.
 
 ## Edit a Behavior 
 
+:::note
 In ABA, constant treatment planning based on data analysis is vital in order to maximize the impact of direct care sessions, remove barriers to treatment, and speed up progress. It's easy to tweak existing behaviors in your student's care plan. 
+:::
 
 <img src="/img/BehaviorDetails.png" width="400"/>
 
