@@ -15,10 +15,9 @@ title: Behavior Technician Guide
 - [Paper Data Collection](DataCollection/PaperDataCollection.md)
 
 **Care Plan**
-- [Care Plan Structure](CarePlan/CarePlanStructure.md)
-- [Understanding the Hierarchy](CarePlan/UnderstandingHierarchy.md)
-- [Target Statuses](GoalsTargets/TargetStatuses.md)
-- [Graphs](Reports/Graphs.md)
+- [Care Plan Setup](CarePlan/CarePlanSetup.md)
+- [Target Statuses](CarePlan/TargetStatuses.md)
+- [Graphs](CarePlan/Graphs.md)
 
 **Settings**
 - [Sync](Settings/Sync.md)

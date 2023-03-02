@@ -18,5 +18,5 @@ You can view the number of sessions, number of distinct targets, and average num
 [Demo video: Viewing the Care Team Management Report](https://youtu.be/F_qO3Jz5LI8 "Title")
 
 ### See also
-- [Graphs](Reports/Graphs.md)
+- [Graphs](CarePlan/Graphs.md)
 - [Activity Report](Reports/ActivityReport.md)

@@ -38,8 +38,7 @@ The target list is comprised of custom and library targets. You can quickly dele
 6. Click OK to save your changes.
 
 ### See also
-- [Add, Edit and Remove Goals](GoalsTargets/AddEditRemoveGoals.md)
-- [Goal Library](GoalsTargets/GoalLibrary.md)
-- [Add, Edit and Remove Targets](GoalsTargets/AddEditRemoveTargets.md)
-- [Target Library](GoalsTargets/TargetLibrary.md)
-- [Target Statuses](GoalsTargets/TargetStatuses.md)
+- [Add Goals and Targets](CarePlan/AddGoalsTargets.md)
+- [Edit and Remove Goals and Targets](CarePlan/EditRemoveGoalsTargets.md)
+- [Goal and Target Libraries](CarePlan/GoalTargetLibraries.md)
+- [Target Statuses](CarePlan/TargetStatuses.md)

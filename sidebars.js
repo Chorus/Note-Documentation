@@ -17,22 +17,16 @@ module.exports = {
       'DataCollection/PaperDataCollection'
     ],
     'Care Plan':[
-      'CarePlan/CarePlanStructure',
-      'CarePlan/UnderstandingHierarchy',
+      'CarePlan/CarePlanSetup',
+      'CarePlan/AddGoalsTargets',
+      'CarePlan/GoalTargetLibraries',
+      'CarePlan/DefaultConfiguration',
+      'CarePlan/EditRemoveGoalsTargets',
+      'CarePlan/AddBehaviorsObjectives',
+      'CarePlan/EditRemoveBehaviorsObjectives',
+      'CarePlan/TargetStatuses',
+      'CarePlan/Graphs',
       'CarePlan/CarePlanViews',
-    ],
-    'Goals and Targets':[
-      'GoalsTargets/AddEditRemoveGoals',
-      'GoalsTargets/GoalLibrary',
-      'GoalsTargets/AddEditRemoveTargets',
-      'GoalsTargets/TargetLibrary',
-      'GoalsTargets/DefaultConfiguration',
-      'GoalsTargets/TargetStatuses',
-      'GoalsTargets/Graphs',
-    ],
-    'Behaviors':[
-      'Behaviors/AddEditRemoveBehaviors',
-      'Behaviors/AddEditRemoveObjectives',
     ],
     'Reports':[
       'Reports/ActivityReport',

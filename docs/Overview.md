@@ -53,5 +53,5 @@ Watch all [Note Support Videos.](https://www.youtube.com/channel/UC4N8PexvVoFjGO
 
 ### See also
 - [Session List](Session/SessionList.md)
-- [Care Plan Structure](CarePlan/CarePlanStructure.md)
-- [Graphs](Reports/Graphs.md)
+- [Care Plan Setup](CarePlan/CarePlanSetup.md)
+- [Graphs](CarePlan/Graphs.md)

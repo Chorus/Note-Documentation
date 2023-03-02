@@ -27,8 +27,7 @@ To keep the care plan organized, every target has a status. You can see the stat
 - A goal with deactivated targets only is displayed in the Past tab. 
 
 ### See also
-- [Add, Edit and Remove Goals](GoalsTargets/AddEditRemoveGoals.md)
-- [Goal Library](GoalsTargets/GoalLibrary.md)
-- [Add, Edit and Remove Targets](GoalsTargets/AddEditRemoveTargets.md)
-- [Target Library](GoalsTargets/TargetLibrary.md)
-- [Default Configuration](GoalsTargets/DefaultConfiguration.md)
+- [Add Goals and Targets](CarePlan/AddGoalsTargets.md)
+- [Edit and Remove Goals and Targets](CarePlan/EditRemoveGoalsTargets.md)
+- [Goal and Target Libraries](CarePlan/GoalTargetLibraries.md)
+- [Default Configuration](CarePlan/DefaultConfiguration.md)
