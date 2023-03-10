@@ -46,7 +46,11 @@ A problem behavior is made up of:
 
 <img src="/img/CarePlanHierarchy.png" width="350"  />
 
-The number next to the goal tells you how many targets there are in the goal across all tabs and statuses. The same goes for the number next to the behavior. 
+:::note
+The number next to the goal tells you how many targets there are in the goal across all tabs and statuses, so you can better understand how many prerequisite skills lead up to the long-term goal.
+
+The number next to the behavior tells you how many objectives there are in the behavior across all tabs and statuses, so you can better understand how many objectives are being tracked per behavior.
+:::
 
 ## See Also
 - [Target Statuses](CarePlan/TargetStatuses.md)
