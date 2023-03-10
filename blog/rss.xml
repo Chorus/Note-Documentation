@@ -4,23 +4,9 @@
         <title>Note Documentation Blog</title>
         <link>https://notedocs.chorus.cloud/blog</link>
         <description>Note Documentation Blog</description>
-        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://notedocs.chorus.cloud/blog/2019/05/30/welcome</link>
-            <guid>Welcome</guid>
-            <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hello]]></title>
-            <link>https://notedocs.chorus.cloud/blog/2019/05/29/hello-world</link>
-            <guid>Hello</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
-        </item>
         <item>
             <title><![CDATA[Hola]]></title>
             <link>https://notedocs.chorus.cloud/blog/2019/05/28/hola</link>
