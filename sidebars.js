@@ -9,6 +9,8 @@ module.exports = {
       'Session/SessionList', 
       'Session/SessionStatuses',
       'Session/CreateEditCancelSession',
+      'Session/SessionNotes',
+      'Session/SubmitSession'
     ],
     'Data Collection':[
       'DataCollection/DataCollectionOnTargetList',
@@ -26,16 +28,16 @@ module.exports = {
       'CarePlan/EditRemoveBehaviorsObjectives',
       'CarePlan/TargetStatuses',
       'CarePlan/Graphs',
-      'CarePlan/CarePlanViews',
+      'CarePlan/CarePlanViews'
     ],
     'Reports':[
       'Reports/ActivityReport',
       'Reports/CareTeamManagement',
-      'Reports/ReassessmentReport',
+      'Reports/ReassessmentReport'
     ],
     'Settings':[
       'Settings/Sync',
-      'Settings/ModifyPIN',
+      'Settings/ModifyPIN'
     ]
   },
 };
