@@ -21,7 +21,7 @@ There are 4 sections in a Direct Care session note:
     - Regressing Scores: lower scores than the previous data point on that target.
     - Incomplete Scores: scores where the minimum trials configured by the BCBA for that target were not collected.
     - Problem Behaviors: behaviors that occurred during the session.
-- **Setting Events**: Include observable and measurable details about the preferences and reinforcers utilized during the session.
+- **Setting Events**: Include observable and measurable details that may have interfered with your session or possibly impacted the increase in occurrence or intensity of problem behaviors.
 - **Preferences and Reinforcers**: Include observable and measurable details about the preferences and reinforcers utilized during the session.
     - Preferences include tangible and intangible stimuli that a learner may demonstrate interest in. This may include items selected for an intervention.
     - Reinforcers include tangible and intangible stimuli delivered to a learner upon demonstration of a desired behavior to increase future likelihood of its occurrence.
