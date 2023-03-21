@@ -4,10 +4,13 @@ title: Session Notes
 ---
 A session note is a detailed summary of what occurred during your session and how it impacts the learner's overall progress.
 
-Any detail you include in your session note will be submitted to insurance and available to your BCBA. 
+:::note
+Aside from complying with insurance funders' requirements, session notes help team members gain a better visualization of what occurred in each session, to support clinical decision-making regarding modifications to interventions in the care plan. Any detail you include in your session note will be submitted to insurance and available to the learner's BCBA.
+:::
 
 ## Direct Sessions
-**Coming Soon!**
+
+**Watch our walk-through of how to complete a session note, with examples!** Video tutorial coming soon.
 
 After collecting data on your direct care session, complete the session note before submitting your session.
 
@@ -16,9 +19,9 @@ There are 4 sections in a Direct Care session note:
 - **Participants**: Select and add the participants who were present at your session. 
     
     You can include names of additional participants in parentheses after the title of the participant: "Sister (Alice Smith)", "Father (Bob Smith)"
-- **Session Insights**: This section categorizes the data you collected so that you can understand how it affects the overall progress on each target.
-    - Improving Scores: higher scores than the previous data point on that target.
-    - Regressing Scores: lower scores than the previous data point on that target.
+- **Session Insights**: Review the data you collected during your session to understand how it affects the overall progress for each target. Data you collected during your session will fall under one of the following categories:
+    - Improving Scores: higher scores than the previous data point for that target.
+    - Regressing Scores: lower scores than the previous data point for that target.
     - Incomplete Scores: scores where the minimum trials configured by the BCBA for that target were not collected.
     - Problem Behaviors: behaviors that occurred during the session.
 - **Setting Events**: Include observable and measurable details that may have interfered with your session or possibly impacted the increase in occurrence or intensity of problem behaviors.
@@ -30,8 +33,7 @@ After completing the session note, tap "Review Session Note" to generate a sessi
 
 <iframe width="442" height="935" src="//invis.io/MW1370CJ35UD" frameborder="0" allowfullscreen></iframe>
 
-## BCBA Sessions
-**Coming Soon!**
+## BCBA Sessions- Coming Soon!
 
 After completing your session and making any changes to the care plan that you'd like to mention in your session note, complete the session note before submitting your session.
 
