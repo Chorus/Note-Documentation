@@ -8,9 +8,19 @@ A session note is a detailed summary of what occurred during your session and ho
 Aside from complying with insurance funders' requirements, session notes help team members gain a better visualization of what occurred in each session, to support clinical decision-making regarding modifications to interventions in the care plan. Any detail you include in your session note will be submitted to insurance and available to the learner's BCBA.
 :::
 
-## Direct Sessions
+## Direct Care Sessions
 
-**Watch our walk-through of how to complete a session note, with examples!** Video tutorial coming soon.
+**Watch our walk-through of how to complete a session note, with examples!** 
+
+
+If the video below is blocked for you, [click here to watch the tutorial](https://notefiles.blob.core.windows.net/notevideos/How%20to%20Complete%20Direct%20Care%20Session%20Notes.mp4 "Title")
+
+import ReactPlayer from 'react-player';
+
+<ReactPlayer url='https://www.youtube.com/watch?v=PMwykZ0CMCk' />
+
+
+
 
 After collecting data on your direct care session, complete the session note before submitting your session.
 
