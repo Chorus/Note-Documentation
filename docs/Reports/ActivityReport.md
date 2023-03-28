@@ -2,11 +2,11 @@
 id: ActivityReport
 title: Activity Report
 ---
-This report allows you to review all activity in a student's care plan in a specified period of time. 
+This report allows you to review all activity in a learner's care plan in a specified period of time. 
 
 <img src="/img/ActivityReport.png" width="400" />
 
-1. Click on a student. 
+1. Click on a learner. 
 2. Click the filter button in the top right corner. 
 3. Select Activity Report under the View category. 
 4. Select the date range and choose whether to display graphs. 

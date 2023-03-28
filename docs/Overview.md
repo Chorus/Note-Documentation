@@ -3,9 +3,9 @@ id: Overview
 title: Overview
 sidebar_label: Overview
 ---
-The main navigation is divided into three components: **Sessions**, **Students** and **Settings**.
+The main navigation is divided into three components: **Sessions**, **Learners** and **Settings**.
 
-**Sessions** serves as your personal calendar and provides relevant tools for your daily schedule. **Students** allows you to create and manage your student's care plans. **Settings** enables you to sync your device and modify your PIN.
+**Sessions** serves as your personal calendar and provides relevant tools for your daily schedule. **Learners** allows you to create and manage your learner's care plans. **Settings** enables you to sync your device and modify your PIN.
 
 ## Sessions
 
@@ -21,20 +21,20 @@ Within each session you will see a General tab with the session details and an O
 2. Select a session.
 
 
-## Students
+## Learners
 
-In Students, you will see the student list, which is created and maintained by the agency. Select a student to see the student's care plan, profile, and sessions.
+In Learners, you will see the learner list, which is created and maintained by the agency. Select a learner to see the learner's care plan, profile, and sessions.
 
 <img src="/img/StudentList.png" width="400" />
 
-In a student's care plan, you can manage all the goals and targets for the student for both skill acquisition and behavior reduction. In the sessions tab within a student, you can see all sessions from the entire care team for this student. In the student profile you will find basic information about the student, such as date of birth and parent's contact information.
+In a learner's care plan, you can manage all the goals and targets for the learner for both skill acquisition and behavior reduction. In the sessions tab within a learner, you can see all sessions from the entire care team for this learner. In the learner profile you will find basic information about the learner, such as date of birth and parent's contact information.
 
-### Navigate to a student:
+### Navigate to a learner:
 
-1. Tap on Students in the bottom navigation bar.
-2. Select a student.
+1. Tap on Learners in the bottom navigation bar.
+2. Select a learner.
 
-You will see active goals and targets in the Care Plan with the ability to switch between the future, in progress and past tabs. You can also see the student's profile and sessions.
+You will see active goals and targets in the Care Plan with the ability to switch between the future, in progress and past tabs. You can also see the learner's profile and sessions.
 
 ## Settings
 

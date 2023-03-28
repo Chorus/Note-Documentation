@@ -2,7 +2,7 @@
 id: DefaultConfiguration
 title: Default Configuration
 ---
-This feature gives you the ability to configure targets once and reuse them across all your students without having to configure them each time. 
+This feature gives you the ability to configure targets once and reuse them across all your learners without having to configure them each time. 
 
 <img src="/img/TargetList.png" width="400" />
 
@@ -15,12 +15,12 @@ This feature gives you the ability to configure targets once and reuse them acro
 
 The configuration for that target is now saved. You can view the configuration details of every target by clicking on the expand arrow and can always click Edit to go back and edit the configurations.  
 
-The configuration will only be saved and applied to the target if it’s configured in the target list, not in a student’s care plan.  
+The configuration will only be saved and applied to the target if it’s configured in the target list, not in a learner’s care plan.  
 
-If you want to make a change that’s specific to the student, you would make the change in the students care plan.  
+If you want to make a change that’s specific to the learner, you would make the change in the learners care plan.  
 
 ### Please note
-The changes you make in the target list, only affect the targets in your list. They do not affect targets in the target library and the targets already in student’s care plans. 
+The changes you make in the target list, only affect the targets in your list. They do not affect targets in the target library and the targets already in learner’s care plans. 
 
 Therefore, if the target was added to a care plan in the past, those care plan targets will not be updated.  
 

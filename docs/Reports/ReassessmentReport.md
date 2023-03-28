@@ -2,7 +2,7 @@
 id: ReassessmentReport
 title: Reassessment Report
 ---
-Your agency's assessment report template is available for any initial or follow-up assessment session. Data from your student’s care plan is automated into the report to ensure accuracy and efficiency. 
+Your agency's assessment report template is available for any initial or follow-up assessment session. Data from your learner’s care plan is automated into the report to ensure accuracy and efficiency. 
 
 1. Click on an Initial Assessment or Follow-up Assessment session.
 2. Tap and hold on Session Details in the header (right click on desktop).
