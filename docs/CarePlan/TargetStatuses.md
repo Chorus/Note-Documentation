@@ -10,19 +10,19 @@ To keep the care plan organized, every target has a status. You can see the stat
 
 **Future Configured:** Targets that are configured but not started and won’t be displayed in direct care sessions. 
 
-- You can configure targets in advance and start them once the student is ready. You also have the option to enter baseline data on a future target before including it in a direct care session. 
+- You can configure targets in advance and start them once the learner is ready. You also have the option to enter baseline data on a future target before including it in a direct care session. 
 
 **Baseline:** Targets that need baseline data and are displayed in direct care sessions. 
 
-**Active:** Targets that are being taught to the student and are displayed in direct care sessions.  
+**Active:** Targets that are being taught to the learner and are displayed in direct care sessions.  
 
-**Maintenance:** Targets that are being practiced by the student after the teaching is over and are displayed in direct care sessions.  
+**Maintenance:** Targets that are being practiced by the learner after the teaching is over and are displayed in direct care sessions.  
 
 **Mastered:** Targets that have been mastered and are not displayed in direct care sessions. 
 
-**On Hold:** In progress targets that are paused until the student is ready to acquire the skill. 
+**On Hold:** In progress targets that are paused until the learner is ready to acquire the skill. 
 
-**Deactivated:** Targets that were started but are being discontinued because it is out of scope for the student. 
+**Deactivated:** Targets that were started but are being discontinued because it is out of scope for the learner. 
 
 - A goal with deactivated targets only is displayed in the Past tab. 
 

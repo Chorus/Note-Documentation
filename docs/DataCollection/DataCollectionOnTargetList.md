@@ -3,7 +3,7 @@ id: DataCollectionOnTargetList
 title: Data Collection on Target List
 ---
 
-This feature enables you to collect data on multiple targets at the same time. Not only does this save time, but it also allows you to focus more on the student than your phone.   
+This feature enables you to collect data on multiple targets at the same time. Not only does this save time, but it also allows you to focus more on the learner than your phone.   
 
 <img src="/img/TargetListDC.png" width="400" />
 

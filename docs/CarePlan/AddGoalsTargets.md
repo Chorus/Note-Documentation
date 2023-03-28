@@ -11,9 +11,9 @@ title: Add Goals and Targets
 5. Select a goal from your goal list. 
 6. Choose to add the targets later or select the targets and click Add.
 
-The new goal will appear in the future tab of the student's care plan. 
+The new goal will appear in the future tab of the learner's care plan. 
 
-There are two ways to add targets to a goal in a student's care plan. 
+There are two ways to add targets to a goal in a learner's care plan. 
 
 ## Add Targets to a New Goal 
 
@@ -36,7 +36,7 @@ There are two ways to add targets to a goal in a student's care plan.
 4. Import from the goal library or create a new goal.
 5. Click Add.
 
-The new targets will appear on the goal details page and in the future tab of the student's care plan. 
+The new targets will appear on the goal details page and in the future tab of the learner's care plan. 
 
 Configure the target so that your team can address it in sessions. Only targets that are in baseline, active, or maintenance statuses will show in sessions.
 

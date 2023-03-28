@@ -6,8 +6,6 @@ When you open the app, you will see your upcoming sessions. Sessions serves as y
 
 <img src="/img/SessionList.png" width="400" />
 
-## View my schedule
-
 Sessions can be viewed by day, week, or month. You can navigate forward or backward in time using the arrows next to the date.  
 
 From anywhere in your sessions list, you can get back to today's sessions by clicking Go To Today.  

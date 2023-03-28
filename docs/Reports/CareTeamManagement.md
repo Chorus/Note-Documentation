@@ -2,11 +2,11 @@
 id: CareTeamManagement
 title: Care Team Management
 ---
-This report allows you to review every provider’s actions in a student's care plan within a specified period of time which makes managing your care team efficiently and easily.   
+This report allows you to review every provider’s actions in a learner's care plan within a specified period of time which makes managing your care team efficiently and easily.   
 
 <img src="/img/CareTeamManagement.png" width="400" />
 
-1. Click on a student.
+1. Click on a learner.
 2. Click the filter button in the top right corner.
 3. Select Care Team Management under the View category. 
 4. Select the date range and choose whether to display graphs. 

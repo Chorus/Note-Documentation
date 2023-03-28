@@ -2,7 +2,7 @@
 id: Graphs
 title: Graphs
 ---
-You can see the graph of a target by clicking on a target in a care plan. Graphs enable the BCBA to see a client’s progress plotted on a graph.  
+You can see the graph of a target by clicking on a target in a care plan. Graphs enable the BCBA to visualize a learner’s progress through plotted data points.  
 
 <img src="/img/TargetGraph.png" width="400" />
 

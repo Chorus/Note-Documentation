@@ -3,7 +3,7 @@ id: CarePlanSetup
 title: Care Plan Setup
 ---
 
-Select a student from the student list to view and manage the care plan.
+Select a learner from the learner list to view and manage the care plan.
 A care plan is divided into three sections: 
 
 **Future:** Targets that are not configured or not started and are not displayed in a direct care session. On hold targets and goals with no targets are also displayed here. 
@@ -27,7 +27,7 @@ A skill acquisition target is made up of:
 
 :::note
 The domains and subdomains relate to core Autism deficits and are managed by your agency.
-The structured hierarchy creates an organized care plan and ensures every student's care plan has the same structure.   
+The structured hierarchy creates an organized care plan and ensures every learner's care plan has the same structure.   
 :::
 
 You can create custom goals and targets and also utilize the goal and target library. 
