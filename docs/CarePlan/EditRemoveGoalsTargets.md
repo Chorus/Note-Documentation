@@ -8,12 +8,12 @@ You can edit a goal by clicking edit on the goal details page.
 
 ## Remove Goal 
 
-You can remove a goal from a student's care plan if the goal has no targets associated with it. 
+You can remove a goal from a learner's care plan if the goal has no targets associated with it. 
 
 1. Click on a goal. 
 2. Click “Edit” in the top right corner. 
 3. Click Remove goal.
-4. Confirm that you want to remove the goal from this student's care plan. 
+4. Confirm that you want to remove the goal from this learner's care plan. 
 
 In case you want to remove a goal that has targets: 
 
@@ -24,7 +24,7 @@ In case you want to remove a goal that has targets:
 ## Edit a Target 
 
 :::note
-In ABA, constant treatment planning based on data analysis is vital in order to maximize the impact of direct care sessions, remove barriers to treatment, and speed up progress. It's easy to tweak existing targets in your student's care plan. 
+In ABA, constant treatment planning based on data analysis is vital in order to maximize the impact of direct care sessions, remove barriers to treatment, and speed up progress. It's easy to tweak existing targets in your learner's care plan. 
 :::
 
 1. On the Care Plan, click on a target. 
@@ -35,11 +35,11 @@ In ABA, constant treatment planning based on data analysis is vital in order to 
 
 ## Remove a Target 
 
-1. You can remove a target from a student's care plan if the target has no data associated with it. 
+1. You can remove a target from a learner's care plan if the target has no data associated with it. 
 2. Click on a target. 
 3. Click Edit in the top right corner. 
 4. Click Remove target.
-5. Confirm that you want to remove the target from this student's care plan.
+5. Confirm that you want to remove the target from this learner's care plan.
 
 In case you want to remove a target that has data, you can deactivate the targets. A goal that only has deactivated targets will be displayed in the past tab. 
 

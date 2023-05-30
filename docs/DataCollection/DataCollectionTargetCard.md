@@ -20,6 +20,6 @@ Click the X button to go back to the target list.
 [Demo video: Data Collection on Target List and Target Card](https://youtu.be/-wdmkUeijpY "Title")
 
 ### See also
-- [Data Collection on Target List](DataCollection/DataCollectionTargetList.md)
+- [Data Collection on Target List](DataCollection/DataCollectionOnTargetList.md)
 - [Edit Data After the Session](DataCollection/EditDataAfterSession.md)
 - [Paper Data Collection](DataCollection/PaperDataCollection.md)

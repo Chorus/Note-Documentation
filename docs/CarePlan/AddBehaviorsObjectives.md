@@ -4,7 +4,7 @@ title: Add Behaviors and Objectives
 ---
 ## Add a Behavior 
 
-You can quickly add one or multiple problem behaviors to a student's care plan. 
+You can quickly add one or multiple problem behaviors to a learner's care plan. 
 
 1. On the Care Plan, tap the + icon in the bottom right corner.
 2. Choose a problem behavior category.
