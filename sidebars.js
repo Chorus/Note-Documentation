@@ -9,6 +9,7 @@ module.exports = {
       'Session/SessionList', 
       'Session/SessionStatuses',
       'Session/CreateEditCancelSession',
+      'Session/StartSession',
       'Session/SessionNotes',
       'Session/SubmitSession'
     ],
