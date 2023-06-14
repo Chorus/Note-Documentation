@@ -2,7 +2,11 @@
 id: EditDataAfterSession 
 title: Edit Data After the Session 
 ---
-After you end your session, you can edit the session data.
+After you end your session, you can edit the session data before submitting the session.
+
+:::note
+If you need to edit data after you completed your session note, edit your session note as well to ensure it still accurately summarizes your session.
+:::
 
 <img src="/img/EditDataSession.png" width="400" />
 
