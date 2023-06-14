@@ -29,6 +29,9 @@ There are 4 sections in a Direct Care session note:
 - **Participants**: Select and add the participants who were present at your session. 
     
     You can include names of additional participants in parentheses after the title of the participant: "Sister (Alice Smith)", "Father (Bob Smith)"
+- **Intervention Techniques**: Review the intervention techniques configured on targets addressed during the session. If all intervention techniques were used, leave as is. If some intervention techniques weren't used, deselect them from the list. 
+
+    This section does not appear on your session note when no intervention techniques were configured for targets addressed during your session
 - **Session Insights**: Review the data you collected during your session to understand how it affects the overall progress for each target. Data you collected during your session will fall under one of the following categories:
     - Improving Scores: higher scores than the previous data point for that target.
     - Regressing Scores: lower scores than the previous data point for that target.
