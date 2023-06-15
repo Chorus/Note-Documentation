@@ -24,7 +24,7 @@ import ReactPlayer from 'react-player';
 
 After collecting data on your direct care session, complete the session note before submitting your session.
 
-There are 4 sections in a Direct Care session note:
+There are 5 sections in a Direct Care session note:
 
 - **Participants**: Select and add the participants who were present at your session. 
     
