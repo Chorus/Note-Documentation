@@ -19,10 +19,11 @@ The configuration will only be saved and applied to the target if it’s configu
 
 If you want to make a change that’s specific to the learner, you would make the change in the learners care plan.  
 
-### Please note
+:::note
 The changes you make in the target list, only affect the targets in your list. They do not affect targets in the target library and the targets already in learner’s care plans. 
 
 Therefore, if the target was added to a care plan in the past, those care plan targets will not be updated.  
+:::
 
 [Demo video: How to Create Default Configurations for Targets](https://youtu.be/4faN4a3Ar8U "Title")
 
