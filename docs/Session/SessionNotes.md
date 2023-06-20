@@ -10,7 +10,7 @@ Aside from complying with insurance funders' requirements, session notes help te
 
 ## Direct Care Sessions
 
-**Clinical walk-through video of how to complete a session note, with examples:** 
+Clinical walk-through video of how to complete a session note, with examples:
 
 import ReactPlayer from 'react-player';
 
@@ -25,9 +25,11 @@ There are 5 sections in a Direct Care session note:
 
 - **Participants**: Select and add the participants who were present at your session. 
     
-- **Intervention Techniques**: Review the [intervention techniques](https://notefiles.blob.core.windows.net/notevideos/Intervention%20Techniques%20Tutorial.mp4) configured on targets addressed during the session. If all intervention techniques were used, leave as is. If some intervention techniques weren't used, deselect them from the list. 
+- **Intervention Techniques**: Review the intervention technques configured on targets addressed during the session. If all intervention techniques were used, leave as is. If some intervention techniques weren't used, deselect them from the list. 
 
-    This section does not appear on your session note when no intervention techniques were configured for targets addressed during your session
+    This section does not appear on your session note when no intervention techniques were configured for targets addressed during your session.
+
+    [Clinical walk-through video: Intervention Techniques](https://youtu.be/hbgzYZDCsVA)
 - **Session Insights**: Review the data you collected during your session to understand how it affects the overall progress for each target. Data you collected during your session will fall under one of the following categories:
     - Improving Scores: higher scores than the previous data point for that target.
     - Regressing Scores: lower scores than the previous data point for that target.
