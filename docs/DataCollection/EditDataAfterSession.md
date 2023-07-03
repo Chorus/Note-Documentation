@@ -20,7 +20,7 @@ If you need to edit data after you completed your session note, edit your sessio
 You can add, delete or change a response. Click OK to save your changes. You can't edit a target if the session was already submitted.
 
 ### See also
-- [Data Collection on Target List](DataCollection/DataCollectionTargetList.md)
+- [Data Collection on Target List](DataCollection/DataCollectionOnTargetList.md)
 - [Data Collection on Target Card](DataCollection/DataCollectionTargetCard.md)
 - [Paper Data Collection](DataCollection/PaperDataCollection.md)
 - [Session Notes](Session/SessionNotes.md)
