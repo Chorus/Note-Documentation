@@ -13,8 +13,9 @@ Aside from complying with insurance funders' requirements, session notes help te
 Clinical walk-through video of how to complete a session note, with examples:
 
 import ReactPlayer from 'react-player';
+import myVideo from '/sessionnotestutorial.mp4'
 
-<ReactPlayer playing controls url='/sessionnotestutorial.mp4' />
+<ReactPlayer playing controls url={myVideo} />
 
 Click [here](https://www.youtube.com/watch?v=PMwykZ0CMCk "Title") to watch the tutorial on our YouTube help channel.
 
