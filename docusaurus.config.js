@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Note Documentation',
-  tagline: 'Your digital care companion',
+  tagline: 'Capture in-session data and configure care plans with a digital care companion that lives in your pocket.',
   url: 'https://notedocs.chorus.cloud/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
