@@ -5,30 +5,31 @@ title: Session Notes
 A session note is a detailed summary of what occurred during your session and how it impacts the learner's overall progress.
 
 :::note
-Aside from complying with insurance funders' requirements, session notes help team members gain a better visualization of what occurred in each session, to support clinical decision-making regarding modifications to interventions in the care plan. Any detail you include in your session note will be submitted to insurance and available to the learner's BCBA.
+Aside from complying with insurance funders' requirements, session notes help team members gain a better visualization of what occurred in each session, to support clinical decision-making regarding modifications to interventions in the care plan. 
 :::
 
 ## Direct Care Sessions
 
-**Watch our walk-through of how to complete a session note, with examples!** 
-
-
-If the video below is blocked for you, [click here to watch the tutorial](https://notefiles.blob.core.windows.net/notevideos/How%20to%20Complete%20Direct%20Care%20Session%20Notes.mp4 "Title")
+Clinical walk-through video of how to complete a session note, with examples:
 
 import ReactPlayer from 'react-player';
 
 <ReactPlayer url='https://www.youtube.com/watch?v=PMwykZ0CMCk' />
 
-
+Or click [here](https://notefiles.blob.core.windows.net/notevideos/How%20to%20Complete%20Direct%20Care%20Session%20Notes.mp4 "Title") to watch the tutorial.
 
 
 After collecting data on your direct care session, complete the session note before submitting your session.
 
-There are 4 sections in a Direct Care session note:
+There are 5 sections in a Direct Care session note:
 
 - **Participants**: Select and add the participants who were present at your session. 
     
-    You can include names of additional participants in parentheses after the title of the participant: "Sister (Alice Smith)", "Father (Bob Smith)"
+- **Intervention Techniques**: Review the intervention technques configured on targets addressed during the session. If all intervention techniques were used, leave as is. If some intervention techniques weren't used, deselect them from the list. 
+
+    This section does not appear on your session note when no intervention techniques were configured for targets addressed during your session.
+
+    [Clinical walk-through video: Intervention Techniques](https://youtu.be/hbgzYZDCsVA)
 - **Session Insights**: Review the data you collected during your session to understand how it affects the overall progress for each target. Data you collected during your session will fall under one of the following categories:
     - Improving Scores: higher scores than the previous data point for that target.
     - Regressing Scores: lower scores than the previous data point for that target.
@@ -36,8 +37,6 @@ There are 4 sections in a Direct Care session note:
     - Problem Behaviors: behaviors that occurred during the session.
 - **Setting Events**: Include observable and measurable details that may have interfered with your session or possibly impacted the increase in occurrence or intensity of problem behaviors.
 - **Preferences and Reinforcers**: Include observable and measurable details about the preferences and reinforcers utilized during the session.
-    - Preferences include tangible and intangible stimuli that a learner may demonstrate interest in. This may include items selected for an intervention.
-    - Reinforcers include tangible and intangible stimuli delivered to a learner upon demonstration of a desired behavior to increase future likelihood of its occurrence.
 
 After completing the session note, tap "Review Session Note" to generate a session narrative based on the information you entered on the note. Edit and add detail to ensure it accurately summarizes your session, then save the note.
 

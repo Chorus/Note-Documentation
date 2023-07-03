@@ -46,6 +46,7 @@ Configure the target so that your team can address it in sessions. Only targets 
 
 [Demo video: Configure a Count Target](https://youtu.be/4bu7Z_nAeWI "Title")
 
+[Clinical walk-through video: Intervention Techniques](https://youtu.be/hbgzYZDCsVA)
 
 ### See also
 - [Care Plan Setup](CarePlan/CarePlanSetup.md)

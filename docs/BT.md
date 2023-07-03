@@ -7,6 +7,9 @@ title: Behavior Technician Guide
 - [Session List](Session/SessionList.md)
 - [Session Statuses](Session/SessionStatuses.md)
 - [Create, Edit and Cancel a Session](Session/CreateEditCancelSession.md)
+- [Start a Session](Session/StartSession.md)
+- [Session Notes](Session/SessionNotes.md)
+- [Submit a Session](Session/SubmitSession.md)
 
 **Data Collection**
 - [Data Collection on Target List](DataCollection/DataCollectionOnTargetList.md)
