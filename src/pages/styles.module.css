@@ -7,7 +7,7 @@
 
 .heroBanner {
   padding: 4rem 0;
-  text-align: center;
+  text-align: left;
   position: relative;
   overflow: hidden;
   background: linear-gradient(135deg, #69469D, #4F87C4);
@@ -22,8 +22,9 @@
 
 .buttons {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: left;
+  justify-content: left;
+  color: white;
 }
 
 .features {
