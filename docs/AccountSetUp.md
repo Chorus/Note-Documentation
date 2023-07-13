@@ -5,7 +5,7 @@ sidebar_label: Account Setup
 ---
 Welcome, we’re excited for you to get started! Follow the steps below to set up your account. 
 
-1. Download Note from the app store by searching Note ABA. 
+1. Download Note from the app store by searching "Note ABA". (On Android devices, search "Note for Autism Care" in the Google Play Store).
 2. Click Confirm Account on the Note invite email you received. 
 3. Create and confirm a password and click Create. 
 
