@@ -15,10 +15,8 @@ Clinical walk-through video of how to complete a session note, with examples:
 import ReactPlayer from 'react-player';
 import myVideo from '/sessionnotestutorial.mp4'
 
-<ReactPlayer playing controls url={myVideo} />
-
-Click [here](https://www.youtube.com/watch?v=PMwykZ0CMCk "Title") to watch the tutorial on our YouTube help channel.
-
+<ReactPlayer url='https://www.youtube.com/watch?v=PMwykZ0CMCk' />
+Or click [here](https://notefiles.blob.core.windows.net/notevideos/How%20to%20Complete%20Direct%20Care%20Session%20Notes.mp4 "Title") to watch the tutorial.
 
 After collecting data on your direct care session, complete the session note before submitting your session.
 
