@@ -20,7 +20,7 @@ When there are multiple data points collected on the same day, for targets with 
 
 Under the History tab, you can see all activity regarding the target:  
 
-- Phase changes 
+- Condition changes 
 - Data points from sessions 
 - Manually added data points 
 
