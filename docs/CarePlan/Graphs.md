@@ -10,7 +10,7 @@ The Y axis labels change based on the form of measure and the X axis displays th
 
 The filter, in the top right corner, can be used to view data points collected by a specific provider on the graph. 
 
-Phase changes and data points can be added to the graph if the target is at an in-progress status (Baseline, Active, or Maintenance).
+Condition changes and data points can be added to the graph if the target is at an in-progress status (Baseline, Active, or Maintenance).
 
 :::note
 When there are multiple data points collected on the same day, for targets with a form of measure that scores as a percentage, the average of the scores will be plotted on the graph. For targets with a form of measure that scores as a count, the sum of the scores will be plotted on the graph.
