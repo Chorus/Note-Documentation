@@ -26,7 +26,7 @@ To keep the care plan organized, every target has a status. You can see the stat
 
 - A goal with deactivated targets only is displayed in the Past tab.
 
-# Change a Target's Status
+## Change a Target's Status
 
 1. On the Care Plan, click on a target.
    - If the target is "future configured", you can click the Start Target button to start the target as Baseline, or add baseline baseline and start the target as Active. For all other statuses, continue with the steps below.
