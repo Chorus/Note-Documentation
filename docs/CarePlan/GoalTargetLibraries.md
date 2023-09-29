@@ -2,7 +2,7 @@
 id: GoalTargetLibraries
 title: Goal and Target Libraries
 ---
-You can utilize the goal and target libraries created by the agency. This makes it easier to create and update care plans.
+You can utilize the goal and target libraries created by the organization. This makes it easier to create and update care plans.
 
 ## Goal Library
 <img src="/img/GoalLibrary.png" width="400" />
