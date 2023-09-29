@@ -26,7 +26,7 @@ A skill acquisition target is made up of:
 4. Target 
 
 :::note
-The domains and subdomains relate to core Autism deficits and are managed by your agency.
+The domains and subdomains relate to core Autism deficits and are managed by your organization.
 The structured hierarchy creates an organized care plan and ensures every learner's care plan has the same structure.   
 :::
 

@@ -23,7 +23,7 @@ Within each session you will see a General tab with the session details and an O
 
 ## Learners
 
-In Learners, you will see the learner list, which is created and maintained by the agency. Select a learner to see the learner's care plan, profile, and sessions.
+In Learners, you will see the learner list, which is created and maintained by the organization. Select a learner to see the learner's care plan, profile, and sessions.
 
 <img src="/img/StudentList.png" width="400" />
 
@@ -38,7 +38,7 @@ You will see active goals and targets in the Care Plan with the ability to switc
 
 ## Settings
 
-In Settings, you can see when the app last synced with the agency's database. You can trigger a sync to get and send the most updated information.
+In Settings, you can see when the app last synced with the organization's database. You can trigger a sync to get and send the most updated information.
 
 <img src="/img/Sync.png" width="400" />
 

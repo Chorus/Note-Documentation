@@ -10,3 +10,5 @@ Welcome, we’re excited for you to get started! Follow the steps below to set u
 3. Create and confirm a password and click Create. 
 
 You’re all set up! To install Note on additional devices, click Confirm Account on the invite email on that device. Follow the prompt to login to your existing account: Already have an account? Login. 
+
+[Setup Instructions](../blog/InstallNote.md)

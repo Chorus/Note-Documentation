@@ -3,11 +3,11 @@ id: CreateEditCancelSession
 title: Create, Edit and Cancel a Session  
 ---
 
-Sessions scheduled for you by your agency will appear on your session list. 
+Sessions scheduled for you by your organization will appear on your session list. 
 
 ## Create a Session
 
-If your agency allows you to schedule your own sessions, you will have access to add sessions to your session list.
+If your organization allows you to schedule your own sessions, you will have access to add sessions to your session list.
 
 <img src="/img/SessionList.png" width="400" />
 
@@ -15,7 +15,7 @@ If your agency allows you to schedule your own sessions, you will have access to
 2. Fill out the required information. 
 3. Click OK to save the session. 
 
-Your session is saved and will be validated by your agency. The session status will be updated throughout the process.
+Your session is saved and will be validated by your organization. The session status will be updated throughout the process.
 
 ## Edit a Session
 
@@ -26,9 +26,9 @@ Your session is saved and will be validated by your agency. The session status w
 3. Make the change(s). 
 4. Click OK to save.
 
-Sessions scheduled by your agency can be edited to a different day in the same week. For additional changes to sessions scheduled by your agency (rescheduling to a different week, increased session duration) contact your agency to make these changes.
+Sessions scheduled by your organization can be edited to a different day in the same week. For additional changes to sessions scheduled by your organization (rescheduling to a different week, increased session duration) contact your organization to make these changes.
 
-All changes are saved and the updated session will be validated by your agency. 
+All changes are saved and the updated session will be validated by your organization. 
 
 ## Cancel a Session
 
@@ -40,9 +40,9 @@ All changes are saved and the updated session will be validated by your agency.
 
 Your session has been cancelled and the status of the session is updated to Cancelled.  
 
-You can undo this action by clicking Undo on the session details screen and the session status will be updated to Pending Validation to be validated by your agency. 
+You can undo this action by clicking Undo on the session details screen and the session status will be updated to Pending Validation to be validated by your organization. 
 
-You cannot cancel sessions scheduled by your agency. Contact your agency to cancel such sessions.
+You cannot cancel sessions scheduled by your organization. Contact your organization to cancel such sessions.
 
 [Demo video: Create and Manage a Session ](https://youtu.be/xES-ni3GvLQ/ "Title")
 
