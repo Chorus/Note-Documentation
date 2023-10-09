@@ -1,12 +1,14 @@
 ---
 id: DownloadNote
-title: Download Note
+hide_title: true
 sidebar_label: Download Note
 ---
 
+## Download Note
+
 The Note app is available on iOS and Android mobile devices, as well as Windows PCs and Apple PCs with the M1 chip.
 
-## Mobile Devices
+### Mobile Devices
 
 | **iOS**  (iPhones and iPads)  | **Android**          |
 | ------------- |-------------|
@@ -14,7 +16,7 @@ The Note app is available on iOS and Android mobile devices, as well as Windows 
 
 Proceed to [Account Setup](../docs/AccountSetUp.md) if you are downloading Note for the first time.                                                                        
 
-## Apple PCs
+### Apple PCs
 
 On Apple PCs (Macs with the M1 chip):
 
@@ -24,7 +26,7 @@ On Apple PCs (Macs with the M1 chip):
 
 Proceed to [Account Setup](../docs/AccountSetUp.md) if you are downloading Note for the first time. 
 
-## Windows PCs
+### Windows PCs
 
 import ReactPlayer from 'react-player';
 import myVideo from '/InstallNoteonPC.mp4'
@@ -44,3 +46,23 @@ To manually update or install the Note app on your PC, watch the tutorial and fo
 7. Wait for installer to complete the update. Proceed to [Account Setup](../docs/AccountSetUp.md) if installing Note for the first time. 
 
 After Note is launched, you can pin it to your taskbar for easy access.
+
+## Update Note
+
+Keep Note updated to the latest version for new features and fixes!
+
+### Mobile Devices
+
+| **iOS**  (iPhones and iPads)  | **Android**          |
+| ------------- |-------------|
+| 1. Open the App Store app. <br /> 2. Tap your profile icon at the top of the screen. Scroll to see pending updates. <br /> 3. Click Update next to Note ABA or click Update All. <br />|1. Open the Google Play Store app. <br />2. Tap your profile icon at the top right of the screen. <br />3. Click “Manage Apps & Device.” Apps with an update available are listed. <br /> 4. Click Update on Note for Autism Care.<br />|                                                                       
+
+### Apple PCs
+
+1. Open the App Store app on your Mac.
+2. On the sidebar, click Updates.
+3. Click Update next to Note ABA, or click Update All.
+
+### Windows PCs
+
+See [Windows PCs](#windows-pcs) above for instructions.
