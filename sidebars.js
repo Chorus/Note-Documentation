@@ -2,8 +2,9 @@ module.exports = {
   someSidebar: {
     'Getting Started': [
       'Overview',
-      'AccountSetup',
-      'BT'
+      'GettingStarted/DownloadNote',
+      'GettingStarted/AccountSetup',
+      'GettingStarted/BT',
     ],
     Sessions: [
       'Session/SessionList', 

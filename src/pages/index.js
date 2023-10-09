@@ -52,7 +52,7 @@ function Feature({imageUrl, title, description, videoUrl}) {
       <h3>{title}</h3>
       <p>{description}</p>
       <div>
-        <ReactPlayer height='640px' width='360px' controls='1' url={videoUrl}/>
+        <ReactPlayer height='640px' width='360px' controls='1' url={videoUrl} playing= 'false' muted='true'/>
       </div>
     </div>
   );
