@@ -13,6 +13,8 @@ When you are ready to submit your session to your organization for payment, sele
 
 Your session is now submitted!
 
+<img src="/img/SessionDetailsReadyToSubmit.png" width="250" /> <img src="/img/SignAndSubmit.png" width="250" /> <img src="/img/SessionSubmitted.png" width="250" />
+
 
 ### See also
 - [Session Statuses](Session/SessionStatuses.md)
