@@ -39,16 +39,17 @@ There are 5 sections in a Direct Care session note:
 
 After completing the session note, tap "Review Session Note" to generate a session narrative based on the information you entered on the note. Edit and add detail to ensure it accurately summarizes your session, then save the note.
 
-<iframe width="442" height="935" src="//invis.io/MW1370CJ35UD" frameborder="0" allowfullscreen></iframe>
+## BCBA Sessions- New!
 
-## BCBA Sessions- Coming Soon!
+<ReactPlayer url='https://youtu.be/Cg5eEJgl2vg'/>
+
+Or click [here](https://notefiles.blob.core.windows.net/notevideos/BCBA%20Session%20Notes%20Tutorial.mp4) to watch the tutorial.
 
 After completing your session and making any changes to the care plan that you'd like to mention in your session note, complete the session note before submitting your session.
 
 There are 3 sections in BCBA session notes:
 
 - **Participants**: Select and add the participants who were present at your session.
-    
     You can include names of additional participants in parentheses after the title of the participant: "Sister (Alice Smith)", "Father (Bob Smith)"
 - **Session Summary**: This section shows common tasks done during the service you completed. Select the tasks you did during your session, and add detail where prompted.
     - Some tasks allow you to reference targets added to the care plan, updates to targets, or scores collected on the date of the session. On Supervision sessions, you will also be able to reference scores collected by the Behavior Technician during the timing of your session.
