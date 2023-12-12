@@ -35,7 +35,7 @@ module.exports = {
     'Reports':[
       'Reports/ActivityReport',
       'Reports/CareTeamManagement',
-      'Reports/ReassessmentReport'
+      'Reports/AssessmentReport'
     ],
     'Settings':[
       'Settings/Sync',
