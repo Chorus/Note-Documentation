@@ -19,11 +19,12 @@ A saved report can be opened in Google Docs.
 
 ## Assessment Data
 
-Data from your learner’s care plan is automated into the report to ensure accuracy and boost efficiency. 
+Data from your learner’s care plan and images of graphs are automated into the report to ensure accuracy and boost efficiency. 
 
 ### Skill Acquisition Data
 
 Each skill acquisition Domain is printed with your organization's Domain description, followed by 3 tables listing targets in this domain. 
+- Graphs for each target printed in the In Progress and Mastered tables follow each table.
 - A target will not be listed on the report if there was no data collected on it within the selected authorization period. 
 - For initial assessments, input baseline data in the care plan before generating the report.
 
