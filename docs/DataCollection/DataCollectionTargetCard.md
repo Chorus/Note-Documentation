@@ -15,7 +15,7 @@ Each time you click yes or no, the trial count gets updated, and the last respon
  
 If you want to see more information about the target, you can click on the instructions tab where the target configuration is displayed.
 
-<img src="/img/InstructionsTab.png" width="400" />
+<img src="/img/InstructionsTab.png" width="315" />
 
 Click the X button to go back to the target list.
 
