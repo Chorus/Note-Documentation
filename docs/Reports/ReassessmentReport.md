@@ -24,7 +24,7 @@ Data from your learner’s care plan and images of graphs are automated into the
 ### Skill Acquisition Data
 
 Each skill acquisition Domain is printed with your organization's Domain description, followed by 3 tables listing targets in this domain. 
-- Graphs for each target printed in the In Progress and Mastered tables follow each table.
+
 - A target will not be listed on the report if there was no data collected on it within the selected authorization period. 
 - For initial assessments, input baseline data in the care plan before generating the report.
 
@@ -33,12 +33,14 @@ Each skill acquisition Domain is printed with your organization's Domain descrip
 | Subdomain  | Goal | Target | Date Mastered | Included in Group Session |
 |-----------|-----|--------|----------------|-----------------------------|
 |Subdomain|Goal|Target|Date Mastered||
+Graphs for each target in the *Mastered* table are printed after the table.
 
 *In Progress Goals and Objectives*: targets in Baseline or Active statuses at the end of the selected authorization period
 
 | Subdomain  | Goal | Target | Baseline Level | Start Date | Current Level | Mastery Criteria | Target Date |Included in Group Session |
 |-----------|-----|--------|----------------|-----------------------------|----------------|---------|---------------------------------|--|
 | Subdomain  |Goal |Target| Average of all baseline data points| Date of first active data point| Average of last 5 data points|Mastery Criteria|Targeted Mastery Date||
+Graphs for each target in the *In Progress* table are printed after the table.
 
 *Future Goals and Objectives*: targets in Future or On Hold statuses at the end of the selected authorization period
 
@@ -67,6 +69,8 @@ Interpretation and Analysis of Function of Behavior: State the function of the b
 Replacement Behaviors: What functionally equivalent replacement behaviors are you teaching the client?
 
 **Reactive/De-escalation Strategies**: Consequential Intervention, as input in the care plan.
+
+Graphs for each behavior are printed.
 
 ### See also
 - [Activity Report](Reports/ActivityReport.md)
