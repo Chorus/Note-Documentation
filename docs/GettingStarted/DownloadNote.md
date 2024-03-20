@@ -49,7 +49,7 @@ After Note is launched, you can pin it to your taskbar for easy access.
 
 ## Update Note
 
-Keep Note updated to the latest version for new features and fixes! Update to version 1.4.1 (1.4.2931.1 on Windows PC).
+Keep Note updated to the latest version for new features and fixes! Update to version 1.4.2 (1.4.2949.2 on Windows PC).
 
 ### Mobile Devices
 
