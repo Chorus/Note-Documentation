@@ -15,6 +15,7 @@ module.exports = {
       'Session/SubmitSession'
     ],
     'Data Collection':[
+      'DataCollection/FormsOfMeasure',
       'DataCollection/DataCollectionOnTargetList',
       'DataCollection/DataCollectionOnTargetCard',
       'DataCollection/EditDataAfterSession',
