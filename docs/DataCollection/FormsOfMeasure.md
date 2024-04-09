@@ -25,7 +25,7 @@ The score will not be plotted on the graph if the minimum trials that the BCBA d
 ### Count
 Collect data on count targets from the [target list](../DataCollection/DataCollectionOnTargetList.md) or the [target card](../DataCollection/DataCollectionTargetCard.md) by pressing Add Count based on the learner's response to intervention.
 
-### Duration
+### Duration - Coming Soon!
 
 **Average Duration**
 
@@ -39,13 +39,13 @@ The behavior objective displays under the behavior name on the target list.
 ### Count
 Collect data on count behaviors from the [target list](../DataCollection/DataCollectionOnTargetList.md) or the [target card](../DataCollection/DataCollectionTargetCard.md) by pressing Add Count based on the learner's behavior occurrences.
 
-### Duration
+### Duration - Coming Soon!
 
 **Average Duration**
 
 **Total Duration**
 
-### Rate
+### Rate - Coming Soon!
 
 **Session Duration as Observation Period**
 
