@@ -2,38 +2,38 @@
 id: FormsOfMeasure
 title: Forms of Measure
 ---
-## Target Forms of Measure
-Each skill acquisition target is configured with a form of measure. The form of measure controls how you are able to collect data on that target.
+## Skill Acquisition Target Forms of Measure
+Each skill acquisition target is configured with a form of measure. The form of measure controls how you are able to collect data on that target. A BCBA chooses the form of measure by assessing how to measure the effectiveness of the intervention in influencing behavior change.
 
 ### Percent Correct
-Collect data on *percent correct* targets from the [target list](../DataCollection/DataCollectionOnTargetList.md) or the [target card](../DataCollection/DataCollectionTargetCard.md) by pressing Yes/No based on the learner's response to intervention.
+Collect data on *percent correct* targets from the [target list](../DataCollection/DataCollectionOnTargetList.md) or the [target card](../DataCollection/DataCollectionTargetCard.md) by selecting Yes/No based on the learner's response to intervention.
 
 A percent score is calculated based on correct trials out of total trials.
 
 The score will not be plotted on the graph if the minimum trials that the BCBA defined was not collected. An orange * will indicate that you did not yet meet the minimum trials criteria.
 
 ### Task Analysis
-Collect data on *task analysis* targets from the [target card](../DataCollection/DataCollectionTargetCard.md) by pressing Yes/No based on the learner's response to intervention for each step of each trial.
+Collect data on *task analysis* targets from the [target card](../DataCollection/DataCollectionTargetCard.md) by selecting Yes/No based on the learner's demonstration of each step within a sequence of steps that constitutes a trial/skill.
 
-A trial will be marked incomplete if data was not collected on all steps in the trial. Incomplete trials are not included in the score.
+A trial will be marked incomplete if data was not collected on all steps in the trial. Incomplete trials are not included in the score. 
 
 The score is calculated based on the average of all complete trials. Trial scores are calculated as a percent based on correct steps out of total steps.
 
 The score will not be plotted on the graph if the minimum trials that the BCBA defined was not collected. An orange * will indicate that you did not yet meet the minimum trials criteria.
 
 
-### Count
-Collect data on *count* targets from the [target list](../DataCollection/DataCollectionOnTargetList.md) or the [target card](../DataCollection/DataCollectionTargetCard.md) by pressing Add Count based on the learner's response to intervention.
+### Count 
+Collect data on *count* (frequency) targets from the [target list](../DataCollection/DataCollectionOnTargetList.md) or the [target card](../DataCollection/DataCollectionTargetCard.md) by selecting Add Count based on the learner's demonstration of the targeted skill.
 
 ### Duration - Coming Soon!
 
-Collect data on *duration* targets by starting a timer when the learner's response to intervention begins. You can pause the timer if you are unsure if the targeted skill has ended, and resume it if it continues, or stop the timer to finish that occurrence.
+Collect data on *duration* targets by starting a timer at the onset of when the learner demonstrates the defined skill. You can pause, resume and stop the timer as necessary.
 
 The score is either saved as the **Average Duration** of all occurrences of the target, or the **Total Duration** of all occurrences of the target, based on how the BCBA configured the target. A score is saved in hours, minutes, and seconds.
 
 When the target is measured as **Average Duration**, there will be a minimum and expected trial criteria set by the BCBA. The score will not be plotted on the graph if the minimum trials that the BCBA defined was not collected. An orange * will indicate that you did not yet meet the minimum trials criteria.
 
-## Behavior Forms of Measure
+## Behavior Reduction Forms of Measure
 
 A behavior can have one or more behavior objectives (reduce frequency, reduce duration, reduce rate, etc.).
 The behavior objective displays under the behavior name on the target list.
@@ -65,7 +65,7 @@ The score is converted to per hour or per minute based on how the BCBA configure
 
 **Custom Observation Period**
 
-Collect data on *rate* behaviors where the rate is measured over a custom observation period configured by the BCBA by starting a timer to indicate the observation period has started. Press "Add Count" based on the learner's behavior occurrences. The timer will continue running until it reaches the observation period configured by the BCBA. You can also pause the timer or stop the timer early if the observation period is interrupted for any reason.
+Collect data on *rate* behaviors where the rate is measured over a custom observation period (configured by the BCBA) by starting a timer to indicate the observation period has started. Press "Add Count" based on the learner's behavior occurrences. The timer will continue running until it reaches the observation period configured by the BCBA. You can also pause the timer or stop the timer early if the observation period is interrupted for any reason.
 
 The score is saved as the total counts divided by the duration the timer was running. When multiple occurrences of the observation period are collected, the score is calculated as the average rate from all occurrences.
 
