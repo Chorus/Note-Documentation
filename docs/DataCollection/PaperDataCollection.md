@@ -19,3 +19,4 @@ Targets are categorized by form of measure, status, and then domain, subdomain, 
 - [Data Collection on Target List](../DataCollection/DataCollectionOnTargetList.md)
 - [Data Collection on Target Card](DataCollection/DataCollectionTargetCard.md)
 - [Edit Data After the Session](DataCollection/EditDataAfterSession.md)
+- [Forms of Measure](../CarePlan/FormsOfMeasure.md)

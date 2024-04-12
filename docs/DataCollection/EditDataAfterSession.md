@@ -23,4 +23,5 @@ You can add, delete or change a response. Click OK to save your changes. You can
 - [Data Collection on Target List](DataCollection/DataCollectionOnTargetList.md)
 - [Data Collection on Target Card](DataCollection/DataCollectionTargetCard.md)
 - [Paper Data Collection](DataCollection/PaperDataCollection.md)
+- [Forms of Measure](../CarePlan/FormsOfMeasure.md)
 - [Session Notes](Session/SessionNotes.md)

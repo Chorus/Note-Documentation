@@ -15,7 +15,6 @@ module.exports = {
       'Session/SubmitSession'
     ],
     'Data Collection':[
-      'DataCollection/FormsOfMeasure',
       'DataCollection/DataCollectionOnTargetList',
       'DataCollection/DataCollectionOnTargetCard',
       'DataCollection/EditDataAfterSession',
@@ -29,6 +28,7 @@ module.exports = {
       'CarePlan/EditRemoveGoalsTargets',
       'CarePlan/AddBehaviorsObjectives',
       'CarePlan/EditRemoveBehaviorsObjectives',
+      'CarePlan/FormsOfMeasure',
       'CarePlan/TargetStatuses',
       'CarePlan/Graphs',
       'CarePlan/CarePlanViews'
