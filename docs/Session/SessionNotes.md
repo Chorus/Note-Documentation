@@ -8,6 +8,8 @@ A session note is a detailed summary of what occurred during your session and ho
 Aside from complying with insurance funders' requirements, session notes help team members gain a better visualization of what occurred in each session, to support clinical decision-making regarding modifications to interventions in the care plan. 
 :::
 
+For information about how session notes are saved and exported by your organization, see [Export Session Notes](https://docs.chorus.cloud/docs/Patients/PatientOverview#export-patient-session-notes).
+
 ## Direct Care Sessions
 
 Clinical walk-through video of how to complete a session note, with examples:
