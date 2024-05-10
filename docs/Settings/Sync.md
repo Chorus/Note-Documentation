@@ -7,7 +7,7 @@ On the Settings page, you can:
 - View when your account last synced.
 - Manually sync your account.
 - Access this Documentation site through the “Help Center” button.
-- Check that you are using the most updated version of the app (1.4.2 on mobile, 1.4.2949.2 on PC).
+- Check that you are using the most updated version of the app (1.4.3 on mobile, 1.4.3047.3 on PC).
 - Sign out of your account.
 
 ## Sync
