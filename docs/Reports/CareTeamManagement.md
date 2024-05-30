@@ -20,3 +20,6 @@ You can view the number of sessions, number of distinct targets, and average num
 ### See also
 - [Graphs](CarePlan/Graphs.md)
 - [Activity Report](Reports/ActivityReport.md)
+
+
+[Here](https://chorusdevs2-my.sharepoint.com/:f:/g/personal/sbindiger_chorus_cloud/EpIUD1E_UC1Gg3H_-Z76dp8BzNkBMUPKUU5CeQhdIsf6AQ?e=UOQ3o9 "here")
