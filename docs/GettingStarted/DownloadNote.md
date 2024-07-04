@@ -4,7 +4,7 @@ hide_title: true
 sidebar_label: Download Note
 ---
 
-## Download Note
+# Download Note
 
 The Note app is available on iOS and Android mobile devices, as well as Windows PCs and Apple PCs with Apple Silicon chip (most models after 2020).
 
