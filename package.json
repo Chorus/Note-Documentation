@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "@docusaurus/core": "^2.0.0-beta.9",
-    "@docusaurus/plugin-google-gtag": "^3.4.0",
-    "@docusaurus/plugin-google-tag-manager": "^3.4.0",
+    "@docusaurus/plugin-google-gtag": "^2.0.0-beta.9",
+    "@docusaurus/plugin-google-tag-manager": "^2.0.0-beta.9",
     "@docusaurus/preset-classic": "^2.0.0-beta.9",
     "@mdx-js/react": "^1.5.8",
     "clsx": "^1.1.1",
