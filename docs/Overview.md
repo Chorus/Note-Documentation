@@ -15,7 +15,7 @@ When you open the app, you will see your upcoming sessions. You can view your se
 
 Within each session you will see a General tab with the session details and an Observations tab with the applicable features for that session. For example, there will be a list of targets for data collection in a direct care session and space to write session notes for treatment planning.
 
-### Navigate to a session:
+**Navigate to a session:**
 
 1. Tap on Sessions in the bottom navigation bar.
 2. Select a session.
@@ -29,7 +29,7 @@ In Learners, you will see the learner list, which is created and maintained by t
 
 In a learner's care plan, you can manage all the goals and targets for the learner for both skill acquisition and behavior reduction. In the sessions tab within a learner, you can see all sessions from the entire care team for this learner. In the learner profile you will find basic information about the learner, such as date of birth and parent's contact information.
 
-### Navigate to a learner:
+**Navigate to a learner**
 
 1. Tap on Learners in the bottom navigation bar.
 2. Select a learner.
