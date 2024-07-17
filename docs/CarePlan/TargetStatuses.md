@@ -1,8 +1,8 @@
 ---
-id: TargetStatuses
-title: Target Statuses
+id: TargetPhases
+title: Target Phases
 ---
-To keep the care plan organized, every target has a status. You can see the status next to the target name and on the target details page. Statuses are color-coded to help you make sense of a care plan at a glance. 
+To keep the care plan organized, every target has a phase. You can see the phase next to the target name and on the target details page. Phases are color-coded to help you make sense of a care plan at a glance. 
 
 <img src="/img/TargetStatuses.png" width="650" />
 
@@ -26,14 +26,31 @@ To keep the care plan organized, every target has a status. You can see the stat
 
 - A goal with deactivated targets only is displayed in the Past tab.
 
-## Change a Target's Status
+## Change a Target's Phase
 
 1. On the Care Plan, click on a target.
-   - If the target is "future configured", you can click the Start Target button to start the target as Baseline, or add baseline baseline and start the target as Active. For all other statuses, continue with the steps below.
+   - If the target is "future configured", you can click the Start Target button to start the target as Baseline, or add baseline baseline and start the target as Active. For all other phases, continue with the steps below.
 3. Click on the Configurations tab.
 4. Click Edit in the top right corner.
-5. Click into the status field and choose a new status.
+5. Click into the phase field and choose a new phase.
 6. Click OK in the top right corner to save.
+
+A phase change line will appear on the graph.
+
+## Edit a Phase Change Date
+
+To adjust the date of a phase change on a graph and in the target history:
+
+1. On a target, in the target history, select the phase change.
+2. Click Edit in the top right corner.
+3. Choose a new date. To ensure the phases stay in the proper order, you will not be able to choose a date later than a subsequent phase, or earlier than a previous phase.
+4. Click OK in the top right corner to save.
+
+The phase change line will adjust to the updated date on the graph.
+
+:::note
+Targets that were in Active, Baseline, or Maintenance phases as of the start of a session will show on the target list. Targets moved to these phases after the session begins will not be available for data collection until the BCBA adjusts the date of the Active/Baseline phase change date (and if necessary, the Created phase change date) to a date prior to the session. 
+:::
 
 ### See also
 - [Add Goals and Targets](CarePlan/AddGoalsTargets.md)

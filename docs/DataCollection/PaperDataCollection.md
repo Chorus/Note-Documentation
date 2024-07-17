@@ -11,7 +11,7 @@ This feature is available within a direct care session and gives you the ability
 
 The file name is Paper Data - Provider Name - Learner Initials - yyyy-MM-dd_HH-mm-ss.pdf.    
 
-Targets are categorized by form of measure, status, and then domain, subdomain, and goal. 
+Targets are categorized by form of measure, phase, and then domain, subdomain, and goal. 
 
 [Demo video: Export PDF for Paper Data Collection](https://youtu.be/jd4hjoBg43w/ "Title")
 

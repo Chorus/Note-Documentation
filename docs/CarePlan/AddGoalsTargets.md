@@ -38,7 +38,7 @@ There are two ways to add targets to a goal in a learner's care plan.
 
 The new targets will appear on the goal details page and in the future tab of the learner's care plan. 
 
-Configure the target so that your team can address it in sessions. Only targets that are in baseline, active, or maintenance statuses will show in sessions.
+Configure the target so that your team can address it in sessions. Only targets that are in baseline, active, or maintenance phases will show in sessions.
 
 [Demo video: Configure a DTT Target](https://youtu.be/wXIP3G3D7xo "Title")
 
@@ -53,4 +53,4 @@ Configure the target so that your team can address it in sessions. Only targets 
 - [Edit and Remove Goals and Targets](CarePlan/EditRemoveGoalsTargets.md)
 - [Goal and Target Libraries](CarePlan/GoalTargetLibraries.md)
 - [Default Configuration](CarePlan/DefaultConfiguration.md)
-- [Target Statuses](CarePlan/TargetStatuses.md)
+- [Target Phases](CarePlan/TargetPhases.md)

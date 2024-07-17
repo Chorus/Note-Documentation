@@ -7,7 +7,7 @@ Sessions scheduled for you by your organization will appear on your session list
 
 ## Create a Session
 
-If your organization allows you to schedule your own sessions, you will have access to add sessions to your session list.
+If your organization allows you to schedule your own sessions, you will be able to add sessions to your session list.
 
 <img src="/img/SessionList.png" width="400" />
 

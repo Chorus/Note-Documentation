@@ -10,7 +10,9 @@ The Y axis labels change based on the form of measure and the X axis displays th
 
 The filter, in the top right corner, can be used to view data points collected by a specific provider on the graph. 
 
-Condition changes and data points can be added to the graph if the target is at an in-progress status (Baseline, Active, or Maintenance).
+Condition change lines and data points can be added to the graph if the target is at an in-progress phase (Baseline, Active, or Maintenance).
+
+Phase change lines are added to the graph automatically when a [target's phase is updated](../CarePlan/TargetStatuses.md/#change-a-targets-phase). 
 
 :::note
 When there are multiple data points collected on the same day, for targets with a form of measure that scores as a percentage, the average of the scores will be plotted on the graph. For targets with a form of measure that scores as a count, the sum of the scores will be plotted on the graph.
@@ -21,6 +23,7 @@ When there are multiple data points collected on the same day, for targets with 
 Under the History tab, you can see all activity regarding the target:  
 
 - Condition changes 
+- Phase Changes
 - Data points from sessions 
 - Manually added data points 
 

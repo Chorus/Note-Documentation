@@ -16,7 +16,7 @@ This report allows you to review all activity in a learner's care plan in a spec
 
 - Targets with activity within selected timeframe.  
 
-- Targets whose status was active, baseline or maintenance at the last day of the selected time frame.  
+- Targets that were in the active, baseline or maintenance phase at the last day of the selected time frame.  
 
 You can view the number of sessions, number of distinct targets, and average number of targets per session in the specified date range. You can also view date of mastery on mastered targets and see how many sessions every target was addressed in and the average score of all targets displayed.
 
