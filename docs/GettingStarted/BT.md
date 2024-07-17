@@ -20,7 +20,7 @@ title: Behavior Technician Guide
 
 **Care Plan**
 - [Care Plan Setup](CarePlan/CarePlanSetup.md)
-- [Target Statuses](CarePlan/TargetStatuses.md)
+- [Target Phases](CarePlan/TargetPhases.md)
 - [Graphs](CarePlan/Graphs.md)
 
 **Settings**

@@ -42,4 +42,4 @@ The target list is comprised of custom and library targets. You can quickly dele
 - [Add Goals and Targets](CarePlan/AddGoalsTargets.md)
 - [Edit and Remove Goals and Targets](CarePlan/EditRemoveGoalsTargets.md)
 - [Goal and Target Libraries](CarePlan/GoalTargetLibraries.md)
-- [Target Statuses](CarePlan/TargetStatuses.md)
+- [Target Phases](CarePlan/TargetPhases.md)

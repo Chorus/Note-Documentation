@@ -35,14 +35,14 @@ Each skill acquisition Domain is printed with your organization's Domain descrip
 |Subdomain|Goal|Target|Date Mastered||
 Graphs for each target in the *Mastered* table are printed after the table.
 
-*In Progress Goals and Objectives*: targets in Baseline or Active statuses at the end of the selected authorization period
+*In Progress Goals and Objectives*: targets in Baseline or Active phases at the end of the selected authorization period
 
 | Subdomain  | Goal | Target | Baseline Level | Start Date | Current Level | Mastery Criteria | Target Date |Included in Group Session |
 |-----------|-----|--------|----------------|-----------------------------|----------------|---------|---------------------------------|--|
 | Subdomain  |Goal |Target| Average of all baseline data points| Date of first active data point| Average of last 5 data points|Mastery Criteria|Targeted Mastery Date||
 Graphs for each target in the *In Progress* table are printed after the table.
 
-*Future Goals and Objectives*: targets in Future or On Hold statuses at the end of the selected authorization period
+*Future Goals and Objectives*: targets in Future or On Hold phases at the end of the selected authorization period
 
 | Subdomain  | Goal | Target | Baseline Level | Mastery Criteria | Target Date |Included in Group Session |
 |-----------|-----|--------|----------------|-----------------------------|---------------------|-|

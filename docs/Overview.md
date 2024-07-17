@@ -34,7 +34,7 @@ In a learner's care plan, you can manage all the goals and targets for the learn
 1. Tap on Learners in the bottom navigation bar.
 2. Select a learner.
 
-You will see active goals and targets in the Care Plan with the ability to switch between the future, in progress and past tabs. You can also see the learner's profile and sessions.
+You will see active goals and targets in the care plan with the ability to switch between the future, in progress and past tabs. You can also see the learner's profile and sessions.
 
 ## Settings
 
@@ -44,7 +44,7 @@ In Settings, you can see when the app last synced with the organization's databa
 
 You can read our privacy policy and terms and conditions for using Note, and you will see which version of the app you have installed.
 
-If you need to change your pin, you can do it here.
+You can also change your pin here.
 
 
 [Demo video: A General Overview of Note](https://youtu.be/Xx5BNRdVPRE "Title")

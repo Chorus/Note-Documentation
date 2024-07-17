@@ -8,7 +8,7 @@ A care plan is divided into three sections:
 
 **Future:** Targets that are not configured or not started and are not displayed in a direct care session. On hold targets and goals with no targets are also displayed here. 
 
-**In Progress:** Targets that have a Baseline, Active or Maintenance status and are displayed in a direct care session. 
+**In Progress:** Targets that are in the Baseline, Active or Maintenance phases and are displayed in a direct care session. 
 
 **Past:** Targets that are Mastered or Deactivated and are not displayed in a direct care session. 
 
@@ -47,13 +47,13 @@ A problem behavior is made up of:
 <img src="/img/CarePlanHierarchy.png" width="350"  />
 
 :::note
-The number next to the goal tells you how many targets there are in the goal across all tabs and statuses, so you can better understand how many prerequisite skills lead up to the long-term goal.
+The number next to the goal tells you how many targets there are in the goal across all tabs and phases, so you can better understand how many prerequisite skills lead up to the long-term goal.
 
-The number next to the behavior tells you how many objectives there are in the behavior across all tabs and statuses, so you can better understand how many objectives are being tracked per behavior.
+The number next to the behavior tells you how many objectives there are in the behavior across all tabs and phases, so you can better understand how many objectives are being tracked per behavior.
 :::
 
 ## See Also
-- [Target Statuses](CarePlan/TargetStatuses.md)
+- [Target Phases](CarePlan/TargetPhases.md)
 - [Care Plan Views](CarePlan/CarePlanViews.md)
 
 

@@ -32,8 +32,7 @@ import ReactPlayer from 'react-player';
 import myVideo from '/InstallNoteonPC.mp4'
 
 <ReactPlayer playing='false' muted='true' controls url={myVideo} />
-
-
+-
 To manually update or install the Note app on your PC, watch the tutorial and follow the instructions below.
 
 

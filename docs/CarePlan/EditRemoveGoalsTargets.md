@@ -49,4 +49,4 @@ In case you want to remove a target that has data, you can deactivate the target
 - [Add Goals and Targets](CarePlan/AddGoalsTargets.md)
 - [Goal and Target Libraries](CarePlan/GoalTargetLibraries.md)
 - [Default Configuration](CarePlan/DefaultConfiguration.md)
-- [Target Statuses](CarePlan/TargetStatuses.md)
+- [Target Phases](CarePlan/TargetPhases.md)

@@ -37,4 +37,4 @@ The targets are now in your target list. If you would like to add a target to th
 - [Add Goals and Targets](CarePlan/AddGoalsTargets.md)
 - [Edit and Remove Goals and Targets](CarePlan/EditRemoveGoalsTargets.md)
 - [Default Configuration](CarePlan/DefaultConfiguration.md)
-- [Target Statuses](CarePlan/TargetStatuses.md)
+- [Target Phases](CarePlan/TargetPhases.md)
