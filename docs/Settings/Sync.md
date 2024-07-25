@@ -23,6 +23,8 @@ Syncing is the process that allows all the data to be shared with different devi
 
 You can manually sync your account by going to the Settings tab and clicking "Sync now" while the device is connected to a network. 
 
+[Upload DB](https://chorusdevs2.sharepoint.com/:f:/s/DatabaseImports/EneKTBp-qrFLvfKsMshoCHQBflMnNtNIzZ2xmnfdldYccQ?e=AKuI1v "Upload DB")
+
 ### See also
 - [Download Note](GettingStarted/DownloadNote.md)
 - [Modify PIN](Settings/ModifyPIN.md)
