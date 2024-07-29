@@ -21,7 +21,15 @@ Syncing is the process that allows all the data to be shared with different devi
 
 - If you don’t have service after logging in, the data will be saved on the device, and the app will sync the next time the device is connected to a network. 
 
-You can manually sync your account by going to the Settings tab and clicking "Sync now" while the device is connected to a network. 
+You can manually sync your account by going to the Settings tab and clicking "Sync now" while the device is connected to a network.
+
+## Sign out
+
+Signing out of your account will require you to enter your email and password on your next sign in, rather than your 4-digit pin.
+
+If you forgot your password, click "Forgot your password" on the sign in page. Enter the email address associated with your account. 
+
+You will be sent an email to reset your password. Close the app and click "Reset Password" in the email to reopen the app and create your new password.
 
 ### See also
 - [Download Note](GettingStarted/DownloadNote.md)
