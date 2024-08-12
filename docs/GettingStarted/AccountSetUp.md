@@ -12,3 +12,8 @@ Welcome, we’re excited for you to get started! Follow the steps below to set u
 
 You’re all set up! To setup Note on additional devices, click Confirm Account on the invite email on that device. Follow the prompt to login to your existing account: Already have an account? Login. 
 
+## Reset Password
+
+If you forgot your password, click "Forgot your password" on the sign in page. Enter the email address associated with your account. 
+
+You will be sent an email to reset your password. Close the app and click "Reset Password" in the email to reopen the app and create your new password.
