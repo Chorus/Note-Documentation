@@ -3,7 +3,7 @@ module.exports = {
     'Getting Started': [
       'Overview',
       'GettingStarted/DownloadNote',
-      'GettingStarted/AccountSetup',
+      'GettingStarted/AccountSetUp',
       'GettingStarted/BT',
     ],
     Sessions: [
