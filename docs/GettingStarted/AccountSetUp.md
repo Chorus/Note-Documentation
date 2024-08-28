@@ -1,5 +1,5 @@
 ---
-id: AccountSetup
+id: AccountSetUp
 title: Account Setup
 sidebar_label: Account Setup
 ---
