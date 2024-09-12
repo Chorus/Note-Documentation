@@ -9,6 +9,8 @@ This feature is available within a direct care session and gives you the ability
 3. Click the Generate PDF button.  
 4. Share, download, or print the sheet. 
 
+You can also generate a paper data pdf from the learner's care plan. Click the 3 dots menu at the top right of a learner's care plan to access learner exports.
+
 The file name is Paper Data - Provider Name - Learner Initials - yyyy-MM-dd_HH-mm-ss.pdf.    
 
 Targets are categorized by form of measure, phase, and then domain, subdomain, and goal. 

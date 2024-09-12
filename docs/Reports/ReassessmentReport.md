@@ -8,8 +8,10 @@ Your organization's assessment report template is available for any initial or f
 
 1. Click on an Initial Assessment or Follow-up Assessment session.
 2. Tap and hold on Session Details in the header (right click on desktop).
-3. Select the date range of the patient's past authorization period.
-4. Select Generate Report. 
+3. Select the date range of the learner's past authorization period.
+4. Click Generate Report. 
+
+You can also generate an assessment report from the learner's care plan. Click the 3 dots menu at the top right of a learner's care plan to access learner exports.
 
 The report will be exported as a Word document on a device with Word installed. For other devices, you will be prompted to save or email the report. 
 
@@ -75,3 +77,4 @@ Graphs for each behavior are printed.
 ### See also
 - [Activity Report](Reports/ActivityReport.md)
 - [Care Team Management](Reports/CareTeamManagement.md)
+- [Graphs Export](Reports/GraphsExport.md)
