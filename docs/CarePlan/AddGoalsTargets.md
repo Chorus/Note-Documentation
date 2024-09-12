@@ -48,6 +48,16 @@ Configure the target so that your team can address it in sessions. Only targets 
 
 [Clinical walk-through video: Intervention Techniques](https://youtu.be/hbgzYZDCsVA)
 
+## Clone a Target
+
+1. On the Care Plan, click on a configured target.
+2. Click the 3 dots icon in the top right corner.
+3. Click Clone.
+4. Select how many copies of the target you'd like.
+5. Click Clone Target.
+
+The copies will be parented under the same goal/subdomain/domain, and the same learner's care plan. 
+
 ### See also
 - [Care Plan Setup](CarePlan/CarePlanSetup.md)
 - [Edit and Remove Goals and Targets](CarePlan/EditRemoveGoalsTargets.md)
