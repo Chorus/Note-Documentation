@@ -38,7 +38,24 @@ There are two ways to add targets to a goal in a learner's care plan.
 
 The new targets will appear on the goal details page and in the future tab of the learner's care plan. 
 
-Configure the target so that your team can address it in sessions. Only targets that are in baseline, active, or maintenance phases will show in sessions.
+## Configure Targets
+
+Configure the target so that your team can address it in sessions. 
+
+1. Click Edit on the Configurations tab of the target.
+2. Click into the fields you want to edit and make the changes.
+5. Click OK in the top right corner to save. 
+
+The target will turn from "Future - Unconfigured" to "Future," enabling you to add baseline data or start the target as baseline.
+
+:::note
+Configuring a target clearly and completely is the best way to equip the behavior technician with the information they need to properly support the learner.
+If you'd like to set up basic configurations just to start the target, and return to fill in other information at a later point, only the following configurations are required in order to start the target:
+- Form of measure
+- Minimum/expected trials (for forms of measure that offer trials)
+- Intervention techniques (at least one per target)
+- Mastery Criteria
+:::
 
 [Demo video: Configure a DTT Target](https://youtu.be/wXIP3G3D7xo "Title")
 
