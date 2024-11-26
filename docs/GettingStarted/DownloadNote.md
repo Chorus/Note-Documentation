@@ -36,7 +36,8 @@ import myVideo from '/InstallNoteonPC.mp4'
 To manually update or install the Note app on your PC, watch the tutorial and follow the instructions below.
 
 
-1. Click [here](https://chorusdevs2.sharepoint.com/:f:/s/NOTEDesktop/Euayhwtzf9lJqh4Kni2KnHYBvmwgTCEQQTvRtMjLFRjqdg?e=XCTNPo) to access the latest Note update. Press **Download**.
+1. Click [here](https://chorusdevs2.sharepoint.com/:f:/s/NOTEDesktop/Euayhwtzf9lJqh4Kni2KnHYBvmwgTCEQQTvRtMjLFRjqdg?e=XCTNPo) to access the latest Note update. Press **Download**. 
+    - Before proceeding, check if you have an open [Assessment Report](../Reports/ReassessmentReport.md) generated from Note that has not been saved to a local folder on your PC. Save the file to a local folder before continuing.
 2. Open the downloaded folder and press **Extract All** to unzip it.
 3. Open the unzipped folder. Select "full-install.bat", then right click on it and click **Run as Administrator**.
 4. If prompted by Windows, press **More Info** and **Run Anyway**.
@@ -48,7 +49,7 @@ After Note is launched, you can pin it to your taskbar for easy access.
 
 ## Update Note
 
-Keep Note updated to the latest version for new features and fixes! Update to version 1.4.16 (1.4.3194.16 on Windows PC).
+Keep Note updated to the latest version for new features and fixes! Update to version 1.4.17 (1.4.3200.17 on Windows PC).
 
 ### Mobile Devices
 
