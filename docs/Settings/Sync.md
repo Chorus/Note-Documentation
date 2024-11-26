@@ -23,7 +23,12 @@ Syncing is the process that allows all the data to be shared with different devi
 
 You can manually sync your account by going to the Settings tab and clicking "Sync now" while the device is connected to a network.
 
-[Upload Database](https://chorusdevs2.sharepoint.com/:f:/s/DatabaseImports/EneKTBp-qrFLvfKsMshoCHQBflMnNtNIzZ2xmnfdldYccQ?e=AKuI1v "Upload DB")
+### Support
+
+If sync support is needed, reach out to notesupport@chorus.cloud. To avoid losing local data, do not delete the app if the app has not synced recently. 
+
+If support requests your database to preserve unsynced data so you can reinstall the app, you can [upload it here](https://chorusdevs2.sharepoint.com/:f:/s/DatabaseImports/EneKTBp-qrFLvfKsMshoCHQBflMnNtNIzZ2xmnfdldYccQ?e=eP9HW1 "Upload DB").
+
 
 ## Sign out
 
