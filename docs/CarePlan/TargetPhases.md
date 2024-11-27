@@ -52,6 +52,12 @@ The phase change line will adjust to the updated date on the graph.
 Targets that were in Active, Baseline, or Maintenance phases as of the start of a session will show on the target list. Targets moved to these phases after the session begins will not be available for data collection until the BCBA adjusts the date of the Active/Baseline phase change date (and if necessary, the Created phase change date) to a date prior to the session. 
 :::
 
+## Phase Change User Guide
+
+[Tutorial: Managing Phase Changes](https://www.canva.com/design/DAGXBkZWbjU/oX76yJfeVK0KW1aB3QsF0g/view?utm_content=DAGXBkZWbjU&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+
+<img src="/img/Phase Change User Guide.jpg" width="400" />
+
 ### See also
 - [Add Goals and Targets](CarePlan/AddGoalsTargets.md)
 - [Edit and Remove Goals and Targets](CarePlan/EditRemoveGoalsTargets.md)
