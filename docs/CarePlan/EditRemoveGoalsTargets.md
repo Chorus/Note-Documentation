@@ -35,13 +35,14 @@ In ABA, constant treatment planning based on data analysis is vital in order to 
 
 ## Remove a Target 
 
-1. You can remove a target from a learner's care plan if the target has no data associated with it. 
+You can remove a target from a learner's care plan if the target has no data collected on it.
+
 2. Click on a target. 
 3. Click Edit in the top right corner. 
 4. Click Remove target.
 5. Confirm that you want to remove the target from this learner's care plan.
 
-In case you want to remove a target that has data, you can deactivate the targets. A goal that only has deactivated targets will be displayed in the past tab. 
+In case you want to remove a target that has data, you can deactivate the targets by [changing the phase](../CarePlan/TargetPhases.md/#change-a-targets-phase) to Deactivated. A goal that only has deactivated targets will be displayed in the past tab. 
 
 [Demo video: Add a Goal and Targets to a Care Plan](https://youtu.be/_DCx4QZ3VQA "Title")
 
