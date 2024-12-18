@@ -3,7 +3,7 @@ id: BT
 title: Behavior Technician Guide
 ---
 
-** Get to Know Note! Walk through:**
+** Get to Know Note!**
 
 <div
   style={{
