@@ -29,6 +29,7 @@ module.exports = {
       'CarePlan/AddBehaviorsObjectives',
       'CarePlan/EditRemoveBehaviorsObjectives',
       'CarePlan/FormsOfMeasure',
+      'CarePlan/StartTargetsObjectives',
       'CarePlan/TargetPhases',
       'CarePlan/Graphs',
       'CarePlan/CarePlanViews'
