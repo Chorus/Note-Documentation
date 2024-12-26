@@ -80,4 +80,5 @@ The copies will be parented under the same goal/subdomain/domain, and the same l
 - [Edit and Remove Goals and Targets](CarePlan/EditRemoveGoalsTargets.md)
 - [Goal and Target Libraries](CarePlan/GoalTargetLibraries.md)
 - [Default Configuration](CarePlan/DefaultConfiguration.md)
+- [Start Targets and Objectives](../CarePlan/StartTargetsObjectives.md)
 - [Target Phases](CarePlan/TargetPhases.md)
