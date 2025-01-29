@@ -21,6 +21,9 @@ The score is calculated based on the average of all complete trials. Trial score
 
 The score will not be plotted on the graph if the minimum trials defined in the target configuration was not collected. An orange * will indicate that you did not yet meet the minimum trials criteria.
 
+:::note
+Task analysis steps are limited to 30 characters, allowing behavior technicians to quickly grasp the core focus of each step. Additional details can always be included in the target instructions.
+:::
 
 ### Count 
 Behavior technicians can collect data on *count* (frequency) targets from the [target list](../DataCollection/DataCollectionOnTargetList.md) or the [target card](../DataCollection/DataCollectionTargetCard.md) by selecting Add Count based on the learner's demonstration of the targeted skill.
