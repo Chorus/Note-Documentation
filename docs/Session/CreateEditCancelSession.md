@@ -12,10 +12,17 @@ If your organization allows you to schedule your own sessions, you will be able 
 <img src="/img/SessionList.png" width="400" />
 
 1. Click the + icon in the bottom right corner. 
-2. Fill out the required information. 
+2. Fill out the required information (date, learner, service, start time, end time, location)
 3. Click OK to save the session. 
 
 Your session is saved and will be validated by your organization. The session status will be updated throughout the process.
+
+:::note
+When creating a session and selecting the service to schedule, you can view how many hours you are assigned to per week/month/assignment period, how many hours were already scheduled, and how many are remaining.
+<img src="/img/Utilization.png" width="250" />
+
+This allows you to create your schedule according to the hours assigned by your organization.
+:::
 
 ## Edit a Session
 

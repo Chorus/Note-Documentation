@@ -2,6 +2,8 @@
 id: DefaultConfiguration
 title: Default Configuration
 ---
+# Default Configuration
+
 This feature gives you the ability to configure targets once and reuse them across all your learners without having to configure them each time. 
 
 <img src="/img/TargetList.png" width="400" />
