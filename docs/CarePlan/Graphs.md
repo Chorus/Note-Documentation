@@ -35,7 +35,7 @@ Condition change lines (dashed, vertical lines separating the data-paths on each
 
 ## Phase Changes
 
-Phase change lines (solid, vertical lines separating the data-paths on each side of the line) are added to the graph automatically when a [target's phase is updated](../CarePlan/TargetStatuses.md/#change-a-targets-phase). 
+Phase change lines (solid, vertical lines separating the data-paths on each side of the line) are added to the graph automatically when a [target's phase is updated](../CarePlan/TargetPhases/#change-a-targets-phase). 
 
 ## Target History
 
