@@ -112,4 +112,11 @@ module.exports = {
       },
     ],
   ],
+  plugins: [
+    [
+        'docusaurus-pushfeedback',{
+            project: '<9co19k85jv>'
+        }
+    ]
+],
 };
