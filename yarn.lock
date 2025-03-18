@@ -1326,7 +1326,7 @@
     "@docsearch/css" "3.6.0"
     algoliasearch "^4.19.1"
 
-"@docusaurus/core@^2.0.0-beta.9", "@docusaurus/core@2.4.3":
+"@docusaurus/core@^2.0.0-beta.9", "@docusaurus/core@2.4.3", "@docusaurus/core@2.x":
   version "2.4.3"
   resolved "https://registry.npmjs.org/@docusaurus/core/-/core-2.4.3.tgz"
   integrity sha512-dWH5P7cgeNSIg9ufReX6gaCl/TmrGKD38Orbwuz05WPhAQtFXHd5B8Qym1TiXfvUNvwoYKkAJOJuGe8ou0Z7PA==
@@ -4650,6 +4650,11 @@ dns-packet@^5.2.2:
   dependencies:
     "@leichtgewicht/ip-codec" "^2.0.1"
 
+docusaurus-pushfeedback@^0.1.7:
+  version "0.1.7"
+  resolved "https://registry.npmjs.org/docusaurus-pushfeedback/-/docusaurus-pushfeedback-0.1.7.tgz"
+  integrity sha512-JE6lsYVghdowMEH+kymnQliuFBpqLtQNoLFoS02+W7e7kqCb/dKB40+VBaGJ8HV7JOA5ATcdo40vAwx78udk9w==
+
 docusaurus@^1.14.7:
   version "1.14.7"
   resolved "https://registry.npmjs.org/docusaurus/-/docusaurus-1.14.7.tgz"
@@ -5833,11 +5838,6 @@ fs.realpath@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz"
   integrity sha512-OO0pH2lK6a0hZnAdau5ItzHPI6pUlvI7jMVnxUQRtw4owF2wk8lOSabtGDCTP4Ggrg2MbGnWO9X8K1t4+fGMDw==
-
-fsevents@~2.3.2:
-  version "2.3.3"
-  resolved "https://registry.npmjs.org/fsevents/-/fsevents-2.3.3.tgz"
-  integrity sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==
 
 fstream@^1.0.12:
   version "1.0.12"
