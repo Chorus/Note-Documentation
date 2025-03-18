@@ -4,7 +4,7 @@ hide_title: true
 sidebar_label: Download Note
 ---
 
-# Download Note
+## Download Note
 
 The Note app is available on iOS and Android mobile devices, as well as Windows PCs and Apple PCs with Apple Silicon chip (most models after 2020).
 
@@ -28,24 +28,14 @@ Proceed to [Account Setup](GettingStarted/AccountSetUp.md) if you are downloadin
 
 ### Windows PCs
 
-import ReactPlayer from 'react-player';
-import myVideo from '/InstallNoteonPC.mp4'
+1. Click [here](https://choruscdn.blob.core.windows.net/notefiles/NoteUWP/Chorus.Note.UWP.appinstaller) to download Note on your PC.
+2. Open the download. Click **Install**. 
+    - If the installer finishes with "Note Installation Failed," open the download again and click Install again.
+3. Note will open once the installation completes. Close Note, and open it through the **Confirm Account** button in the 'Welcome to Note' email you received from your organization. 
+    - After Note is launched, you can pin it to your taskbar for easy access.
+4.	Follow the instructions to set up your password and pin.
 
-<ReactPlayer playing='false' muted='true' controls url={myVideo} />
--
-To manually update or install the Note app on your PC, watch the tutorial and follow the instructions below.
-
-
-1. Click [here](https://chorusdevs2.sharepoint.com/:f:/s/NOTEDesktop/Euayhwtzf9lJqh4Kni2KnHYBvmwgTCEQQTvRtMjLFRjqdg?e=XCTNPo) to access the latest Note update. Press **Download**. 
-    - Before proceeding, check if you have an open [Assessment Report](../Reports/ReassessmentReport.md) generated from Note that has not been saved to a local folder on your PC. Save the file to a local folder before continuing.
-2. Open the downloaded folder and press **Extract All** to unzip it.
-3. Open the unzipped folder. Select "full-install.bat", then right click on it and click **Run as Administrator**.
-4. If prompted by Windows, press **More Info** and **Run Anyway**.
-5. When prompted, allow the app to make changes to your device.
-6. If prompted by Windows Powershell, type R, press enter, then type Y and press enter to allow the installer to run.
-7. Wait for installer to complete the update. Proceed to [Account Setup](GettingStarted/AccountSetUp.md) if installing Note for the first time. 
-
-After Note is launched, you can pin it to your taskbar for easy access.
+Note will automatically update on your PC each time an updated version of Note is released.
 
 ## Update Note
 
@@ -65,9 +55,35 @@ Keep Note updated to the latest version for new features and fixes! Update to ve
 
 ### Windows PCs
 
-See [Windows PCs](#windows-pcs) above for instructions.
+import ReactPlayer from 'react-player';
+import myVideo from '/InstallNoteonPC.mp4'
+
+<ReactPlayer playing='false' muted='true' controls url={myVideo} />
+-
+To manually update Note on your PC, watch the tutorial and follow the instructions below.
 
 
-### See also
+1. Click [here](https://chorusdevs2.sharepoint.com/:f:/s/NOTEDesktop/Euayhwtzf9lJqh4Kni2KnHYBvmwgTCEQQTvRtMjLFRjqdg?e=XCTNPo) to access the latest Note update. Press **Download**. 
+    - Before proceeding, check if you have an open [Assessment Report](../Reports/ReassessmentReport.md) generated from Note that has not been saved to a local folder on your PC. Save the file to a local folder before continuing.
+2. Open the downloaded folder and press **Extract All** to unzip it.
+3. Open the unzipped folder. Select "full-install.bat", then right click on it and click **Run as Administrator**.
+4. If prompted by Windows, press **More Info** and **Run Anyway**.
+5. When prompted, allow the app to make changes to your device.
+6. If prompted by Windows Powershell, type R, press enter, then type Y and press enter to allow the installer to run.
+7. Wait for the installer to complete the update.
+
+
+:::note
+If Note was installed on your PC after 3/18/2025, Note will update automatically. If Note was installed on your PC prior to 3/18/2025, you can enable automatic updates by reinstalling Note on your PC.
+
+To enable automatic updates on your PC:
+
+1. Sign out of Note and uninstall Note from your PC.
+2. Reinstall Note on your PC by following the instructions [here](../GettingStarted/DownloadNote.md/#windows-pcs).
+3. Request an Invite to Note from your organization, or open a past 'Welcome to Note' email.
+4. Click Confirm Account to open Note. Click 'Already have an account? Login" and enter your existing email and password.
+:::
+
+## See also
 - [Account Setup](GettingStarted/AccountSetUp.md)
 - [Settings](Settings/Sync.md)
