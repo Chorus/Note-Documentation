@@ -30,7 +30,7 @@ Proceed to [Account Setup](GettingStarted/AccountSetUp.md) if you are downloadin
 
 1. Click [here](https://choruscdn.blob.core.windows.net/notefiles/NoteUWP/Chorus.Note.UWP.appinstaller) to download Note on your PC.
 2. Open the download. Click **Install**. 
-    - If the installer finishes with "Note Installation Failed," open the download again and click Install again.
+    - The installer may finish with "Note Installation Failed." If so, open the download again and click Install again- the installation will complete this time.
 3. Note will open once the installation completes. Close Note, and open it through the **Confirm Account** button in the 'Welcome to Note' email you received from your organization. 
     - After Note is launched, you can pin it to your taskbar for easy access.
 4.	Follow the instructions to set up your password and pin.
@@ -78,7 +78,7 @@ If Note was installed on your PC after 3/18/2025, Note will update automatically
 
 To enable automatic updates on your PC:
 
-1. Sign out of Note and uninstall Note from your PC.
+1. Sign out of Note by clicking **Sign Out** on the Settings tab. After signing out, uninstall Note from your PC.
 2. Reinstall Note on your PC by following the instructions [here](../GettingStarted/DownloadNote.md/#windows-pcs).
 3. Request an Invite to Note from your organization, or open a past 'Welcome to Note' email.
 4. Click Confirm Account to open Note. Click 'Already have an account? Login" and enter your existing email and password.
