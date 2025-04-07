@@ -39,7 +39,7 @@ Note will automatically update on your PC each time an updated version of Note i
 
 ## Update Note
 
-Keep Note updated to the latest version for new features and fixes! Update to version 1.4.25 (1.4.3264.25 on Windows PC).
+Keep Note updated to the latest version for new features and fixes! Update to version 1.4.31 (1.4.3271.31 on Windows PC).
 
 ### Mobile Devices
 
