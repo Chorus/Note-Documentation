@@ -17,6 +17,19 @@ New to Note? We've got you covered! Here's a quick start to adding, configuring,
 5. Did you mean to start the target yesterday, when the BT started? No problem- simply edit the created and baseline/active phases to the day before the BT needed the target.
     - [Edit a Phase Change Date](CarePlan/TargetPhases.md/#edit-a-phase-change-date)
     - [Tutorial: Managing Phase Changes](https://www.canva.com/design/DAGXBkZWbjU/oX76yJfeVK0KW1aB3QsF0g/view?utm_content=DAGXBkZWbjU&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+
+
+<details>
+<summary> How to see your BT's target list</summary>
+
+Want to double-check the targets are showing on your BT's session? Open the BT's session from the Learner Sessions List:
+
+1. Go to the Learner's tab
+2. Click on a learner
+3. Go to the Sessions tab at the top of the screen to see all sessions for this learner.
+4. Open the BT's session. The observations tab shows targets that were started (as baseline or active) before the date of the session.
+
+</details>
 :::
 
 You're well on your way to becoming a pro at Note! There's plenty of other great features to learn about, so keep exploring!
