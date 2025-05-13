@@ -13,9 +13,9 @@ New to Note? We've got you covered! Here's a quick start to adding, configuring,
 3. After that, you'll need to configure the target. Don't forget to check out which configurations are required!
     - [Configure Targets](CarePlan/AddGoalsTargets.md/#configure-targets)
     - [Forms of Measure](CarePlan/FormsOfMeasure.md)
-4. Nice, you've configured the target! When you're ready, you can start it as baseline or active: [Start Targets](CarePlan/StartTargetsObjectives)
+4. Nice, you've configured the target! When you're ready, you can start it as baseline or active: [Start Targets](CarePlan/StartTargetsObjectives.md)
 5. Did you mean to start the target yesterday, when the BT started? No problem- simply edit the created and baseline/active phases to the day before the BT needed the target.
-    - [Edit a Phase Change Date](CarePlan/TargetPhases/#edit-a-phase-change-date)
+    - [Edit a Phase Change Date](CarePlan/TargetPhases.md/#edit-a-phase-change-date)
     - [Tutorial: Managing Phase Changes](https://www.canva.com/design/DAGXBkZWbjU/oX76yJfeVK0KW1aB3QsF0g/view?utm_content=DAGXBkZWbjU&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 :::
 
@@ -28,7 +28,7 @@ You're well on your way to becoming a pro at Note! There's plenty of other great
 
 **Reports**
 - [Activity Report](Reports/ActivityReport.md) - Check out this helpful report to streamline data analysis.
-- [Assessment Report](Reports/AssessmentReport.md) - Let your assessment report write itself!
+- [Assessment Report](Reports/ReassessmentReport.md) - Let your assessment report write itself!
 
 **Sessions**
 - [Create, Edit and Cancel a Session](Session/CreateEditCancelSession.md)
