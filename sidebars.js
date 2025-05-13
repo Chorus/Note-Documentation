@@ -5,6 +5,7 @@ module.exports = {
       'GettingStarted/DownloadNote',
       'GettingStarted/AccountSetUp',
       'GettingStarted/BT',
+      'GettingStarted/BCBA'
     ],
     Sessions: [
       'Session/SessionList', 
