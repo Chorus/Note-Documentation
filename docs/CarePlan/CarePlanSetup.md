@@ -20,10 +20,10 @@ A care plan is divided into three sections:
 
 A skill acquisition target is made up of: 
 
-1. Domain 
-2. Subdomain 
-3. Goal 
-4. Target 
+1. **Domain**
+2. **Subdomain**
+3. **Goal** - the long-term objective, or general skill the learner should acquire. A goal will include targets that will build up to the goal together.
+4. **Target** - the specific, measurable skills that the learner is practicing each session. Target are what the Behavior Technician will collect data on.
 
 :::note
 The domains and subdomains relate to core Autism deficits and are managed by your organization.

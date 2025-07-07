@@ -65,3 +65,4 @@ Targets that were in Active, Baseline, or Maintenance phases as of the start of 
 - [Edit and Remove Goals and Targets](CarePlan/EditRemoveGoalsTargets.md)
 - [Goal and Target Libraries](CarePlan/GoalTargetLibraries.md)
 - [Default Configuration](CarePlan/DefaultConfiguration.md)
+
