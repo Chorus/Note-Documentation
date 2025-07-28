@@ -44,6 +44,17 @@ module.exports = {
     'Settings':[
       'Settings/Sync',
       'Settings/ModifyPIN'
+    ],
+        'Release Notes':[
+          
+      'Release Notes/1.4.31',
+      'Release Notes/1.4.25',
+                'Release Notes/1.4.20',
+                'Release Notes/1.4.17',
+      'Release Notes/1.4.12',
+'Release Notes/1.4.8',
+'Release Notes/1.4.6',
+'Release Notes/1.4.3'
     ]
   },
 };
