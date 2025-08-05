@@ -6,7 +6,7 @@ sidebar_label: Account Setup
 Welcome, we’re excited for you to get started! Follow the steps below to set up your account. 
 
 1. Download Note from the app store. See [Download Note](../GettingStarted/DownloadNote.md). 
-2. Before opening Note, click Confirm Account on the "Welcome to Note" email you received from your organization to open Note to the Create Password page.
+2. Before opening Note, click Confirm Account on the 'Welcome to Note' email you received from your organization. Note will open to the Create Password page.
 3. Create and confirm a password and click Create. 
 4. Create and confirm a pin and click Create.
 
