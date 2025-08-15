@@ -16,9 +16,9 @@ The Note app is available on iOS and Android mobile devices, as well as Windows 
 
 Proceed to [Account Setup](GettingStarted/AccountSetUp.md) if you are downloading Note for the first time.                                                                        
 
-### Apple PCs
+### Apple PCs (Mac)
 
-On Apple PCs (Macs with the Apple Silicon chip):
+Note is available on the app store for Apple PCs (Macs) with the Apple Silicon chip (e.g., "M1," M2").
 
 1. Open the App Store app on your Mac.
 2. Search for the Note app ([Note ABA](https://apps.apple.com/us/app/note-aba/id1495134215)).
@@ -47,7 +47,7 @@ Keep Note updated to the latest version for new features and fixes! Update to ve
 | ------------- |-------------|
 | 1. Open the App Store app. <br /> 2. Tap your profile icon at the top of the screen. Scroll to see pending updates. <br /> 3. Click Update next to Note ABA or click Update All. <br />|1. Open the Google Play Store app. <br />2. Tap your profile icon at the top right of the screen. <br />3. Click “Manage Apps & Device.” Apps with an update available are listed. <br /> 4. Click Update on Note for Autism Care.<br />|                                                                       
 
-### Apple PCs
+### Apple PCs (Mac)
 
 1. Open the App Store app on your Mac.
 2. On the sidebar, click Updates.
