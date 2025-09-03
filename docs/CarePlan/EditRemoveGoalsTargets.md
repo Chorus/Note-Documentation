@@ -33,6 +33,48 @@ In ABA, constant treatment planning based on data analysis is vital in order to 
 4. Click into the fields you want to edit and make the changes.
 5. Click OK in the top right corner to save. 
 
+Check out the examples below of specific edits and how to make them:
+
+<details>
+<summary>How to change a target's name</summary>
+
+1. On the Care Plan, click on a target. 
+2. Click on the Configurations tab.
+3. Click Edit in the top right corner. 
+4. Click into the Target field and make the changes.
+5. Click OK in the top right corner to save. 
+
+</details>
+
+<details>
+<summary>How to change who a target is assigned to</summary>
+
+Targets are automatically assigned to all providers on the learner's care team. To unassign or reassign providers, edit the target:
+
+1. On the Care Plan, click on a target. 
+2. Click on the Configurations tab.
+3. Click Edit in the top right corner. 
+4. Click into the Assign To field and make the changes.
+5. Click OK in the top right corner to save. 
+
+</details>
+
+
+<details>
+<summary>How to change a target's form of measure</summary>
+
+Once data is collected on a target, the form of measure cannot be edited, to preserve the accuracy and integrity of the existing data. Instead, [clone the target](../CarePlan/AddGoalsTargets.md/#clone-a-target) to create a new target on the same goal, and edit the form of measure on that target.
+
+1. Click Edit in the top right corner. 
+2. Click into the Form of Measure field and make the changes.
+3. Click OK in the top right corner to save. 
+
+</details>
+
+See also: [Change a target's phase](../CarePlan/TargetPhases.md/#change-a-targets-phase)
+
+
+
 ## Remove a Target 
 
 You can remove a target from a learner's care plan if the target has no data collected on it.
