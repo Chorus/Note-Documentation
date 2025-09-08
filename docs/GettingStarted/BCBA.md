@@ -52,7 +52,7 @@ You're well on your way to becoming a pro at Note! There's plenty of other great
 - [Sync](Settings/Sync.md)
 - [Modify PIN](Settings/ModifyPIN.md)
 
-** Get to Know Note Care Plans!**
+### Get to Know Note Care Plans!
 
 <div
   style={{
