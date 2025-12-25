@@ -24,14 +24,13 @@ module.exports = {
     'Care Plan':[
       'CarePlan/CarePlanSetup',
       'CarePlan/AddGoalsTargets',
-      'CarePlan/GoalTargetLibraries',
-      'CarePlan/DefaultConfiguration',
-      'CarePlan/EditRemoveGoalsTargets',
       'CarePlan/AddBehaviorsObjectives',
-      'CarePlan/EditRemoveBehaviorsObjectives',
-      'CarePlan/FormsOfMeasure',
+      'CarePlan/ConfigureTargetsObjectives',
       'CarePlan/StartTargetsObjectives',
+      'CarePlan/FormsOfMeasure',
       'CarePlan/TargetPhases',
+      'CarePlan/EditRemoveGoalsTargets',
+      'CarePlan/EditRemoveBehaviorsObjectives',
       'CarePlan/Graphs',
       'CarePlan/CarePlanViews'
     ],

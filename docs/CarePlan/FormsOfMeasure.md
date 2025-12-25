@@ -10,7 +10,25 @@ Behavior technicians can collect data on *percent correct* targets from the [tar
 
 A percent score is calculated based on correct trials out of total trials.
 
-The score will not be plotted on the graph if the minimum trials defined in the target configuration was not collected. An orange * will indicate that you did not yet meet the minimum trials criteria.
+If the minimum number of trials set in the target configuration is not collected, the score will not be plotted on the graph. An orange * will appear to indicate that the minimum trial criteria has not been met.
+
+#### Prompting Workflows *- coming soon!*
+Behavior technicians can collect data on percent correct targets with a *prompting workflow* from the [target card](../DataCollection/DataCollectionTargetCard.md). 
+
+Depending on the type of prompt fading, the behavior technician will either select from available prompt levels, or use the active prompt level for the target. The target card displays the prompt delay, prompt level name, and prompt description to help the behavior technician deliver the prompt properly.
+
+If the learner responds correctly without prompts, the behavior technician can click "Independent". If the learner responds incorrectly or does not respond with prompts, the behavior technician can click "No". 
+
+- **Within Trials** Prompt Fading: The behavior technician should support the learner with the prompt levels shown in the order they are shown, and click on the prompt level that is used to support a correct response. 
+    - A score is calculated based on independent and prompted trials out of total trials. If a prompt level is not set to "score as correct", it will be considered as if it is an incorrect trial in the calculated score.
+
+- **Across Session** Prompt Fading: The behavior technician should support the learner with the active prompt level. 
+    - The BCBA determines the prompt level order, and each level serves as the active prompt until the learner masters it.
+    - Once a prompt level is mastered, the graph will display a [prompt change line](../CarePlan/Graphs.md/#prompt-changes--coming-soon) indicating when the prompt level changed.
+    - Once all prompt levels set by the BCBA have been faded, only "Independent" and "No" will show during data collection.
+    - A percent score is calculated based on independent and prompted trials out of total trials.
+
+If the minimum number of trials set in the target configuration is not collected, the score will not be plotted on the graph. An orange * will appear to indicate that the minimum trial criteria has not been met.
 
 ### Task Analysis
 Behavior technicians can collect data on *task analysis* targets from the [target card](../DataCollection/DataCollectionTargetCard.md) by selecting Yes/No based on the learner's demonstration of each step within a sequence of steps that constitutes a trial/skill.
@@ -19,7 +37,7 @@ A trial will be marked incomplete if data was not collected on all steps in the 
 
 The score is calculated based on the average of all complete trials. Trial scores are calculated as a percent based on correct steps out of total steps.
 
-The score will not be plotted on the graph if the minimum trials defined in the target configuration was not collected. An orange * will indicate that you did not yet meet the minimum trials criteria.
+If the minimum number of trials set in the target configuration is not collected, the score will not be plotted on the graph. An orange * will appear to indicate that the minimum trial criteria has not been met.
 
 :::note
 Task analysis steps are limited to 30 characters, allowing behavior technicians to quickly grasp the core focus of each step. Additional details can always be included in the target instructions.
@@ -34,7 +52,8 @@ Behavior technicians can collect data *duration* targets by starting a timer at 
 
 The score is either saved as the **Average Duration** of all occurrences of the target, or the **Total Duration** of all occurrences of the target, based on the duration type defined in the target configuration. A score is saved in hours, minutes, and seconds.
 
-When the target is measured as **Average Duration**, there will be a minimum and expected trial criteria configured. The score will not be plotted on the graph if the minimum trials defined in the target configuration was not collected. An orange * will indicate that you did not yet meet the minimum trials criteria.
+When the target is measured as **Average Duration**, there will be a minimum and expected trial criteria configured. If the minimum number of trials set in the target configuration is not collected, the score will not be plotted on the graph. An orange * will appear to indicate that the minimum trial criteria has not been met.
+
 
 ## Behavior Reduction Forms of Measure
 

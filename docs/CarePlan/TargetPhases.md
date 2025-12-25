@@ -29,7 +29,7 @@ To keep the care plan organized, every target has a phase. You can see the phase
 ## Change a Target's Phase
 
 1. On the Care Plan, click on a target.
-   - If the target is "future - unconfigured", you can click Configure Target to finish configuring the target before changing its phase. [Learn about required configurations](../CarePlan/AddGoalsTargets.md/#configure-targets).
+   - If the target is "future - unconfigured", you can click Configure Target to finish configuring the target before changing its phase. [Learn about required configurations](../CarePlan/ConfigureTargets.md).
    - If the target is "future", you can click Start Target to start the target as Baseline, or add baseline data and start the target as Active. [Learn about starting targets](../CarePlan/StartTargetsObjectives.md)
    - For all other phases, continue with the steps below.
 3. Click on the Configurations tab.
@@ -62,7 +62,6 @@ Targets that were in Active, Baseline, or Maintenance phases as of the start of 
 
 ### See also
 - [Add Goals and Targets](CarePlan/AddGoalsTargets.md)
-- [Edit and Remove Goals and Targets](CarePlan/EditRemoveGoalsTargets.md)
-- [Goal and Target Libraries](CarePlan/GoalTargetLibraries.md)
-- [Default Configuration](CarePlan/DefaultConfiguration.md)
+- [Configure Targets and Objectives](CarePlan/ConfigureTargets.md)
+- [Start Targets and Objectives](CarePlan/StartTragetsObjectives.md)
 

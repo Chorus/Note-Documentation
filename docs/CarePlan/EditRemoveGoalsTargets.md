@@ -90,7 +90,6 @@ In case you want to remove a target that has data, you can deactivate the target
 
 ### See also
 - [Add Goals and Targets](CarePlan/AddGoalsTargets.md)
-- [Configure Targets](../CarePlan/AddGoalsTargets.md/#configure-targets)
-- [Default Configuration](CarePlan/DefaultConfiguration.md)
-- [Start Targets and Objectives](../CarePlan/StartTargetsObjectives.md)
+- [Configure Targets and Objectives](CarePlan/ConfigureTargets.md)
+- [Start Targets and Objectives](CarePlan/StartTargetsObjectives.md)
 - [Target Phases](CarePlan/TargetPhases.md)

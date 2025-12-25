@@ -26,7 +26,7 @@ There are 5 sections in a direct care session note:
 
 - **Participants**: Select and add the participants who were present at your session. 
     
-- **Intervention Techniques**: Review the intervention technques configured on targets addressed during the session. If all intervention techniques were used, leave as is. If some intervention techniques weren't used, deselect them from the list. 
+- **Intervention Techniques**: Review the intervention techniques configured on targets addressed during the session. If all intervention techniques were used, leave as is. If some intervention techniques weren't used, deselect them from the list. 
 
     This section does not appear on your session note when no intervention techniques were configured for targets addressed during your session.
 

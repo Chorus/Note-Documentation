@@ -25,9 +25,18 @@ You can manually sync your account by going to the Settings tab and clicking "Sy
 
 ### Support
 
-If sync support is needed, reach out to notesupport@chorus.cloud. To avoid losing local data, do not delete the app if the app has not synced recently. 
+If sync support is needed, reach out to notesupport@chorus.cloud. To avoid losing local data, do not delete the app if the app has not synced recently. Follow the steps below if support requests your database to preserve unsynced data so you can reinstall the app: 
 
-If support requests your database to preserve unsynced data so you can reinstall the app, you can [upload it here](https://chorusdevs2.sharepoint.com/:f:/s/DatabaseImports/EneKTBp-qrFLvfKsMshoCHQBflMnNtNIzZ2xmnfdldYccQ?e=eP9HW1 "Upload DB").
+<details>
+<summary> How to export and send your database </summary>
+
+1. Go to the Settings tab in Note.
+2. Where it says "Hello [Your Name]", tap on your name 7 times.
+3. A menu will open. Click Export Database.
+4. Save the database to your files.
+5. You can then attach the database in an email to notesupport@chorus.cloud, or [upload it here](https://chorusdevs2.sharepoint.com/:f:/s/DatabaseImports/EneKTBp-qrFLvfKsMshoCHQBflMnNtNIzZ2xmnfdldYccQ?e=eP9HW1 "Upload DB").
+
+</details>
 
 
 ## Sign out

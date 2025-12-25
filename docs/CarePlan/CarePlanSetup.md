@@ -32,7 +32,7 @@ The structured hierarchy creates an organized care plan and ensures every learne
 
 You can create custom goals and targets and also utilize the goal and target library. 
 - [Add Goals and Targets](CarePlan/AddGoalsTargets.md)
-- [Goal and Target Libraries](CarePlan/GoalTargetLibraries.md)
+- [Goal and Target Libraries](../CarePlan/AddGoalsTargets.md/#goal-library)
 
 ### Problem Behaviors
 
