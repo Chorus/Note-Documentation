@@ -63,7 +63,7 @@ Targets are automatically assigned to all providers on the learner's care team. 
 <details>
 <summary>How to change a target's form of measure</summary>
 
-Once data is collected on a target, the form of measure cannot be edited, to preserve the accuracy and integrity of the existing data. Instead, [clone the target](../CarePlan/AddGoalsTargets.md/#clone-a-target) to create a new target on the same goal, and edit the form of measure on that target.
+Once data is collected on a target, the form of measure cannot be edited, to preserve the accuracy and integrity of the existing data. Instead, [clone the target](../CarePlan/ConfigureTargets.md/#clone-a-target) to create a new target on the same goal, and edit the form of measure on that target.
 
 1. Click Edit in the top right corner. 
 2. Click into the Form of Measure field and make the changes.
