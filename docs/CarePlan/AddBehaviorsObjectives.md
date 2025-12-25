@@ -36,4 +36,6 @@ This will allow you to have multiple forms of measure for a behavior at the same
 [Demo video: Add and Configure a Behavior](https://youtu.be/Vz2NDfgoR-Y "Title")
 
 ### See also
+- [Configure Targets and Objectives](CarePlan/ConfigureTargets.md)
+- [Start Targets and Objectives](CarePlan/StartTargetsObjectives.md)
 - [Edit and Remove Behaviors and Objectives](CarePlan/EditRemoveBehaviorsObjectives.md)

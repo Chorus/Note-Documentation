@@ -7,78 +7,109 @@ title: Add Goals and Targets
 1. On a Care Plan, click the + button in the bottom right corner. 
 2. Choose a domain. 
 3. Choose a subdomain. 
-4. Import from the goal library or create a new goal. 
+4. Import from the [goal library](../CarePlan/AddGoalsTargets.md/#goal-library) or add a custom goal.
 5. Select a goal from your goal list. 
 6. Choose to add the targets later or select the targets and click Add.
 
 The new goal will appear in the future tab of the learner's care plan. 
 
 There are two ways to add targets to a goal in a learner's care plan. 
+ - [Add Targets to a New Goal](../CarePlan/AddGoalsTargets.md/#add-targets-to-a-new-goal)
+ - [Add Targets to an Existing Goal](../CarePlan/AddGoalsTargets.md/#add-targets-to-an-existing-goal)
 
 ## Add Targets to a New Goal 
 
 1. On a Care Plan, click the "+" button in the bottom right corner. 
 2. Choose a domain. 
 3. Choose a subdomain. 
-4. Select a goal from your goal list. 
-5. Import from the goal library or create a new goal.
-6. Select one or multiple targets from your target list. 
-7. Import from the goal library or create a new goal.
-8. Click Add. 
+4. Select a goal from your goal list. (You can add goals to your goal list by importing from the [goal library](../CarePlan/AddGoalsTargets.md/#goal-library), or adding a custom goal.)
+5. Import from the [target library](../CarePlan/AddGoalsTargets.md/#target-library) or add a custom target.
+6. Select one or multiple targets from your target list.
+7. Click Add. 
 
 [Demo video: Add a Goal and Targets to a Care Plan](https://youtu.be/_DCx4QZ3VQA "Title")
 
 ## Add Targets to an Existing Goal  
 
-1. On the Care Plan, click on a goal. 
+1. On a Care Plan, click on a goal. 
 2. Click the + icon in the bottom right corner.
-3. Select one or multiple targets from your target list.
-4. Import from the goal library or create a new goal.
+3. Import from the [target library](../CarePlan/AddGoalsTargets.md/#target-library) or add a custom target.
+4. Select one or multiple targets from your target list.
 5. Click Add.
 
 The new targets will appear on the goal details page and in the future tab of the learner's care plan. 
 
-## Configure Targets
+## Goal Library
+<img src="/img/GoalLibrary.png" width="400" />
 
-Configure the target so that your team can address it in sessions. 
+1. On a Care Plan, click the + button in the bottom right corner. 
+2. Choose a domain. 
+3. Choose a subdomain. 
+4. Select Browse Goal Library. 
+5. Select one or multiple goals from the goal library. 
+6. Click OK.
 
-1. Click Edit on the Configurations tab of the target.
-2. Click into the fields you want to edit and make the changes.
-5. Click OK in the top right corner to save. 
+The goals are now in your goal list. If you would like to add a goal to the care plan, select a goal and you will be brought to the target list page where you can choose to add the targets later or select the targets and click Add. 
 
-The target will turn from "Future - Unconfigured" to "Future," enabling you to add baseline data or start the target as baseline.
+## Target Library
+<img src="/img/TargetLibrary.png" width="400" />
+
+1. On a Care Plan, click the + button in the bottom right corner.
+2. Choose a domain. 
+3. Choose a subdomain. 
+4. Choose a goal. 
+5. Select Browse Target Library. 
+6. Select one or multiple targets from the target library. 
+7. You can view the target configuration by clicking the expand arrow. 
+8. Click OK. 
+
+The targets are now in your target list. If you would like to add a target to the care plan, select the target and click Add. 
+
+[Demo video: How to Import a Target from the Target Library](https://youtu.be/WljxFiuNxCU "Title")
+
+## Default Configuration
+
+This feature gives you the ability to configure targets once and reuse them across all your learners without having to configure them each time. 
+
+<img src="/img/TargetList.png" width="400" />
+
+1. Click on a goal.
+2. Click the + button in the bottom right corner. 
+3. Click Edit in the top right corner. 
+4. Click on the arrow of a target you want to create the default configuration.
+5. Fill out the fields.
+6. Click OK to save.  
+
+The configuration for that target is now saved. You can view the configuration details of every target by clicking on the expand arrow and can always click Edit to go back and edit the configurations.  
+
+The configuration will only be saved and applied to the target if it’s configured in the target list, not in a learner’s care plan.  
+
+If you want to make a change that’s specific to the learner, you would make the change in the learners care plan.  
 
 :::note
-Configuring a target clearly and completely is the best way to equip the behavior technician with the information they need to properly support the learner.
-If you'd like to set up basic configurations just to start the target, and return to fill in other information at a later point, only the following configurations are required in order to start the target:
-- Form of measure
-- Minimum/expected trials (for forms of measure that offer trials)
-- Intervention techniques (at least one per target)
-- Mastery Criteria
+The changes you make in the target list, only affect the targets in your list. They do not affect targets in the target library and the targets already in learner’s care plans. 
+
+Therefore, if the target was added to a care plan in the past, those care plan targets will not be updated.  
 :::
 
-[Demo video: Configure a DTT Target](https://youtu.be/wXIP3G3D7xo "Title")
+[Demo video: How to Create Default Configurations for Targets](https://youtu.be/4faN4a3Ar8U "Title")
 
-[Demo video: Configure a Task Analysis Target](https://youtu.be/nvwfwzbUzCw "Title")
+## Edit Target List 
 
-[Demo video: Configure a Count Target](https://youtu.be/4bu7Z_nAeWI "Title")
+The target list is comprised of custom and library targets. You can quickly delete or rename targets in your list.  
 
-[Clinical walk-through video: Intervention Techniques](https://youtu.be/hbgzYZDCsVA)
+1. Click on a goal. 
+2. Click the + button in the bottom right corner.
+3. Click Edit on the Target List page. 
+4. Delete a target by clicking the delete button or click on a target to rename it. 
+5. You can click on the arrow to create or edit the default configuration.
+6. Click OK to save your changes.
 
-## Clone a Target
-
-1. On the Care Plan, click on a configured target.
-2. Click the 3 dots icon in the top right corner.
-3. Click Clone.
-4. Select how many copies of the target you'd like.
-5. Click Clone Target.
-
-The copies will be parented under the same goal/subdomain/domain, and the same learner's care plan. 
 
 ### See also
 - [Care Plan Setup](CarePlan/CarePlanSetup.md)
-- [Edit and Remove Goals and Targets](CarePlan/EditRemoveGoalsTargets.md)
-- [Goal and Target Libraries](CarePlan/GoalTargetLibraries.md)
-- [Default Configuration](CarePlan/DefaultConfiguration.md)
+- [Configure Targets](CarePlan/ConfigureTargets.md)
 - [Start Targets and Objectives](../CarePlan/StartTargetsObjectives.md)
 - [Target Phases](CarePlan/TargetPhases.md)
+- [Edit and Remove Goals and Targets](CarePlan/EditRemoveGoalsTargets.md)
+

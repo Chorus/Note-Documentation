@@ -12,7 +12,7 @@ The Y axis labels change based on the form of measure and the X axis displays th
 The filter, in the top right corner, can be used to view data points collected by a specific provider on the graph. 
 
 :::note
-When there are multiple data points collected on the same day, for targets with a form of measure that scores as a percentage, the average of the scores will be plotted on the graph. For targets with a form of measure that scores as a count, the sum of the scores will be plotted on the graph.
+When there are multiple data points collected on the same day, for targets with a form of measure that scores as a percentage, or that measure the average duration/rate, the average of the scores will be plotted on the graph. For targets with a form of measure that scores as a count, or that measure the total duration, the sum of the scores will be plotted on the graph. 
 :::
 
 ## Add Data to Graph
@@ -36,6 +36,20 @@ Condition change lines (dashed, vertical lines separating the data-paths on each
 ## Phase Changes
 
 Phase change lines (solid, vertical lines separating the data-paths on each side of the line) are added to the graph automatically when a [target's phase is updated](../CarePlan/TargetPhases/#change-a-targets-phase). 
+
+## Prompt Changes- coming soon!
+
+Prompt change lines (dashed, vertical lines separating the data-paths on each side of the line) are added to the graph when the active prompt level for a target with [Across Session Prompt Fading](../CarePlan/FormsOfMeasure.md/#prompting-workflows---coming-soon) is faded. 
+
+With autofade on, targets automatically advance to the next prompt level after the learner meets the minimum score (and the minimum trials were collected) for the set number of consecutive sessions.
+
+If the final prompt level in the sequence is mastered, it will fade to Independent.
+
+If you did not set your prompt levels to auto-fade, or would like to fade a prompt level before it has reached mastery criteria, you can change the active prompt level manually:
+1. Open a target.
+2. Click the 3 dots icon in the top right corner.
+3. Click Fade prompt level.
+4. Click Fade to confirm.
 
 ## Target History
 

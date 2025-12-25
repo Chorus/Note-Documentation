@@ -40,7 +40,7 @@ Baseline targets can be activated once there is baseline data collected.
 3. Confirm by clicking Activate.
 
 ### See also
-- [Add Goals and Targets](../CarePlan/AddGoalsTargets.md)
-- [Configure Targets](../CarePlan/AddGoalsTargets.md/#configure-targets)
-- [Target Phases](../CarePlan/TargetPhases.md)
-- [Start Session](../Session/StartSession.md)
+- [Add Goals and Targets](CarePlan/AddGoalsTargets.md)
+- [Configure Targets](CarePlan/ConfigureTargets.md)
+- [Target Phases](CarePlan/TargetPhases.md)
+- [Start Session](Session/StartSession.md)
