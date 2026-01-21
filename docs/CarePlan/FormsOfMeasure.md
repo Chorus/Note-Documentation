@@ -32,6 +32,8 @@ If the learner responds correctly without prompts, the behavior technician can c
 
 If the minimum number of trials set in the target configuration is not collected, the score will not be plotted on the graph. An orange * will appear to indicate that the minimum trial criteria has not been met.
 
+[Tutorial: How to collect data on a target with a prompting workflow](https://www.youtube.com/shorts/rP6MNaoxUtE)
+
 ### Task Analysis
 Behavior technicians can collect data on *task analysis* targets from the [target card](../DataCollection/DataCollectionTargetCard.md) by selecting Yes/No based on the learner's demonstration of each step within a sequence of steps that constitutes a trial/skill.
 

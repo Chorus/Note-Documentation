@@ -55,7 +55,7 @@ To configure a [prompting workflow](../CarePlan/FormsOfMeasure.md/#prompting-wor
 
 [Learn more about prompt changes.](../CarePlan/Graphs.md/#prompt-changes)
 
-Coming Soon! Tutorial: How to set up a Prompting Workflow
+[Tutorial: How to set up a Prompting Workflow](https://youtu.be/EOQg0Y3lNHQ)
 
 
 ## Clone a Target

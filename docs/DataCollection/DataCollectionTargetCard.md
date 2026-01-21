@@ -21,6 +21,8 @@ Click the X button to go back to the target list.
 
 [Tutorial: Data Collection on Target List and Target Card](https://youtu.be/-wdmkUeijpY "Title")
 
+[Tutorial: Prompt Data Collection](https://www.youtube.com/shorts/rP6MNaoxUtE)
+
 ### See also
 - [Data Collection on Target List](DataCollection/DataCollectionOnTargetList.md)
 - [Edit Data After the Session](DataCollection/EditDataAfterSession.md)
