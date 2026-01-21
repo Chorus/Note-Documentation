@@ -9,7 +9,7 @@ New to Note? We've got you covered! Here's a quick start to adding, configuring,
 1. First, learn about how a Note care plan is structured: [Care Plan Structure](CarePlan/CarePlanSetup.md/#care-plan-structure)
 2. Next, you can add your first target.
     - [Add Goals and Targets](CarePlan/AddGoalsTargets.md)
-    - [Demo video: Add a Goal and Targets to a Care Plan](https://youtu.be/_DCx4QZ3VQA "Title")
+    - [Tutorial: Add a Goal and Targets to a Care Plan](https://youtu.be/_DCx4QZ3VQA "Title")
 3. After that, you'll need to configure the target. Don't forget to check out which configurations are required!
     - [Configure Targets](CarePlan/ConfigureTargets.md)
     - [Forms of Measure](CarePlan/FormsOfMeasure.md)

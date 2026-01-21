@@ -25,7 +25,7 @@ You can view the number of sessions, number of distinct targets, and average num
 
 Click on a target on the activity report to access the target details page and make the relevant modifications. Click back to return to the activity report.
 
-[Demo video: Viewing the Activity Report](https://youtu.be/MltVclMUltI "Title")
+[Tutorial: Viewing the Activity Report](https://youtu.be/MltVclMUltI "Title")
 
 ### See also
 - [Graphs](CarePlan/Graphs.md)

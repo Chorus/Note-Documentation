@@ -12,7 +12,9 @@ A percent score is calculated based on correct trials out of total trials.
 
 If the minimum number of trials set in the target configuration is not collected, the score will not be plotted on the graph. An orange * will appear to indicate that the minimum trial criteria has not been met.
 
-#### Prompting Workflows *- coming soon!*
+#### Prompting Workflows
+**Coming Soon!**
+
 Behavior technicians can collect data on percent correct targets with a *prompting workflow* from the [target card](../DataCollection/DataCollectionTargetCard.md). 
 
 Depending on the type of prompt fading, the behavior technician will either select from available prompt levels, or use the active prompt level for the target. The target card displays the prompt delay, prompt level name, and prompt description to help the behavior technician deliver the prompt properly.
@@ -24,7 +26,7 @@ If the learner responds correctly without prompts, the behavior technician can c
 
 - **Across Session** Prompt Fading: The behavior technician should support the learner with the active prompt level. 
     - The BCBA determines the prompt level order, and each level serves as the active prompt until the learner masters it.
-    - Once a prompt level is mastered, the graph will display a [prompt change line](../CarePlan/Graphs.md/#prompt-changes--coming-soon) indicating when the prompt level changed.
+    - Once a prompt level is mastered, the graph will display a [prompt change line](../CarePlan/Graphs.md/#prompt-changes) indicating when the prompt level changed.
     - Once all prompt levels set by the BCBA have been faded, only "Independent" and "No" will show during data collection.
     - A percent score is calculated based on independent and prompted trials out of total trials.
 

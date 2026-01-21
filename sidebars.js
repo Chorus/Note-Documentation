@@ -45,7 +45,7 @@ module.exports = {
       'Settings/ModifyPIN'
     ],
         'Release Notes':[
-          
+                'Release Notes/2.0.0',
       'Release Notes/1.4.31',
       'Release Notes/1.4.25',
                 'Release Notes/1.4.20',

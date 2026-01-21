@@ -27,7 +27,7 @@ There are two ways to add targets to a goal in a learner's care plan.
 6. Select one or multiple targets from your target list.
 7. Click Add. 
 
-[Demo video: Add a Goal and Targets to a Care Plan](https://youtu.be/_DCx4QZ3VQA "Title")
+[Tutorial: Add a Goal and Targets to a Care Plan](https://youtu.be/_DCx4QZ3VQA "Title")
 
 ## Add Targets to an Existing Goal  
 
@@ -65,7 +65,7 @@ The goals are now in your goal list. If you would like to add a goal to the care
 
 The targets are now in your target list. If you would like to add a target to the care plan, select the target and click Add. 
 
-[Demo video: How to Import a Target from the Target Library](https://youtu.be/WljxFiuNxCU "Title")
+[Tutorial: How to Import a Target from the Target Library](https://youtu.be/WljxFiuNxCU "Title")
 
 ## Default Configuration
 
@@ -92,7 +92,7 @@ The changes you make in the target list, only affect the targets in your list. T
 Therefore, if the target was added to a care plan in the past, those care plan targets will not be updated.  
 :::
 
-[Demo video: How to Create Default Configurations for Targets](https://youtu.be/4faN4a3Ar8U "Title")
+[Tutorial: How to Create Default Configurations for Targets](https://youtu.be/4faN4a3Ar8U "Title")
 
 ## Edit Target List 
 

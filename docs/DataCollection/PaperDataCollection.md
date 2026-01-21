@@ -15,7 +15,7 @@ The file name is Paper Data - Provider Name - Learner Initials - yyyy-MM-dd_HH-m
 
 Targets are categorized by form of measure, phase, and then domain, subdomain, and goal. 
 
-[Demo video: Export PDF for Paper Data Collection](https://youtu.be/jd4hjoBg43w/ "Title")
+[Tutorial: Export PDF for Paper Data Collection](https://youtu.be/jd4hjoBg43w/ "Title")
 
 ### See also
 - [Data Collection on Target List](../DataCollection/DataCollectionOnTargetList.md)

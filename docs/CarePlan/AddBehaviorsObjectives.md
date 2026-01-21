@@ -14,7 +14,7 @@ You can quickly add one or multiple problem behaviors to a learner's care plan.
 
 The behavior is now added to the care plan. Configure a behavior by selecting a behavior and tapping “Configure” or Edit.  
 
-[Demo video: Add and Configure a Behavior](https://youtu.be/Vz2NDfgoR-Y "Title")
+[Tutorial: Add and Configure a Behavior](https://youtu.be/Vz2NDfgoR-Y "Title")
 
 ## Add an Objective 
 
@@ -33,7 +33,7 @@ An objective is the way the BCBA measures the behavior. A behavior needs to have
 
 This will allow you to have multiple forms of measure for a behavior at the same time. 
 
-[Demo video: Add and Configure a Behavior](https://youtu.be/Vz2NDfgoR-Y "Title")
+[Tutorial: Add and Configure a Behavior](https://youtu.be/Vz2NDfgoR-Y "Title")
 
 ### See also
 - [Configure Targets and Objectives](CarePlan/ConfigureTargets.md)
