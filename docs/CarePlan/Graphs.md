@@ -37,9 +37,11 @@ Condition change lines (dashed, vertical lines separating the data-paths on each
 
 Phase change lines (solid, vertical lines separating the data-paths on each side of the line) are added to the graph automatically when a [target's phase is updated](../CarePlan/TargetPhases/#change-a-targets-phase). 
 
-## Prompt Changes- coming soon!
+## Prompt Changes
 
-Prompt change lines (dashed, vertical lines separating the data-paths on each side of the line) are added to the graph when the active prompt level for a target with [Across Session Prompt Fading](../CarePlan/FormsOfMeasure.md/#prompting-workflows---coming-soon) is faded. 
+**Coming Soon!**
+
+Prompt change lines (dashed, vertical lines separating the data-paths on each side of the line) are added to the graph when the active prompt level for a target with [Across Session Prompt Fading](../CarePlan/FormsOfMeasure.md/#prompting-workflows) is faded. 
 
 With autofade on, targets automatically advance to the next prompt level after the learner meets the minimum score (and the minimum trials were collected) for the set number of consecutive sessions.
 

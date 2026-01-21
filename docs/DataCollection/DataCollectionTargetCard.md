@@ -19,7 +19,7 @@ If you want to see more information about the target, you can click on the instr
 
 Click the X button to go back to the target list.
 
-[Demo video: Data Collection on Target List and Target Card](https://youtu.be/-wdmkUeijpY "Title")
+[Tutorial: Data Collection on Target List and Target Card](https://youtu.be/-wdmkUeijpY "Title")
 
 ### See also
 - [Data Collection on Target List](DataCollection/DataCollectionOnTargetList.md)

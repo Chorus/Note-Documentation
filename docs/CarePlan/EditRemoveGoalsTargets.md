@@ -86,7 +86,7 @@ You can remove a target from a learner's care plan if the target has no data col
 
 In case you want to remove a target that has data, you can deactivate the targets by [changing the phase](../CarePlan/TargetPhases.md/#change-a-targets-phase) to Deactivated. A goal that only has deactivated targets will be displayed in the past tab. 
 
-[Demo video: Add a Goal and Targets to a Care Plan](https://youtu.be/_DCx4QZ3VQA "Title")
+[Tutorial: Add a Goal and Targets to a Care Plan](https://youtu.be/_DCx4QZ3VQA "Title")
 
 ### See also
 - [Add Goals and Targets](CarePlan/AddGoalsTargets.md)

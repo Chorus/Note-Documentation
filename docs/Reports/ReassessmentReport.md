@@ -17,7 +17,7 @@ The report will be exported as a Word document on a device with Word installed. 
 
 A saved report can be opened in Google Docs. 
 
-[Demo video: How to Generate a Reassessment Report](https://youtu.be/GokNJN8PvQo "Title")
+[Tutorial: How to Generate a Reassessment Report](https://youtu.be/GokNJN8PvQo "Title")
 
 ## Assessment Data
 

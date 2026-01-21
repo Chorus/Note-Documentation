@@ -51,7 +51,7 @@ You can undo this action by clicking Undo on the session details screen and the 
 
 You cannot cancel sessions scheduled by your organization. Contact your organization to cancel such sessions.
 
-[Demo video: Create and Manage a Session ](https://youtu.be/xES-ni3GvLQ/ "Title")
+[Tutorial: Create and Manage a Session ](https://youtu.be/xES-ni3GvLQ/ "Title")
 
 ### See also
 - [Session List](Session/SessionList.md)
