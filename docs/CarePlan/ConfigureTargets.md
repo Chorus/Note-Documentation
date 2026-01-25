@@ -30,8 +30,6 @@ If you'd like to set up basic configurations just to start the target, and retur
 
 ### Configure a Prompting Workflow on a Target
 
-**Coming Soon!**
-
 To configure a [prompting workflow](../CarePlan/FormsOfMeasure.md/#prompting-workflows) on a percent correct target:
 
 1. Click Edit on the Configurations tab of the percent correct target.

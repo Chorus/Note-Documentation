@@ -13,7 +13,6 @@ A percent score is calculated based on correct trials out of total trials.
 If the minimum number of trials set in the target configuration is not collected, the score will not be plotted on the graph. An orange * will appear to indicate that the minimum trial criteria has not been met.
 
 #### Prompting Workflows
-**Coming Soon!**
 
 Behavior technicians can collect data on percent correct targets with a *prompting workflow* from the [target card](../DataCollection/DataCollectionTargetCard.md). 
 
