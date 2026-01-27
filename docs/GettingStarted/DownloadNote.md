@@ -28,9 +28,8 @@ Proceed to [Account Setup](GettingStarted/AccountSetUp.md) if you are downloadin
 
 ### Windows PCs
 
-1. **[Click here](https://choruscdn.blob.core.windows.net/notefiles/NoteUWP/Chorus.Note.UWP.appinstaller)** to download Note on your PC.
+1. **[Click here](https://choruscdn.blob.core.windows.net/notefiles/NoteUWP/Chorus.Note.appinstaller)** to download Note on your PC.
 2. Open the download. Click **Install**. 
-    - The installer may finish with "Note Installation Failed." If so, open the download again and click Install again- the installation will complete this time.
 3. Note will open once the installation completes. Close Note, and open it through the **Confirm Account** button in the 'Welcome to Note' email you received from your organization. 
     - After Note is launched, you can pin it to your taskbar for easy access.
 4.	Follow the instructions to set up your password and pin.
@@ -55,23 +54,11 @@ Keep Note updated to the latest version for new features and fixes! Update to ve
 
 ### Windows PCs
 
-import ReactPlayer from 'react-player';
-import myVideo from '/InstallNoteonPC.mp4'
-
-<ReactPlayer playing='false' muted='true' controls url={myVideo} />
--
-To manually update Note on your PC, watch the tutorial and follow the instructions below.
-
-
-1. **[Click here](https://chorusdevs2.sharepoint.com/:f:/s/NOTEDesktop/Euayhwtzf9lJqh4Kni2KnHYBvmwgTCEQQTvRtMjLFRjqdg?e=XCTNPo)** to access the latest Note update. Press **Download**. 
+1. Close Note on your PC.
+2. **[Click here](https://choruscdn.blob.core.windows.net/notefiles/NoteUWP/Chorus.Note.appinstaller)** to download Note on your PC.
     - Before proceeding, check if you have an open [Assessment Report](../Reports/ReassessmentReport.md) generated from Note that has not been saved to a local folder on your PC. Save the file to a local folder before continuing.
-2. Open the downloaded folder and press **Extract All** to unzip it.
-3. Open the unzipped folder. Select "full-install.bat", then right click on it and click **Run as Administrator**.
-4. If prompted by Windows, press **More Info** and **Run Anyway**.
-5. When prompted, allow the app to make changes to your device.
-6. If prompted by Windows Powershell, type R, press enter, then type Y and press enter to allow the installer to run.
-7. Wait for the installer to complete the update.
-
+3. Open the download. Click **Install**. 
+4. Sign into Note with your email/password or pin.
 
 :::note
 If Note was installed on your PC after 3/18/2025, Note will update automatically. If Note was installed on your PC prior to 3/18/2025, you can enable automatic updates by reinstalling Note on your PC.
