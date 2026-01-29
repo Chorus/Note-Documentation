@@ -7,7 +7,7 @@ On the Settings page, you can:
 - View when your account last synced.
 - Manually sync your account.
 - Access this Documentation site through the “Help Center” button.
-- Check that you are using the most updated version of the app (2.0.1).
+- Check that you are using the most updated version of the app (2.0.2).
 - Sign out of your account.
 
 ## Sync

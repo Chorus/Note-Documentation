@@ -38,7 +38,7 @@ Note will automatically update on your PC each time an updated version of Note i
 
 ## Update Note
 
-Keep Note updated to the latest version for new features and fixes! Update to version 2.0.1.
+Keep Note updated to the latest version for new features and fixes! Update to version 2.0.2.
 
 ### Mobile Devices
 
