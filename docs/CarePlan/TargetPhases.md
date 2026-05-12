@@ -16,6 +16,8 @@ To keep the care plan organized, every target has a phase. You can see the phase
 
 **Active:** Targets that are being taught to the learner and are displayed in direct care sessions.  
 
+**Generalization**: Targets that are being generalized across settings, timings, people, etc. and are displayed in direct care sessions.
+
 **Maintenance:** Targets that are being practiced by the learner after the teaching is over and are displayed in direct care sessions.  
 
 **Mastered:** Targets that have been mastered and are not displayed in direct care sessions. 

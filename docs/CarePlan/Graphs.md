@@ -26,11 +26,12 @@ Data points can be added to the graph if the target is at an in-progress phase (
 
 ## Condition Changes
 
-Condition change lines (dashed, vertical lines separating the data-paths on each side of the line) can be added to the graph if the target is at an in-progress phase (Baseline, Active, or Maintenance).
+Condition change lines (dashed, vertical lines separating the data-paths on each side of the line) can be added to one or all graphs at an in-progress phase (Baseline, Active, or Maintenance).
 
 1. Open a target.
 2. Click Add condition change.
 3. Enter the label of the condition change and the date.
+4. To apply to all targets and behaviors, toggle "Apply to all graphs" on.
 4. Click OK to save.
 
 ## Phase Changes
