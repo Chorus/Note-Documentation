@@ -49,6 +49,8 @@ Task analysis steps are limited to 30 characters, allowing behavior technicians 
 ### Count 
 Behavior technicians can collect data on *count* (frequency) targets from the [target list](../DataCollection/DataCollectionOnTargetList.md) or the [target card](../DataCollection/DataCollectionTargetCard.md) by selecting Add Count based on the learner's demonstration of the targeted skill.
 
+If a targeted skill was not demonstrated, behavior technicians can score the target as a Zero on the target card.
+
 ### Duration
 
 Behavior technicians can collect data *duration* targets by starting a timer at the onset of when the learner demonstrates the defined skill. You can pause, resume and stop the timer as necessary.
