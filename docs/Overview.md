@@ -49,7 +49,7 @@ You can also change your pin here.
 
 [Tutorial: A General Overview of Note](https://youtu.be/Xx5BNRdVPRE "Title")
 
-Watch all [Note Support Videos.](https://www.youtube.com/channel/UC4N8PexvVoFjGOzuuqNoNfA/videos "Title")
+Watch all [Note Tutorials](https://www.youtube.com/channel/UC4N8PexvVoFjGOzuuqNoNfA/videos "Title").
 
 ### See also
 - [Session List](Session/SessionList.md)
